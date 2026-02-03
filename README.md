@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me :
 🎓 Computer Science Student<br>👨‍💻  Currently focusing on Python, HTML, CSS, Django
 
 
@@ -18,4 +18,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=TajkirHossen-14&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
