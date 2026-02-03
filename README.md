@@ -1,5 +1,5 @@
 # 💫 About Me :
-🎓 Computer Science Student<br>👨‍💻  Currently focusing on Python, HTML, CSS, Django
+🎓 Computer Science Student<br>👨‍💻  Currently focusing on Python, HTML, CSS
 
 
 ## 🌐 Socials:
