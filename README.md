@@ -3,7 +3,8 @@
 
 
 ## 🌐 Socials :
-<a href="https://facebook.com/tajkirhossen.14"><img src="https://skillicons.dev/icons?i=facebook" width="35"/> </a><a href="https://instagram.com/_tajkir.hossen_"><img src="https://skillicons.dev/icons?i=instagram" width="35"/> </a>
+<a href="https://facebook.com/tajkirhossen.14"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="35"/> </a>
+<a href="https://instagram.com/_tajkir.hossen_"><img src="https://skillicons.dev/icons?i=instagram" width="35"/> </a>
 <a href="https://linkedin.com/in/kazi-tajkir-hossen"><img src="https://skillicons.dev/icons?i=linkedin" width="35"/> </a>
 <a href="https://x.com/TajkirHossen14"><img src="https://skillicons.dev/icons?i=twitter" width="35"/> </a>
 <a href="mailto:tajkirhossen.14@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="35"/></a>
