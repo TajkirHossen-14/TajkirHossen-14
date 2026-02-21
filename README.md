@@ -1,4 +1,4 @@
-# Hi👋🏼,  I'm Tajkir 
+# Hi👋🏼, &nbsp;&nbsp;&nbsp; I'm &nbsp;&nbsp;&nbsp; Tajkir
 🎓 Computer Science Student<br>👨‍💻  Currently Focusing on Python, HTML & CSS
 
 
