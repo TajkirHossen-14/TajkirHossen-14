@@ -10,15 +10,7 @@
 <a href="mailto:tajkirhossen.14@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="35"/></a>
 
 ## 💻 Tech Stack :
-<img src="https://skillicons.dev/icons?i=c" width="35"/> <img src="https://skillicons.dev/icons?i=cpp" width="35"/>
-<img src="https://skillicons.dev/icons?i=python" width="35"/>
-<img src="https://skillicons.dev/icons?i=html" width="35"/>
-<img src="https://skillicons.dev/icons?i=css" width="35"/>
-<img src="https://skillicons.dev/icons?i=mysql" width="35"/>
-<img src="https://skillicons.dev/icons?i=git" width="35"/>
-<img src="https://skillicons.dev/icons?i=github" width="35"/>
-<img src="https://skillicons.dev/icons?i=vscode" width="35"/>
-<img src="https://skillicons.dev/icons?i=latex" width="35"/>
+<img src="https://skillicons.dev/icons?i=c" width="35"/> <img src="https://skillicons.dev/icons?i=cpp" width="35"/> <img src="https://skillicons.dev/icons?i=python" width="35"/> <img src="https://skillicons.dev/icons?i=html" width="35"/> <img src="https://skillicons.dev/icons?i=css" width="35"/> <img src="https://skillicons.dev/icons?i=mysql" width="35"/> <img src="https://skillicons.dev/icons?i=github" width="35"/> <img src="https://skillicons.dev/icons?i=vscode" width="35"/> <img src="https://skillicons.dev/icons?i=latex" width="35"/>
 
 ## 📊 GitHub Stats :
 <picture>
