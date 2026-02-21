@@ -1,4 +1,4 @@
-# <h1>Hi👋🏼, &nbsp; I'm &nbsp; Tajkir</h1>
+# Hi👋🏼,  I'm  Tajkir 
 🎓 Computer Science Student<br>👨‍💻  Currently Focusing on Python, HTML & CSS
 
 
