@@ -1,4 +1,4 @@
-# Hi <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media.giphy.com/media/Cai3JFHMdEmXm/giphy.gif)" width="30"/>, I'm Tajkir 
+# Hi 👋🏼,  I'm Tajkir 
 🎓 Computer Science Student<br>👨‍💻  Currently Focusing on Python, HTML & CSS
 
 
