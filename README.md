@@ -3,11 +3,11 @@
 
 
 ## 🌐 Socials :
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=Facebook&logoColor=white)](https://facebook.com/tajkirhossen.14)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white)](https://instagram.com/_tajkir.hossen_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/kazi-tajkir-hossen)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=plastic&logo=X&logoColor=white)](https://x.com/TajkirHossen14)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:tajkirhossen.14@gmail.com)
+<a href="https://facebook.com/tajkirhossen.14"><img src="https://skillicons.dev/icons?i=facebook" width="40"/></a>
+<a href="https://instagram.com/_tajkir.hossen_"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
+<a href="https://linkedin.com/in/kazi-tajkir-hossen"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+<a href="https://x.com/TajkirHossen14"><img src="https://skillicons.dev/icons?i=twitter" width="40"/></a>
+<a href="mailto:tajkirhossen.14@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
 
 ## 💻 Tech Stack :
 [![Tech Stack](https://skillicons.dev/icons?i=c,cpp,python,html,css,mysql,github,vscode,latex&size=30)](https://skillicons.dev)
