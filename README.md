@@ -10,8 +10,7 @@
 <a href="mailto:tajkirhossen.14@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
 
 ## 💻 Tech Stack :
-<img src="https://skillicons.dev/icons?i=c" width="35"/>
-<img src="https://skillicons.dev/icons?i=cpp" width="35"/>
+<img src="https://skillicons.dev/icons?i=c" width="35"/> <img src="https://skillicons.dev/icons?i=cpp" width="35"/>
 <img src="https://skillicons.dev/icons?i=python" width="35"/>
 <img src="https://skillicons.dev/icons?i=html" width="35"/>
 <img src="https://skillicons.dev/icons?i=css" width="35"/>
