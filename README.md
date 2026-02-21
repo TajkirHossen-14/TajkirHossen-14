@@ -10,8 +10,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:tajkirhossen.14@gmail.com)
 
 ## 💻 Tech Stack :
-<img src="https://skillicons.dev/icons?i=c" width="35"/>
-&nbsp;<img src="https://skillicons.dev/icons?i=cpp" width="35"/>&nbsp;<img src="https://skillicons.dev/icons?i=python" width="35"/>&nbsp;<img src="https://skillicons.dev/icons?i=html" width="35"/>&nbsp;<img src="https://skillicons.dev/icons?i=css" width="35"/>&nbsp;<img src="https://skillicons.dev/icons?i=mysql" width="35"/>&nbsp;<img src="https://skillicons.dev/icons?i=git" width="35"/>&nbsp;<img src="https://skillicons.dev/icons?i=github" width="35"/>&nbsp;<img src="https://skillicons.dev/icons?i=vscode" width="35"/>&nbsp;<img src="https://skillicons.dev/icons?i=latex" width="35"/>
+<img src="https://skillicons.dev/icons?i=c" width="35"/><img src="https://skillicons.dev/icons?i=cpp" width="35"/><img src="https://skillicons.dev/icons?i=python" width="35"/><img src="https://skillicons.dev/icons?i=html" width="35"/><img src="https://skillicons.dev/icons?i=css" width="35"/><img src="https://skillicons.dev/icons?i=mysql" width="35"/><img src="https://skillicons.dev/icons?i=git" width="35"/><img src="https://skillicons.dev/icons?i=github" width="35"/><img src="https://skillicons.dev/icons?i=vscode" width="35"/><img src="https://skillicons.dev/icons?i=latex" width="35"/>
 
 ## 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=TajkirHossen-14&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
