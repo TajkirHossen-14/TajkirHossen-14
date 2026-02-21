@@ -1,4 +1,4 @@
-### 💫 About Me :
+# Hi👋🏼,  I'm Tajkir 
 🎓 Computer Science Student<br>👨‍💻  Currently Focusing on Python, HTML & CSS
 
 
