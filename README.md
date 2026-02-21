@@ -1,4 +1,4 @@
-# <h1 style="letter-spacing: 12px;">Hi👋🏼, I'm Tajkir</h1> 
+# <h1 style="letter-spacing: 20px;">Hi👋🏼, I'm Tajkir</h1> 
 🎓 Computer Science Student<br>👨‍💻  Currently Focusing on Python, HTML & CSS
 
 
