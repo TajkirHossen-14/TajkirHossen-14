@@ -10,7 +10,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:tajkirhossen.14@gmail.com)
 
 ## 💻 Tech Stack :
-[![Tech Stack](https://skillicons.dev/icons?i=c,cpp,python,html,css,mysql,github,vscode,latex)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=c,cpp,python,html,css,mysql,github,vscode,latex&size=30)](https://skillicons.dev)
 ## 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=TajkirHossen-14&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=TajkirHossen-14&theme=dark&hide_border=false)<br/>
