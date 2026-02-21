@@ -1,4 +1,4 @@
-## 💫 About Me :
+### 💫 About Me :
 🎓 Computer Science Student<br>👨‍💻  Currently Focusing on Python, HTML & CSS
 
 
