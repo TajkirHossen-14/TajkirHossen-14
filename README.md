@@ -16,3 +16,4 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=TajkirHossen-14&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TajkirHossen-14&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![Snake animation](https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/output/github-contribution-grid-snake-dark.svg)
