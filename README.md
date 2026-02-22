@@ -33,3 +33,5 @@
 </picture>
 
 ![Snake animation](https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/output/github-contribution-grid-snake-dark.svg)
+
+![Pacman animation](https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/output/github-contribution-grid-pacman-dark.svg)
