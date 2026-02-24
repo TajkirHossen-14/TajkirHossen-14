@@ -12,9 +12,6 @@
 ## 💻 Tech Stack 
 <img src="https://skillicons.dev/icons?i=c" width="35"/> <img src="https://skillicons.dev/icons?i=cpp" width="35"/> <img src="https://skillicons.dev/icons?i=python" width="35"/> <img src="https://skillicons.dev/icons?i=html" width="35"/> <img src="https://skillicons.dev/icons?i=css" width="35"/> <img src="https://skillicons.dev/icons?i=mysql" width="35"/> <img src="https://skillicons.dev/icons?i=github" width="35"/> <img src="https://skillicons.dev/icons?i=vscode" width="35"/> <img src="https://skillicons.dev/icons?i=latex" width="35"/>
 
-## 📈 GitHub Activity
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TajkirHossen-14&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## 📊 GitHub Stats 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TajkirHossen-14&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
@@ -34,5 +31,8 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TajkirHossen-14&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TajkirHossen-14&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </picture>
+
+## 📈 GitHub Activity
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TajkirHossen-14&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Snake animation](https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/output/github-contribution-grid-snake-dark.svg)
