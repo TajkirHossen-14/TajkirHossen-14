@@ -34,6 +34,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TajkirHossen-14&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=TajkirHossen-14&theme=onestar&no-frame=true&no-bg=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=TajkirHossen-14&theme=flat&no-frame=true"/>
+</picture>
+
 ## 📈 GitHub Activity
 [![Tajkir's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TajkirHossen-14&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
