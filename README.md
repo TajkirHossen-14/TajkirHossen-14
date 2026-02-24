@@ -16,21 +16,12 @@
 
 ## 📊 GitHub Stats 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TajkirHossen-14&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=TajkirHossen-14&theme=default&hide_border=false&include_all_commits=false&count_private=false"/>
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=TajkirHossen-14&theme=dark&hide_border=false"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=TajkirHossen-14&theme=dark&hide_border=true&background=0d1117"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=TajkirHossen-14&theme=default&hide_border=false"/>
 </picture>
-
 <br/>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TajkirHossen-14&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TajkirHossen-14&theme=dark&hide_border=true&bg_color=0d1117&include_all_commits=false&count_private=false&layout=compact"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TajkirHossen-14&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </picture>
 
