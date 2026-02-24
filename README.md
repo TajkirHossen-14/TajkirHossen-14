@@ -33,6 +33,11 @@
 </picture>
 
 ## 📈 GitHub Activity
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TajkirHossen-14&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Tajkir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TajkirHossen-14&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Tajkir's GitHub stats](https://github-readme-stats.vercel.app/api?username=TajkirHossen-14&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TajkirHossen-14&layout=compact&theme=vision-friendly-dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TajkirHossen-14&theme=tokyonight)
+
 
 ![Snake animation](https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/output/github-contribution-grid-snake-dark.svg)
