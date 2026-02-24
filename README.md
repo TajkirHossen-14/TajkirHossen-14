@@ -1,4 +1,5 @@
 # Hi 👋🏼,  I'm Tajkir 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Student;Python+%7C+HTML+%7C+CSS+Learner;Always+Learning+New+Things!)](https://git.io/typing-svg)
 🎓 Computer Science Student<br>👨‍💻  Currently Focusing on Python, HTML & CSS
 
 
