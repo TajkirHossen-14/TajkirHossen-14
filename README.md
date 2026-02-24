@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Tajkir%20Hossen&fontSize=50&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋🏼%2C%20I'm%20Tajkir&fontSize=40&animation=fadeIn)
 
 # Hi 👋🏼,  I'm Tajkir 
 
