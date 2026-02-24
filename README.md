@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋🏼%2C%20I'm%20Tajkir&fontSize=43&animation=fadeIn)
 
-<img src="https://media4.giphy.com/media/ENY5vJgJPEfG3Ym14H/giphy.gif" width="200" align="right"/>
+<img src="https://media4.giphy.com/media/ENY5vJgJPEfG3Ym14H/giphy.gif" width="50" align="right"/>
 
 🎓 Computer Science Student<br>👨‍💻  Currently Focusing on Python, HTML & CSS
 
