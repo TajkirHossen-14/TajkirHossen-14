@@ -1,6 +1,5 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋🏼%2C%20I'm%20Tajkir&fontSize=40&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋🏼%2C%20I'm%20Tajkir&fontSize=43&animation=fadeIn)
 
-# Hi 👋🏼,  I'm Tajkir 
 
 🎓 Computer Science Student<br>👨‍💻  Currently Focusing on Python, HTML & CSS
 
