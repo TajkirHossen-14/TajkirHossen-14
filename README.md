@@ -13,7 +13,7 @@
 <a href="https://x.com/TajkirHossen14"><img src="https://skillicons.dev/icons?i=twitter" width="35"/> </a>
 
 ## 💻 Tech Stack 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,mysql,postgresql,python,html,css,git,github,vscode,latex" height="35"/>
+<img src="https://skillicons.dev/icons?i=c" width="35"/>_<img src="https://skillicons.dev/icons?i=cpp" width="35"/> <img src="https://skillicons.dev/icons?i=java" width="35"/> <img src="https://skillicons.dev/icons?i=mysql" width="35"/> <img src="https://skillicons.dev/icons?i=postgresql" width="35"/> <img src="https://skillicons.dev/icons?i=python" width="35"/> <img src="https://skillicons.dev/icons?i=html" width="35"/> <img src="https://skillicons.dev/icons?i=css" width="35"/> <img src="https://skillicons.dev/icons?i=git" width="35"/> <img src="https://skillicons.dev/icons?i=github" width="35"/> <img src="https://skillicons.dev/icons?i=vscode" width="35"/> <img src="https://skillicons.dev/icons?i=latex" width="35"/>
 
 ## 📊 GitHub Stats 
 <picture>
