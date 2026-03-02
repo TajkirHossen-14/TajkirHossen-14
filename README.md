@@ -13,7 +13,7 @@
 <a href="https://x.com/TajkirHossen14"><img src="https://skillicons.dev/icons?i=twitter" width="35"/> </a>
 
 ## 💻 Tech Stack 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,mysql,postgresql,python,html,css,git,github,vscode ,latex" height="35"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,mysql,postgresql,python,html,css,git,github,vscode,latex" height="35"/>
 
 ## 📊 GitHub Stats 
 <picture>
