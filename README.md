@@ -4,7 +4,6 @@
 
 · 🎓 Computer Science Student<br>· 👨‍💻  Currently Focusing on Python, HTML & CSS
 
-------
 
 ## 🌐 Socials 
 <a href="mailto:tajkirhossen.14@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="35"/> </a>
