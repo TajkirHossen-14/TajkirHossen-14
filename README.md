@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=113&section=header)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=111&section=header)
 
 # <h1 align="center">Hi 👋🏼, I'm Tajkir</h1> 
 
@@ -59,4 +59,4 @@
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=113&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=111&section=footer)
