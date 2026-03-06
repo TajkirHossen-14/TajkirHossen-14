@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=111&section=header)
 
-# <h1 align="center">Hi 👋🏼, I'm Tajkir</h1> 
+# <h1 align="center">· Hi 👋🏼, I'm Tajkir ·</h1> 
 
 <img src="https://media4.giphy.com/media/ENY5vJgJPEfG3Ym14H/giphy.gif" width="49" align="right"/>
 
