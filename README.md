@@ -7,6 +7,8 @@
 · 🎓 Computer Science Student<br>· 👨‍💻  Currently Focusing on Python, HTML & CSS
 
 
+<div align="center">
+
 ## 🌐 Socials 
 <a href="mailto:tajkirhossen.14@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="35"/> </a>
 <a href="https://facebook.com/tajkirhossen.14"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="35"/>  </a>
@@ -50,5 +52,7 @@
 
 
 ![𝗦𝗻𝗮𝗸𝗲 𝗔𝗻𝗶𝗺𝗮𝘁𝗶𝗼𝗻](https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=113&section=footer)
