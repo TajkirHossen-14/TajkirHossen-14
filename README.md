@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=111&section=header)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header)
 
 # <h1 align="center">•  Hi 👋🏼, I'm Tajkir  •</h1> 
 
@@ -56,4 +56,4 @@
 ![𝗦𝗻𝗮𝗸𝗲 𝗔𝗻𝗶𝗺𝗮𝘁𝗶𝗼𝗻](https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/output/github-contribution-grid-snake-dark.svg)
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=111&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer)
