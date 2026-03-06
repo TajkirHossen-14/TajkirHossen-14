@@ -18,22 +18,16 @@
 <img src="https://skillicons.dev/icons?i=c" width="35"/>.<img src="https://skillicons.dev/icons?i=cpp" width="35"/>.<img src="https://skillicons.dev/icons?i=java" width="35"/>.<img src="https://skillicons.dev/icons?i=mysql" width="35"/>.<img src="https://skillicons.dev/icons?i=postgresql" width="35"/>.<img src="https://skillicons.dev/icons?i=python" width="35"/>.<img src="https://skillicons.dev/icons?i=html" width="35"/>.<img src="https://skillicons.dev/icons?i=css" width="35"/>.<img src="https://skillicons.dev/icons?i=netlify" width="35"/>.<img src="https://skillicons.dev/icons?i=vercel" width="35"/>.<img src="https://skillicons.dev/icons?i=git" width="35"/>.<img src="https://skillicons.dev/icons?i=github" width="35"/>.<img src="https://skillicons.dev/icons?i=eclipse" width="35"/>.<img src="https://skillicons.dev/icons?i=vscode" width="35"/>.<img src="https://skillicons.dev/icons?i=pycharm" width="35"/>.<img src="https://skillicons.dev/icons?i=django" width="35"/>.<img src="https://skillicons.dev/icons?i=latex" width="35"/>
 
 ## 📊 GitHub Stats 
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TajkirHossen-14&theme=dark&hide_border=true&bg_color=0d1117&show_icons=true&include_all_commits=true&count_private=true"/>
-        <img src="https://github-readme-stats.vercel.app/api?username=TajkirHossen-14&theme=default&hide_border=false&show_icons=true"/>
-      </picture>
-    </td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=TajkirHossen-14&theme=dark&hide_border=true&background=0D1117"/>
-        <img src="https://nirzak-streak-stats.vercel.app/?user=TajkirHossen-14&theme=default&hide_border=false"/>
-      </picture>
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TajkirHossen-14&theme=dark&hide_border=true&bg_color=0d1117&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TajkirHossen-14&theme=default&hide_border=false&show_icons=true"/>
+</picture>
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=TajkirHossen-14&theme=dark&hide_border=true&background=0D1117"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=TajkirHossen-14&theme=default&hide_border=false"/>
+</picture>
+
 
 ## 📈 GitHub Activity
 <picture>
