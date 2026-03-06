@@ -1,5 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=113&section=header)
 
+# Hi 👋🏼 , I'm Tajkir 
+
 <img src="https://media4.giphy.com/media/ENY5vJgJPEfG3Ym14H/giphy.gif" width="49" align="right"/>
 
 · 🎓 Computer Science Student<br>· 👨‍💻  Currently Focusing on Python, HTML & CSS
