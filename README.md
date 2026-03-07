@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋🏼,%20I'm%20Tajkir&fontSize=40&fontColor=ffffff&animation=fadeIn) 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋🏼,%20I'm%20Tajkir&fontSize=45&fontColor=ffffff&animation=fadeIn) 
 
 <img src="https://media4.giphy.com/media/ENY5vJgJPEfG3Ym14H/giphy.gif" width="49" align="right"/>
 
