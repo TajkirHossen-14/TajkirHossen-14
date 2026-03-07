@@ -11,6 +11,7 @@
 <a href="https://instagram.com/_tajkir.hossen_"><img src="https://skillicons.dev/icons?i=instagram" width="35"/>  </a>
 <a href="https://linkedin.com/in/kazi-tajkir-hossen"><img src="https://skillicons.dev/icons?i=linkedin" width="35"/>  </a>
 <a href="https://x.com/TajkirHossen14"><img src="https://skillicons.dev/icons?i=twitter" width="35"/> </a>
+<a href="https://discord.com/users/kth_14"><img src="https://skillicons.dev/icons?i=discord" width="35"/> </a> 
 
 ---
 
