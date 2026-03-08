@@ -2,7 +2,9 @@
 
 <img src="https://media4.giphy.com/media/ENY5vJgJPEfG3Ym14H/giphy.gif" width="49" align="right"/>
 
-· 🎓 Computer Science Student<br>· 👨‍💻  Currently Focusing on Python, HTML & CSS
+· 🎓 Computer Science Student
+<br>
+· 👨‍💻  Currently Focusing on Python, HTML & CSS
 
 
 ## 🌐 Socials 
