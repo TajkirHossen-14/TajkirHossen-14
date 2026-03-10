@@ -29,7 +29,7 @@
 </picture>
 <br/>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=TajkirHossen-14&theme=highcontrast&hide_border=false"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=TajkirHossen-14&theme=highcontrast&hide_border=false&sideNums=FF6B00&currStreakNum=FF6B00"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=TajkirHossen-14&theme=default&hide_border=false"/>
 </picture>
 <br/>
