@@ -6,8 +6,6 @@
 <br>
 · 👨‍💻  Currently Focusing on Python, HTML & CSS
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=TajkirHossen-14.TajkirHossen-14)
-
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
