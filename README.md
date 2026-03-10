@@ -6,7 +6,7 @@
 <br>
 · 👨‍💻  Currently Focusing on Python, HTML & CSS
 
-![Profile Views](https://komarev.com/ghpvc/?username=TajkirHossen-14&color=blue&style=flat)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=TajkirHossen-14.TajkirHossen-14)
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
