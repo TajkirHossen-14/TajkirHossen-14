@@ -6,6 +6,7 @@
 <br>
 · 👨‍💻  Currently Focusing on Python, HTML & CSS
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🌐 Socials 
 <a href="mailto:tajkirhossen.14@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="35"/> </a>
