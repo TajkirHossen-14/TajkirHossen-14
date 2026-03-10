@@ -56,6 +56,7 @@
 
 [![𝗧𝗮𝗷𝗸𝗶𝗿'𝘀 𝗚𝗶𝘁𝗵𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆 𝗚𝗿𝗮𝗽𝗵](https://github-readme-activity-graph.vercel.app/graph?username=TajkirHossen-14&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 ![𝗦𝗻𝗮𝗸𝗲 𝗔𝗻𝗶𝗺𝗮𝘁𝗶𝗼𝗻](https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/output/github-contribution-grid-snake-dark.svg)
 
