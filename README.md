@@ -45,6 +45,7 @@
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TajkirHossen-14&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </picture>
 
+<p align="center">• • •</p>
 
 ## 📈 GitHub Activity
 <picture>
