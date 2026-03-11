@@ -8,7 +8,6 @@
 
 
 
-
 ## 🌐 Socials 
 <a href="mailto:tajkirhossen.14@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="35"/> </a>
 <a href="https://facebook.com/tajkirhossen.14"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="35"/>  </a>
@@ -22,7 +21,7 @@
 
 
 ## 💻 Tech Stack 
-<img src="https://skillicons.dev/icons?i=c" width="35"/>.<a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="35"/></a>.<img src="https://skillicons.dev/icons?i=cpp" width="35"/>.<img src="https://skillicons.dev/icons?i=java" width="35"/>.<img src="https://skillicons.dev/icons?i=mysql" width="35"/>.<img src="https://skillicons.dev/icons?i=postgresql" width="35"/>.<img src="https://skillicons.dev/icons?i=python" width="35"/>.<img src="https://skillicons.dev/icons?i=html" width="35"/>.<img src="https://skillicons.dev/icons?i=css" width="35"/>.<img src="https://skillicons.dev/icons?i=netlify" width="35"/>.<img src="https://skillicons.dev/icons?i=vercel" width="35"/>.<img src="https://skillicons.dev/icons?i=git" width="35"/>.<img src="https://skillicons.dev/icons?i=github" width="35"/>.<img src="https://www.codeblocks.org/images/logo160.png" width="31.5"/>.<img src="https://skillicons.dev/icons?i=vscode" width="35"/>.<img src="https://www.cursor.com/favicon.ico" width="35"/>.<img src="https://skillicons.dev/icons?i=eclipse" width="35"/>.<img src="https://skillicons.dev/icons?i=pycharm" width="35"/>.<img src="https://skillicons.dev/icons?i=django" width="35"/>.<img src="https://skillicons.dev/icons?i=notion" width="35"/>.<img src="https://skillicons.dev/icons?i=latex" width="35"/>.<img src="https://skillicons.dev/icons?i=markdown" width="35"/>
+<img src="https://skillicons.dev/icons?i=c" width="35"/>.<img src="https://skillicons.dev/icons?i=cpp" width="35"/>.<img src="https://skillicons.dev/icons?i=java" width="35"/>.<img src="https://skillicons.dev/icons?i=mysql" width="35"/>.<img src="https://skillicons.dev/icons?i=postgresql" width="35"/>.<img src="https://skillicons.dev/icons?i=python" width="35"/>.<img src="https://skillicons.dev/icons?i=html" width="35"/>.<img src="https://skillicons.dev/icons?i=css" width="35"/>.<img src="https://skillicons.dev/icons?i=netlify" width="35"/>.<img src="https://skillicons.dev/icons?i=vercel" width="35"/>.<img src="https://skillicons.dev/icons?i=git" width="35"/>.<img src="https://skillicons.dev/icons?i=github" width="35"/>.<img src="https://www.codeblocks.org/images/logo160.png" width="31.5"/>.<img src="https://skillicons.dev/icons?i=vscode" width="35"/>.<img src="https://www.cursor.com/favicon.ico" width="35"/>.<img src="https://skillicons.dev/icons?i=eclipse" width="35"/>.<img src="https://skillicons.dev/icons?i=pycharm" width="35"/>.<img src="https://skillicons.dev/icons?i=django" width="35"/>.<img src="https://skillicons.dev/icons?i=notion" width="35"/>.<img src="https://skillicons.dev/icons?i=latex" width="35"/>.<img src="https://skillicons.dev/icons?i=markdown" width="35"/>
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
