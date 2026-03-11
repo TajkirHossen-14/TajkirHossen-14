@@ -6,7 +6,7 @@
 <br>
 · 👨‍💻  Currently Focusing on Python, HTML & CSS
 
-![Profile Views](https://komarev.com/ghpvc/?username=TajkirHossen-14&color=FF6B00&style=for-the-badge&label=PROFILE+VIEWS)
+
 
 ## 🌐 Socials 
 <a href="mailto:tajkirhossen.14@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="35"/> </a>
