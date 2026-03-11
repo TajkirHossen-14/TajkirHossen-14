@@ -9,6 +9,7 @@
 
 
 ## 🌐 Socials 
+<a href="mailto:tajkirhossen.14@gmail.com"><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" width="35"/> </a>
 <a href="mailto:tajkirhossen.14@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="35"/> </a>
 <a href="https://fb.com/tajkirhossen.14" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tajkirhossen.14" width="35" /> </a>
 <a href="https://instagram.com/_tajkir.hossen_"><img src="https://skillicons.dev/icons?i=instagram" width="35"/>  </a>
