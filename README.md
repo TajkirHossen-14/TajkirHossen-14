@@ -13,6 +13,7 @@
 <a href="mailto:tajkirhossen.14@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="34"/></a> . <a href="https://fb.com/tajkirhossen.14" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tajkirhossen.14" width="34" /></a> . <a href="https://instagram.com/_tajkir.hossen_"><img src="https://skillicons.dev/icons?i=instagram" width="34"/></a> . <a href="https://linkedin.com/in/kazi-tajkir-hossen"><img src="https://skillicons.dev/icons?i=linkedin" width="34"/></a> . <a href="https://x.com/TajkirHossen14"><img src="https://www.freepnglogos.com/uploads/twitter-x-logo-png/twitter-x-logo-png-9.png" width="34"/></a> . <a href="https://discord.com/users/kth_14"><img src="https://skillicons.dev/icons?i=discord" width="34"/></a>
 
 
+<!-- Line --> 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 
@@ -24,6 +25,7 @@
   <img src="https://skillicons.dev/icons?i=markdown" width="35"/></a> . <img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/07/icon_9n1jf2U.png" width="34"/> . <a href="https://www.canva.com"><img src="https://1000logos.net/wp-content/uploads/2020/03/Canva-icon.png" width="54"/></a>  
 
 
+<!-- Line --> 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 
@@ -39,6 +41,10 @@
 </div>
 
 
+<!-- Line --> 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+
 ## 📈 GitHub Activity
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TajkirHossen-14&theme=github_dark"/>
@@ -49,7 +55,10 @@
 
 [![𝗧𝗮𝗷𝗸𝗶𝗿'𝘀 𝗚𝗶𝘁𝗵𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆 𝗚𝗿𝗮𝗽𝗵](https://github-readme-activity-graph.vercel.app/graph?username=TajkirHossen-14&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+<!-- Line --> 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
 
 ![𝗦𝗻𝗮𝗸𝗲 𝗔𝗻𝗶𝗺𝗮𝘁𝗶𝗼𝗻](https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/output/github-contribution-grid-snake-dark.svg)
 
