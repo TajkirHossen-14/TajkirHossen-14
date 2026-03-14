@@ -67,4 +67,4 @@
 ![𝗦𝗻𝗮𝗸𝗲 𝗔𝗻𝗶𝗺𝗮𝘁𝗶𝗼𝗻](https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/output/github-contribution-grid-snake-dark.svg)
 
 
-![𝗙𝗼𝗼𝘁𝗲𝗿](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=104&section=footer)
+![𝗙𝗼𝗼𝘁𝗲𝗿](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=101&section=footer)
