@@ -10,7 +10,7 @@ __
 <br>
 · 👨‍💻  Currently Focusing on Python, HTML & CSS
 
-——
+—·—
 
 ## 🌐 Socials 
 
