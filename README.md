@@ -33,7 +33,7 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=TajkirHossen-14&theme=github-dark&hide_border=false&ring=DD6B20&fire=DD6B20&currStreakLabel=DD6B20&sideLabels=DD6B20&border=c9d1d9"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=TajkirHossen-14&theme=github-dark&hide_border=false&ring=DD6B20&fire=DD6B20&currStreakLabel=DD6B20&sideLabels=c9d1d9&border=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9"/>
     <img src="https://nirzak-streak-stats.vercel.app/?user=TajkirHossen-14&theme=default&hide_border=false"/>
   </picture>
   &nbsp;&nbsp;
