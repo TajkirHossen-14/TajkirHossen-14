@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://media4.giphy.com/media/ENY5vJgJPEfG3Ym14H/giphy.gif" width="48" align="center"/>
+<img src="https://media4.giphy.com/media/ENY5vJgJPEfG3Ym14H/giphy.gif" width="55" align="center"/>
 
 __
 
@@ -10,7 +10,7 @@ __
 <br>
 · 👨‍💻  Currently Focusing on Python, HTML & CSS
 
-
+__
 
 ## 🌐 Socials 
 
