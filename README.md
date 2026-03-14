@@ -33,15 +33,15 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=TajkirHossen-14&theme=github-dark&hide_border=false"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=TajkirHossen-14&theme=github-dark&hide_border=false&ring=DD6B20&fire=DD6B20&currStreakLabel=DD6B20&sideLabels=DD6B20&border=c9d1d9"/>
     <img src="https://nirzak-streak-stats.vercel.app/?user=TajkirHossen-14&theme=default&hide_border=false"/>
   </picture>
   &nbsp;&nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=TajkirHossen-14&title_color=fafbff&text_color=f0f6ff&bg_color=0D1117&border_color=8b949e&layout=compact&langs_count=6&hide_border=false&card_width=395"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=TajkirHossen-14&title_color=fafbff&text_color=f0f6ff&bg_color=0D1117&border_color=c9d1d9&layout=compact&langs_count=6&hide_border=false&card_width=395"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TajkirHossen-14&title_color=24292f&text_color=24292f&bg_color=ffffff&border_color=d0d7de&layout=compact&langs_count=6&hide_border=false&card_width=395"/>
   </picture>
-</div> 
+</div>
 
 
 <!-- Line --> 
