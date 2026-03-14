@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffffff&width=435&lines=Hi+👋🏼,+I'm+Tajkir!)
-
 <img src="https://media4.giphy.com/media/ENY5vJgJPEfG3Ym14H/giphy.gif" width="60" align="center"/>
 
 __
