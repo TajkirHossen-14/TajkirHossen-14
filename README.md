@@ -49,6 +49,7 @@
 
 
 ## 📈 GitHub Activity
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TajkirHossen-14&theme=github_dark"/>
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TajkirHossen-14&theme=github"/>
@@ -56,11 +57,10 @@
 </picture>
 
 
-[![𝗧𝗮𝗷𝗸𝗶𝗿'𝘀 𝗚𝗶𝘁𝗵𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆 𝗚𝗿𝗮𝗽𝗵](https://github-readme-activity-graph.vercel.app/graph?username=TajkirHossen-14&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<!-- 𝗧𝗮𝗷𝗸𝗶𝗿'𝘀 𝗚𝗶𝘁𝗵𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆 𝗚𝗿𝗮𝗽𝗵 --> 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TajkirHossen-14&theme=github-compact&hide_border=false"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TajkirHossen-14&theme=github-compact&hide_border=false"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TajkirHossen-14&theme=github-compact&hide_border=false&height=300"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TajkirHossen-14&theme=github-compact&hide_border=false&height=250"/>
 </picture>
 
 
