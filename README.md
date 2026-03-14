@@ -1,6 +1,8 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋🏼,%20I'm%20Tajkir&fontSize=45&fontColor=ffffff&animation=fadeIn)
 
-<img src="https://media4.giphy.com/media/ENY5vJgJPEfG3Ym14H/giphy.gif" width="48" align="right"/>
+<div align="center">
+
+<img src="https://media4.giphy.com/media/ENY5vJgJPEfG3Ym14H/giphy.gif" width="48" align="center"/>
 
 · 🎓 Computer Science & Engineering Student
 <br>
@@ -66,5 +68,6 @@
 
 ![𝗦𝗻𝗮𝗸𝗲 𝗔𝗻𝗶𝗺𝗮𝘁𝗶𝗼𝗻](https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/output/github-contribution-grid-snake-dark.svg)
 
+</div>
 
 ![𝗙𝗼𝗼𝘁𝗲𝗿](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
