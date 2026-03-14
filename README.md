@@ -4,7 +4,7 @@
 
 <img src="https://media4.giphy.com/media/ENY5vJgJPEfG3Ym14H/giphy.gif" width="48" align="center"/>
 
-_._._
+__
 
 · 🎓 Computer Science & Engineering Student
 <br>
