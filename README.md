@@ -31,7 +31,7 @@
 
 ## 📊 GitHub Stats 
 
-<div align="left">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=TajkirHossen-14&theme=highcontrast&hide_border=false"/>
     <img src="https://nirzak-streak-stats.vercel.app/?user=TajkirHossen-14&theme=default&hide_border=false"/>
