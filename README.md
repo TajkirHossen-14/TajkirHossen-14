@@ -28,20 +28,17 @@
 
 
 ## 📊 GitHub Stats 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TajkirHossen-14&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TajkirHossen-14&theme=default&hide_border=false&include_all_commits=false&count_private=false"/>
-</picture>
-<br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=TajkirHossen-14&theme=highcontrast&hide_border=false"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=TajkirHossen-14&theme=default&hide_border=false"/>
-</picture>
-<br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TajkirHossen-14&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TajkirHossen-14&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=TajkirHossen-14&theme=highcontrast&hide_border=false"/>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=TajkirHossen-14&theme=default&hide_border=false"/>
+  </picture>
+  &nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=TajkirHossen-14&title_color=fafbff&text_color=f0f6ff&bg_color=0D1117&border_color=30363D&layout=compact&langs_count=6&hide_border=false"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TajkirHossen-14&title_color=fafbff&text_color=f0f6ff&bg_color=ffffff&border_color=d0d7de&layout=compact&langs_count=6&hide_border=false"/>
+  </picture>
+</div>
 
 
 ## 📈 GitHub Activity
@@ -53,8 +50,6 @@
 
 
 [![𝗧𝗮𝗷𝗸𝗶𝗿'𝘀 𝗚𝗶𝘁𝗵𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆 𝗚𝗿𝗮𝗽𝗵](https://github-readme-activity-graph.vercel.app/graph?username=TajkirHossen-14&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=TajkirHossen-14&title_color=fafbff&text_color=f0f6ff&bg_color=0D1117&border_color=30363D&layout=normal&langs_count=6&hide_border=false)](https://github.com/TajkirHossen-14)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
