@@ -2,6 +2,8 @@
 
 <div align="center">
 
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffffff&width=435&lines=Hi+👋🏼,+I'm+Tajkir!)
+
 <img src="https://media4.giphy.com/media/ENY5vJgJPEfG3Ym14H/giphy.gif" width="60" align="center"/>
 
 __
@@ -22,6 +24,7 @@ __
 
 
 ## 💻 Tech Stack 
+
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.png" width="35"/> . <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-plus-plus-programming-language-icon.png" width="35"/> . <img src="https://skillicons.dev/icons?i=java" width="36"/> . <img src="https://skillicons.dev/icons?i=mysql" width="36"/> . <img src="https://skillicons.dev/icons?i=postgresql" width="36"/> . <img src="https://skillicons.dev/icons?i=python" width="35"/> . <img src="https://skillicons.dev/icons?i=html" width="34"/> . <img src="https://skillicons.dev/icons?i=css" width="34"/> . <a href="https://www.netlify.com">
   <img src="https://skillicons.dev/icons?i=netlify" width="35"/></a> . <a href="https://www.vercel.com">
   <img src="https://skillicons.dev/icons?i=vercel" width="35"/></a> . <img src="https://skillicons.dev/icons?i=git" width="34"/> . <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" width="35"/></a> . <img src="https://upload.wikimedia.org/wikipedia/fr/0/01/Codeblocks_logo1.png" width="37"/> . <img src="https://skillicons.dev/icons?i=vscode" width="35"/> . <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/cursor-ai-code-icon.png" width="35"/> . <img src="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/google-antigravity-logo-icon.png" width="32"/> . <img src="https://skillicons.dev/icons?i=eclipse" width="35"/> . <img src="https://skillicons.dev/icons?i=pycharm" width="36"/> . <img src="https://skillicons.dev/icons?i=django" width="35"/> . <img src="https://1000marcas.net/wp-content/uploads/2020/11/Microsoft-Office-logo.png" width="51"/> . <a href="https://www.notion.so">
