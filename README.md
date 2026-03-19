@@ -51,7 +51,7 @@ __
   &nbsp;&nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=TajkirHossen-14&title_color=fafbff&text_color=f0f6ff&bg_color=0D1117&border_color=c9d1d9&layout=compact&langs_count=8&hide_border=false&card_width=395&count_private=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TajkirHossen-14&title_color=24292f&text_color=24292f&bg_color=ffffff&border_color=d0d7de&layout=compact&langs_count=8&hide_border=false&card_width=395&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TajkirHossen-14&title_color=24292f&text_color=24292f&bg_color=ffffff&border_color=d0d7de&layout=compact&langs_count=10&hide_border=false&card_width=395&count_private=true"/>
   </picture>
 </div>
 
