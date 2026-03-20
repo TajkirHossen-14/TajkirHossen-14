@@ -41,8 +41,7 @@
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/cursor-ai-code-icon.png" width="35"/> &nbsp;
 <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" width="34"/> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/960px-PyCharm_Icon.svg.png" width="34"/> &nbsp; <img src="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/google-antigravity-logo-icon.png" width="32"/> &nbsp; 
-<a href="https://jupyter.org"><img src="https://images.icon-icons.com/2107/PNG/512/file_type_jupyter_icon_130494.png" width="35"/></a> <!-- Tools & Docs --> <img src="https://1000marcas.net/wp-content/uploads/2020/11/Microsoft-Office-logo.png" width="51"/> &nbsp;
-<a href="https://www.notion.so"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/960px-Notion-logo.svg.png" width="32"/></a> &nbsp;
+<a href="https://jupyter.org"><img src="https://images.icon-icons.com/2107/PNG/512/file_type_jupyter_icon_130494.png" width="35"/></a> <!-- Tools & Docs --> <img src="https://1000marcas.net/wp-content/uploads/2020/11/Microsoft-Office-logo.png" width="51"/> <a href="https://www.notion.so"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/960px-Notion-logo.svg.png" width="32"/></a> &nbsp;
 <a href="https://www.markdownguide.org"><img src="https://skillicons.dev/icons?i=markdown" width="35"/></a> &nbsp;
 <a href="https://www.overleaf.com"><img src="https://images.ctfassets.net/nrgyaltdicpt/2fJT673XY7Jyx0hnloYH5u/e8ab3a07b40ed4b9c18756d7741ef4dc/overleaf-o-logo-primary.png" width="34"/></a> &nbsp;
 <img src="https://skillicons.dev/icons?i=latex" width="35"/> &nbsp; <!-- Design & Other --> <img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/07/icon_9n1jf2U.png" width="35"/> 
