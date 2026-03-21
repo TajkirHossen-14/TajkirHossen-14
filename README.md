@@ -2,7 +2,7 @@
 
 <div align="center">
 
-◈ &nbsp; <img src="https://media1.giphy.com/media/AdtB8TtizElk0OrRGR/giphy.gif" width="100%" align="center"/> &nbsp; ◈  
+◈ &nbsp; <img src="https://media1.giphy.com/media/AdtB8TtizElk0OrRGR/giphy.gif" width="202" align="center"/> &nbsp; ◈  
 
 •••
 
