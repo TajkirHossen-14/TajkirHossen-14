@@ -45,7 +45,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 
-## 📊 GitHub Stats 
+## 📊 GitHub Statistics  
 
 <div align="center">
   <picture>
