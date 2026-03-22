@@ -14,7 +14,6 @@
 <br>
 · 👨‍💻  Currently Focusing on Python, HTML & CSS
 
-<p align="center">—·—</p>
 
 <br>
 
