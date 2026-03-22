@@ -6,11 +6,11 @@
 
 </div>
 
+<div align="center">
+
 <img src="https://media3.giphy.com/media/vKhKsyEFVK4IuEKzWY/giphy.gif" width="130" align="right"/>  
 
 <br>
-
-<div align="center">
 
 · 🎓 Computer Science & Engineering Student
 <br>
