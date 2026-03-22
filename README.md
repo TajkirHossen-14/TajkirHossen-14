@@ -1,4 +1,4 @@
-![𝗛𝗲𝗮𝗱𝗲𝗿](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=201&section=header&text=Hi%20👋🏼,%20I'm%20Tajkir&fontSize=46&fontColor=ffffff&animation=fadeIn)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&multiline=true&height=100&lines=Hi+There+👋🏼;I'm+Tajkir!)](https://git.io/typing-svg)
 
 <div align="center">
 
