@@ -1,4 +1,4 @@
-![𝗛𝗲𝗮𝗱𝗲𝗿](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=89&section=header)
+![𝗛𝗲𝗮𝗱𝗲𝗿](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=85&section=header)
 
 <div align="center">
 
@@ -90,4 +90,4 @@
 
 </div>
 
-![𝗙𝗼𝗼𝘁𝗲𝗿](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=89&section=footer)
+![𝗙𝗼𝗼𝘁𝗲𝗿](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=85&section=footer)
