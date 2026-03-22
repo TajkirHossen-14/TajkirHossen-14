@@ -4,17 +4,19 @@
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Exo+2&weight=600&size=36&pause=450&color=1085e5&center=true&vCenter=true&width=600&lines=Hi+There+👋🏼;I'm+Kazi+Tajkir+Hossen)](https://git.io/typing-svg)
 
+</div>
+
 <br>
 
-◈ &nbsp; <img src="https://media1.giphy.com/media/AdtB8TtizElk0OrRGR/giphy.gif" width="210" align="center"/> &nbsp; ◈  
-
-· • ·
+<img src="https://media3.giphy.com/media/vKhKsyEFVK4IuEKzWY/giphy.gif" width="150" align="right"/> 
 
 · 🎓 Computer Science & Engineering Student
 <br>
 · 👨‍💻  Currently Focusing on Python, HTML & CSS
 
 —·—
+
+<div align="center">
 
 ## 🌐 Socials 
 
