@@ -12,6 +12,8 @@
 
 <br>
 
+—·—
+
 · 🎓 Computer Science & Engineering Student
 <br>
 · 👨‍💻  Currently Focusing on Python, HTML & CSS
@@ -22,7 +24,7 @@
 
 <div align="center">  
   
-  <br> <br>  
+  <br>
   
   ## 🌐 Socials 
 
