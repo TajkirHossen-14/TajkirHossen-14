@@ -18,6 +18,8 @@
 <br>
 · 👨‍💻  Currently Focusing on Python, HTML & CSS
 
+—·—
+
 </div>
 
 <br>
