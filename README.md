@@ -18,8 +18,10 @@
 <br>
 
 <div align="center">  
-  <p align="center">—·—</p>
+  
   <br>
+
+  <p align="center">—·—</p>
  
   ## 🌐 Socials 
 
