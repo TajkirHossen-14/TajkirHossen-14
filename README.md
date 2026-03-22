@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=600&size=36&pause=450&color=1085e5&center=true&vCenter=true&width=600&lines=Hi+There+👋🏼;I'm+Kazi+Tajkir+Hossen)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Exo+2&weight=600&size=36&pause=450&color=1085e5&center=true&vCenter=true&width=600&lines=Hi+There+👋🏼;I'm+Kazi+Tajkir+Hossen)](https://git.io/typing-svg)
 
 
 <img src="https://media3.giphy.com/media/vKhKsyEFVK4IuEKzWY/giphy.gif" width="130" align="center"/>  
