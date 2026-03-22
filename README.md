@@ -1,6 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&multiline=true&height=100&lines=Hi+There+👋🏼;I'm+Tajkir!)](https://git.io/typing-svg)
-
 <div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=32&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+There+👋🏼;I'm+Kazi+Tajkir+Hossen!)](https://git.io/typing-svg)
+
 
 ◈ &nbsp; <img src="https://media1.giphy.com/media/AdtB8TtizElk0OrRGR/giphy.gif" width="202" align="center"/> &nbsp; ◈  
 
