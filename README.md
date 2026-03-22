@@ -10,10 +10,13 @@
 
 <br>
 
+<div align="center">
+
 · 🎓 Computer Science & Engineering Student
 <br>
 · 👨‍💻  Currently Focusing on Python, HTML & CSS
 
+</div>
 
 <br>
 
