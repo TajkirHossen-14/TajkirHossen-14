@@ -8,13 +8,11 @@
 
 <br>
 
-  
+<img src="https://media3.giphy.com/media/vKhKsyEFVK4IuEKzWY/giphy.gif" width="130" align="right"/>  
 
 · 🎓 Computer Science & Engineering Student
 <br>
 · 👨‍💻  Currently Focusing on Python, HTML & CSS
-
-<img src="https://media3.giphy.com/media/vKhKsyEFVK4IuEKzWY/giphy.gif" width="130" align="right"/>
 
 
 <br>
