@@ -1,3 +1,5 @@
+![𝗛𝗲𝗮𝗱𝗲𝗿](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=89&section=header)
+
 <div align="center">
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Exo+2&weight=600&size=33&pause=600&color=119ced&center=true&vCenter=true&width=600&lines=Hi+There+👋🏼;I'm+Kazi+Tajkir+Hossen!)](https://git.io/typing-svg)
@@ -88,4 +90,4 @@
 
 </div>
 
-![𝗙𝗼𝗼𝘁𝗲𝗿](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer)
+![𝗙𝗼𝗼𝘁𝗲𝗿](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=89&section=footer)
