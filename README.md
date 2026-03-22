@@ -18,7 +18,7 @@
 <br>
 
 <div align="center">  
-  
+  <p align="center">—·—</p>
   <br>
  
   ## 🌐 Socials 
