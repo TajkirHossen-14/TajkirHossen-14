@@ -33,7 +33,7 @@
 
 ## 💻 Tech Stack 
 
-<!-- Programming Languages -->
+<!-- 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 -->
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.png" width="35"/> &nbsp;
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-plus-plus-programming-language-icon.png" width="35"/> &nbsp;
 <img src="https://skillicons.dev/icons?i=java" width="36"/> &nbsp;
