@@ -39,7 +39,7 @@
 <img src="https://skillicons.dev/icons?i=java" width="36"/> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/960px-Python-logo-notext.svg.png" width="32"/> &nbsp; <!-- 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 -->
 <img src="https://skillicons.dev/icons?i=mysql" width="36"/> &nbsp; <a href="https://www.postgresql.org"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Logo_PostgreSQL.png" width="33"/></a> &nbsp;
-<a href="https://www.sqlite.org"><img src="https://images.icon-icons.com/2699/PNG/512/sqlite_logo_icon_169724.png" width="33"/></a> &nbsp; <!-- Web & Hosting --> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/960px-HTML5_Badge.svg.png" width="34"/> &nbsp;
+<a href="https://www.sqlite.org"><img src="https://images.icon-icons.com/2699/PNG/512/sqlite_logo_icon_169724.png" width="33"/></a> &nbsp; <!-- 𝐖𝐞𝐛 & 𝐇𝐨𝐬𝐭𝐢𝐧𝐠 --> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/960px-HTML5_Badge.svg.png" width="34"/> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/960px-CSS3_logo.svg.png" width="34"/> &nbsp;
 <img src="https://skillicons.dev/icons?i=django" width="35"/> &nbsp;
 <a href="https://www.netlify.com"><img src="https://images.icon-icons.com/2699/PNG/512/netlify_logo_icon_169923.png" width="33"/></a> &nbsp;
