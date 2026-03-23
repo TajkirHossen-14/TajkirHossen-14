@@ -11,7 +11,7 @@
 
 ·•·
 
-· 🎓 Computer Science & Engineering Student
+· 🎓 𝖢𝗈𝗆𝗉𝗎𝗍𝖾𝗋 𝖲𝖼𝗂𝖾𝗇𝖼𝖾 & 𝖤𝗇𝗀𝗂𝗇𝖾𝖾𝗋𝗂𝗇𝗀 𝖲𝗍𝗎𝖽𝖾𝗇𝗍
 <br>
 · 👨‍💻  Currently Focusing on Python, HTML & CSS
 
