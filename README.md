@@ -21,7 +21,7 @@
 
 <div align="center">  
   
-## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Socials.png" width="28" align="top"/> · &nbsp; Socials &nbsp; · <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Socials [Mirror].png" width="28" align="top"/>
+## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Socials.png" width="28" align="top"/> · &nbsp; Socials🌐 &nbsp; · <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Socials [Mirror].png" width="28" align="top"/>
 
 <a href="mailto:tajkirhossen.14@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="33"/></a> . <a href="https://fb.com/tajkirhossen.14" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tajkirhossen.14" width="33" /></a> . <a href="https://instagram.com/_tajkir.hossen_"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/960px-Instagram_logo_2022.svg.png" width="34"/></a> . <a href="https://linkedin.com/in/kazi-tajkir-hossen"><img src="https://skillicons.dev/icons?i=linkedin" width="33"/></a> . <a href="https://discord.com/users/kth_14"><img src="https://skillicons.dev/icons?i=discord" width="33"/></a>  
 <a href="https://x.com/TajkirHossen14"><img src="https://www.freepnglogos.com/uploads/twitter-x-logo-png/twitter-x-logo-png-9.png" width="33"/></a> . <a href="https://www.threads.net/@_tajkir.hossen_"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Threads_%28app%29.png/500px-Threads_%28app%29.png" width="33"/></a>
