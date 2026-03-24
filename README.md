@@ -74,7 +74,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 
-## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Graph [Gif].gif" width="32" align="top"/> · &nbsp; GitHub Activity &nbsp; · <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Graph [Gif].gif" width="32" align="top"/> 
+## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Graph.png" width="32" align="top"/> · &nbsp; GitHub Activity &nbsp; · <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Graph.png" width="32" align="top"/> 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TajkirHossen-14&theme=github_dark"/>
