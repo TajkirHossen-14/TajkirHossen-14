@@ -53,7 +53,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 
-## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Stats [Gif].gif" width="32"/> &nbsp; GitHub Stats &nbsp; <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Stats [Gif].gif" width="32"/> &nbsp;  
+## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Stats [Gif].gif" width="32" align="middle"/> &nbsp; GitHub Stats &nbsp; <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Stats [Gif].gif" width="32" align="middle"/> &nbsp;  
 
 <div align="center">
   <picture>
