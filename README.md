@@ -58,7 +58,7 @@
 <div align="center">
 <!-- Streak Stats -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=TajkirHossen-14&theme=dark&hide_border=false"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=TajkirHossen-14&theme=highcontrast&hide_border=false"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TajkirHossen-14&theme=default&hide_border=false"/>
 </picture> 
 
