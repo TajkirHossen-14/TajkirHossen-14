@@ -70,7 +70,7 @@
 
   <br>
 
-  [![Tajkir's GitHub stats](https://github-readme-stats.vercel.app/api?username=TajkirHossen-14)](https://github.com/anuraghazra/github-readme-stats)
+  [![Tajkir's GitHub stats](https://github-readme-stats.vercel.app/api?username=TajkirHossen-14)](https://github.com/anuraghazra/github-readme-stats icons=true&theme=default)
 </div>
 
 
