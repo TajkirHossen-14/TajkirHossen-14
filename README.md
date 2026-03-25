@@ -55,7 +55,6 @@
 
 ## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Stats [Mirror].png" width="22" align="top"/> · &nbsp; GitHub Stats &nbsp; · <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Stats.png" width="22" align="top"/> &nbsp;  
 
-<div align="center">
 <!-- Streak Stats -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=TajkirHossen-14&theme=highcontrast&hide_border=false"/>
@@ -69,8 +68,6 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=TajkirHossen-14&title_color=fafbff&text_color=f0f6ff&bg_color=0D1117&border_color=c9d1d9&layout=compact&langs_count=11&hide_border=false&card_width=396&count_private=true"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TajkirHossen-14&title_color=24292f&text_color=24292f&bg_color=ffffff&border_color=d0d7de&layout=compact&langs_count=11&hide_border=false&card_width=396&count_private=true"/>
 </picture>
-
-</div>
 
 
 <!-- Line --> 
