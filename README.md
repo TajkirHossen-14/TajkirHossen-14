@@ -50,12 +50,15 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 
+<!-- GitHub Stats -->
 ## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Stats [Mirror].png" width="22" align="top"/> · &nbsp; GitHub Stats &nbsp; · <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Stats.png" width="22" align="top"/> &nbsp;  
 
+<!-- Streak Stats -->
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=TajkirHossen-14&theme=highcontrast&hide_border=false"/>
-  <img src="https://streak-stats.demolab.com/?user=TajkirHossen-14&theme=default&hide_border=false"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=TajkirHossen-14\&theme=highcontrast\&hide\_border=false"/>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=TajkirHossen-14\&theme=default\&hide\_border=false"/>
 </picture>
+
 
 <br>
   
