@@ -2,9 +2,7 @@
 
 <div align="center">
 
-<h1>
-[![𝗧𝘆𝗽𝗶𝗻𝗴 𝗦𝗩𝗚](https://readme-typing-svg.herokuapp.com?font=Exo+2&weight=600&size=35&duration=3250&pause=1250&color=1085e5&center=true&vCenter=true&width=600&lines=Hi+There+👋🏼;I'm+Tajkir+!)](https://git.io/typing-svg)
-</h1>
+<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&weight=600&size=35&duration=3250&pause=1250&color=1085e5&center=true&vCenter=true&width=600&lines=Hi+There+👋🏼;I'm+Tajkir+!" alt="Typing SVG"/></a></h1>
 
 <!-- Gif -->
 <img src="https://media3.giphy.com/media/vKhKsyEFVK4IuEKzWY/giphy.gif" width="130" align="center"/>  
