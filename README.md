@@ -68,12 +68,6 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=TajkirHossen-14&title_color=fafbff&text_color=f0f6ff&bg_color=0D1117&border_color=c9d1d9&layout=compact&langs_count=11&hide_border=false&card_width=396&count_private=true"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TajkirHossen-14&title_color=24292f&text_color=24292f&bg_color=ffffff&border_color=d0d7de&layout=compact&langs_count=11&hide_border=false&card_width=396&count_private=true"/>
 </picture>
-<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TajkirHossen-14&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=TajkirHossen-14&theme=default&hide_border=false&include_all_commits=true&count_private=true"/>
-</picture>
-
 
 
 <!-- Line --> 
