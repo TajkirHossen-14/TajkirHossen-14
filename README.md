@@ -5,7 +5,7 @@
 [![𝗧𝘆𝗽𝗶𝗻𝗴 𝗦𝗩𝗚](https://readme-typing-svg.herokuapp.com?font=Exo+2&weight=600&size=35&duration=3250&pause=1250&color=1085e5&center=true&vCenter=true&width=700&lines=Hi+There+👋🏼;I'm+Tajkir+!)](https://git.io/typing-svg) 
 
 <!-- 𝐆𝐢𝐟 -->
-<img src="https://media3.giphy.com/media/vKhKsyEFVK4IuEKzWY/giphy.gif" width="130" align="center"/>  
+<img src="https://media2.giphy.com/media/vKhKsyEFVK4IuEKzWY/giphy.gif" width="130" align="center"/>  
 
 <br>
 
@@ -21,7 +21,7 @@
 ## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Socials.png" width="26" align="top"/> · &nbsp; Socials &nbsp; · <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Socials [Mirror].png" width="26" align="top"/>
 
 <a href="mailto:tajkirhossen.14@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="33"/></a> . <a href="https://facebook.com/tajkirhossen.14"><img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/facebook.svg" width="34"/></a> . <a href="https://instagram.com/_tajkir.hossen_"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/960px-Instagram_logo_2022.svg.png" width="34"/></a> . <a href="https://linkedin.com/in/kazi-tajkir-hossen"><img src="https://skillicons.dev/icons?i=linkedin" width="33"/></a> . <a href="https://discord.com/users/kth_14"><img src="https://skillicons.dev/icons?i=discord" width="33"/></a>  
-<a href="https://x.com/TajkirHossen14"><img src="https://www.freepnglogos.com/uploads/twitter-x-logo-png/twitter-x-logo-png-9.png" width="33"/></a> ^ <a href="https://www.threads.net/@_tajkir.hossen_"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Threads_%28app%29.png/500px-Threads_%28app%29.png" width="33"/></a>
+<a href="https://x.com/TajkirHossen14"><img src="https://www.freepnglogos.com/uploads/twitter-x-logo-png/twitter-x-logo-png-9.png" width="33"/></a> . <a href="https://www.threads.net/@_tajkir.hossen_"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Threads_%28app%29.png/500px-Threads_%28app%29.png" width="33"/></a>
 
 
 <!-- Line --> 
