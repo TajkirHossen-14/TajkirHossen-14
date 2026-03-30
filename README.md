@@ -56,9 +56,9 @@
 
 <!-- 𝐒𝐭𝐫𝐞𝐚𝐤 𝐒𝐭𝐚𝐭𝐬 -->
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=TajkirHossen-14&theme=highcontrast&hide_border=false"/>
-  <img src="https://streak-stats.demolab.com/?user=TajkirHossen-14&theme=default&hide_border=false"/>
-</picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=TajkirHossen-14&theme=highcontrast&hide_border=false"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TajkirHossen-14&theme=default&hide_border=false"/>
+</picture> 
 
 <br>
   
