@@ -27,7 +27,7 @@
 <!-- Line --> 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
-<div align="left">
+
 <!-- 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤 --> 
 ## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Tech Stack.png" width="23" align="top"/> · &nbsp; Tech Stack &nbsp; · <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Tech Stack [Mirror].png" width="23" align="top"/>
 
@@ -70,7 +70,7 @@
 <!-- 𝐃𝐞𝐬𝐢𝐠𝐧 & 𝐎𝐭𝐡𝐞𝐫 --> 
 <img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/07/icon_9n1jf2U.png" width="35"/> 
 <a href="https://www.canva.com"><img src="https://1000logos.net/wp-content/uploads/2020/03/Canva-icon.png" width="54"/></a>
-</div>
+
 
 <!-- Line --> 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
