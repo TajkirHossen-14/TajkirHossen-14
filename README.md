@@ -42,7 +42,7 @@
 <a href="https://www.sqlite.org"><img src="https://images.icon-icons.com/2699/PNG/512/sqlite_logo_icon_169724.png" width="33"/></a> &nbsp; 
 <!-- 𝐖𝐞𝐛 & 𝐇𝐨𝐬𝐭𝐢𝐧𝐠 --> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/960px-HTML5_Badge.svg.png" width="34"/> &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/960px-Official_CSS_Logo.svg.png" width="34"/> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/960px-Official_CSS_Logo.svg.png" width="35"/> &nbsp;
 <img src="https://skillicons.dev/icons?i=django" width="35"/> &nbsp;
 <a href="https://www.netlify.com"><img src="https://images.icon-icons.com/2699/PNG/512/netlify_logo_icon_169923.png" width="33"/></a> &nbsp;
 <a href="https://www.vercel.com"><img src="https://skillicons.dev/icons?i=vercel" width="35"/></a> &nbsp; 
