@@ -32,11 +32,7 @@
 ## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Tech Stack.png" width="23" align="top"/> · &nbsp; Tech Stack &nbsp; · <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Tech Stack [Mirror].png" width="23" align="top"/>
 
 <!-- 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 -->
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.png" width="35"/> &nbsp;
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-plus-plus-programming-language-icon.png" width="35"/> &nbsp;
-<img src="https://skillicons.dev/icons?i=java" width="36"/> &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/960px-Python-logo-notext.svg.png" width="32"/> &nbsp; <!-- 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 -->
-<img src="https://skillicons.dev/icons?i=mysql" width="36"/> &nbsp; <a href="https://www.postgresql.org"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Logo_PostgreSQL.png" width="33"/></a> &nbsp;
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.png" width="35"/> &nbsp; <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-plus-plus-programming-language-icon.png" width="35"/> &nbsp; <img src="https://skillicons.dev/icons?i=java" width="36"/> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/960px-Python-logo-notext.svg.png" width="32"/> &nbsp; <!-- 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 --> <img src="https://skillicons.dev/icons?i=mysql" width="36"/> &nbsp; <a href="https://www.postgresql.org"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Logo_PostgreSQL.png" width="33"/></a> &nbsp;
 <a href="https://www.sqlite.org"><img src="https://images.icon-icons.com/2699/PNG/512/sqlite_logo_icon_169724.png" width="33"/></a> &nbsp; <!-- 𝐖𝐞𝐛 & 𝐇𝐨𝐬𝐭𝐢𝐧𝐠 --> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/960px-HTML5_Badge.svg.png" width="34"/> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/960px-Official_CSS_Logo.svg.png" width="34"/> &nbsp;
 <img src="https://skillicons.dev/icons?i=django" width="35"/> &nbsp;
