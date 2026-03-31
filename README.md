@@ -32,14 +32,43 @@
 ## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Tech Stack.png" width="23" align="top"/> · &nbsp; Tech Stack &nbsp; · <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Tech Stack [Mirror].png" width="23" align="top"/>
 
 <!-- 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 -->
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.png" width="35"/> &nbsp; <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-plus-plus-programming-language-icon.png" width="35"/> &nbsp; <img src="https://skillicons.dev/icons?i=java" width="36"/> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/960px-Python-logo-notext.svg.png" width="32"/> &nbsp; <!-- 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 --> <img src="https://skillicons.dev/icons?i=mysql" width="36"/> &nbsp; <a href="https://www.postgresql.org"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Logo_PostgreSQL.png" width="33"/></a> &nbsp;
-<a href="https://www.sqlite.org"><img src="https://images.icon-icons.com/2699/PNG/512/sqlite_logo_icon_169724.png" width="33"/></a> &nbsp; <!-- 𝐖𝐞𝐛 & 𝐇𝐨𝐬𝐭𝐢𝐧𝐠 --> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/960px-HTML5_Badge.svg.png" width="34"/> &nbsp;
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.png" width="35"/> &nbsp; 
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-plus-plus-programming-language-icon.png" width="35"/> &nbsp; 
+<img src="https://skillicons.dev/icons?i=java" width="36"/> &nbsp; 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/960px-Python-logo-notext.svg.png" width="32"/> &nbsp; 
+<!-- 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 --> 
+<img src="https://skillicons.dev/icons?i=mysql" width="36"/> &nbsp; 
+<a href="https://www.postgresql.org"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Logo_PostgreSQL.png" width="33"/></a> &nbsp;
+<a href="https://www.sqlite.org"><img src="https://images.icon-icons.com/2699/PNG/512/sqlite_logo_icon_169724.png" width="33"/></a> &nbsp; 
+<!-- 𝐖𝐞𝐛 & 𝐇𝐨𝐬𝐭𝐢𝐧𝐠 --> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/960px-HTML5_Badge.svg.png" width="34"/> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/960px-Official_CSS_Logo.svg.png" width="34"/> &nbsp;
 <img src="https://skillicons.dev/icons?i=django" width="35"/> &nbsp;
 <a href="https://www.netlify.com"><img src="https://images.icon-icons.com/2699/PNG/512/netlify_logo_icon_169923.png" width="33"/></a> &nbsp;
-<a href="https://www.vercel.com"><img src="https://skillicons.dev/icons?i=vercel" width="35"/></a> &nbsp; <!-- 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐂𝐨𝐧𝐭𝐫𝐨𝐥 --> <a href="https://git-scm.com"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="34"/></a> &nbsp; <a href="https://github.com"><img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/GitHub Icon.png" width="40"/></a> <!-- 𝐈𝐃𝐄𝐬 & 𝐄𝐝𝐢𝐭𝐨𝐫𝐬 --> <img src="https://upload.wikimedia.org/wikipedia/fr/0/01/Codeblocks_logo1.png" width="37"/> &nbsp; <a href="https://eclipseide.org"><img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" width="34"/></a> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Visual_Studio_Icon_2026.svg" width="32"/> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/960px-Visual_Studio_Code_1.35_icon.svg.png" width="32"/> &nbsp; <a href="https://colab.research.google.com"><img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/googlecolab-auto.svg" width="36"/></a> &nbsp; <a href="https://jupyter.org"><img src="https://images.icon-icons.com/2107/PNG/512/file_type_jupyter_icon_130494.png" width="36"/></a> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/960px-PyCharm_Icon.svg.png" width="34"/> &nbsp; <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/cursor-ai-code-icon.png" width="36"/> &nbsp; <img src="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/google-antigravity-logo-icon.png" width="32"/> &nbsp; <!-- 𝐓𝐨𝐨𝐥𝐬 & 𝐃𝐨𝐜𝐬 --> <a href="https://www.microsoft.com/en-us/microsoft-365/word"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Microsoft_Office_Word_%282025%E2%80%93present%29.svg/960px-Microsoft_Office_Word_%282025%E2%80%93present%29.svg.png" width="32"/></a> &nbsp; <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Microsoft_Office_Excel_%282025%E2%80%93present%29.svg/960px-Microsoft_Office_Excel_%282025%E2%80%93present%29.svg.png" width="32"/></a> &nbsp; <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_PowerPoint_%282025%E2%80%93present%29.svg/960px-Microsoft_Office_PowerPoint_%282025%E2%80%93present%29.svg.png" width="35"/></a> &nbsp; <a href="https://www.notion.so"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/960px-Notion-logo.svg.png" width="32"/></a> &nbsp;
-<a href="https://www.markdownguide.org"><img src="https://skillicons.dev/icons?i=markdown" width="35"/></a> &nbsp; <a href="https://www.overleaf.com"><img src="https://images.ctfassets.net/nrgyaltdicpt/2fJT673XY7Jyx0hnloYH5u/e8ab3a07b40ed4b9c18756d7741ef4dc/overleaf-o-logo-primary.png" width="33"/></a> &nbsp;
-<img src="https://skillicons.dev/icons?i=latex" width="35"/> &nbsp; <!-- 𝐃𝐞𝐬𝐢𝐠𝐧 & 𝐎𝐭𝐡𝐞𝐫 --> <img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/07/icon_9n1jf2U.png" width="35"/> 
+<a href="https://www.vercel.com"><img src="https://skillicons.dev/icons?i=vercel" width="35"/></a> &nbsp; 
+<!-- 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐂𝐨𝐧𝐭𝐫𝐨𝐥 --> 
+<a href="https://git-scm.com"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="34"/></a> &nbsp; 
+<a href="https://github.com"><img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/GitHub Icon.png" width="40"/></a> 
+<!-- 𝐈𝐃𝐄𝐬 & 𝐄𝐝𝐢𝐭𝐨𝐫𝐬 --> 
+<img src="https://upload.wikimedia.org/wikipedia/fr/0/01/Codeblocks_logo1.png" width="37"/> &nbsp; 
+<a href="https://eclipseide.org"><img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" width="34"/></a> &nbsp; 
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Visual_Studio_Icon_2026.svg" width="32"/> &nbsp; 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/960px-Visual_Studio_Code_1.35_icon.svg.png" width="32"/> &nbsp; 
+<a href="https://colab.research.google.com"><img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/googlecolab-auto.svg" width="36"/></a> &nbsp; 
+<a href="https://jupyter.org"><img src="https://images.icon-icons.com/2107/PNG/512/file_type_jupyter_icon_130494.png" width="36"/></a> &nbsp; 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/960px-PyCharm_Icon.svg.png" width="34"/> &nbsp; 
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/cursor-ai-code-icon.png" width="36"/> &nbsp; 
+<img src="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/google-antigravity-logo-icon.png" width="32"/> &nbsp; 
+<!-- 𝐓𝐨𝐨𝐥𝐬 & 𝐃𝐨𝐜𝐬 --> 
+<a href="https://www.microsoft.com/en-us/microsoft-365/word"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Microsoft_Office_Word_%282025%E2%80%93present%29.svg/960px-Microsoft_Office_Word_%282025%E2%80%93present%29.svg.png" width="32"/></a> &nbsp; 
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Microsoft_Office_Excel_%282025%E2%80%93present%29.svg/960px-Microsoft_Office_Excel_%282025%E2%80%93present%29.svg.png" width="32"/></a> &nbsp; 
+<a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_PowerPoint_%282025%E2%80%93present%29.svg/960px-Microsoft_Office_PowerPoint_%282025%E2%80%93present%29.svg.png" width="35"/></a> &nbsp; 
+<a href="https://www.notion.so"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/960px-Notion-logo.svg.png" width="32"/></a> &nbsp;
+<a href="https://www.markdownguide.org"><img src="https://skillicons.dev/icons?i=markdown" width="35"/></a> &nbsp; 
+<a href="https://www.overleaf.com"><img src="https://images.ctfassets.net/nrgyaltdicpt/2fJT673XY7Jyx0hnloYH5u/e8ab3a07b40ed4b9c18756d7741ef4dc/overleaf-o-logo-primary.png" width="33"/></a> &nbsp;
+<img src="https://skillicons.dev/icons?i=latex" width="35"/> &nbsp; 
+<!-- 𝐃𝐞𝐬𝐢𝐠𝐧 & 𝐎𝐭𝐡𝐞𝐫 --> 
+<img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/07/icon_9n1jf2U.png" width="35"/> 
 <a href="https://www.canva.com"><img src="https://1000logos.net/wp-content/uploads/2020/03/Canva-icon.png" width="54"/></a>
 
 
