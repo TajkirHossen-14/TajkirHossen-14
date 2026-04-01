@@ -66,7 +66,7 @@
 <a href="https://www.notion.so"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/960px-Notion-logo.svg.png" width="32"/></a> &nbsp;
 <a href="https://www.markdownguide.org"><img src="https://skillicons.dev/icons?i=markdown" width="35"/></a> &nbsp; 
 <a href="https://www.overleaf.com"><img src="https://images.ctfassets.net/nrgyaltdicpt/2fJT673XY7Jyx0hnloYH5u/e8ab3a07b40ed4b9c18756d7741ef4dc/overleaf-o-logo-primary.png" width="33"/></a> &nbsp;
-<img src="https://skillicons.dev/icons?i=latex" width="35"/> &nbsp; 
+<img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/latex-auto.svg" width="35"/> &nbsp; 
 <!-- 𝐃𝐞𝐬𝐢𝐠𝐧 & 𝐎𝐭𝐡𝐞𝐫 --> 
 <img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/07/icon_9n1jf2U.png" width="35"/> 
 <a href="https://www.canva.com"><img src="https://1000logos.net/wp-content/uploads/2020/03/Canva-icon.png" width="54"/></a>
