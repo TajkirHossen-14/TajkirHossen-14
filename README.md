@@ -82,8 +82,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://yourinsights.vercel.app/api/insight?username=TajkirHossen-14&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=true"/>
-    <img src="https://yourinsights.vercel.app/api/insight?username=TajkirHossen-14&theme=default&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=true"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://yourinsights.vercel.app/api/insight?username=TajkirHossen-14&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=true&summary=false&profile=false"/>
+    <img src="https://yourinsights.vercel.app/api/insight?username=TajkirHossen-14&theme=default&graph=false&languages=true&streak=true&stats=true&header=true&summary=false&profile=false"/>
   </picture>
 </div>
 
