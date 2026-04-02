@@ -89,19 +89,11 @@
 
 
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-62m5yuvkq-tajkirhossen14-4627s-projects.vercel.app/api/top-langs?username=TajkirHossen-14&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-    <img src="https://github-readme-stats-62m5yuvkq-tajkirhossen14-4627s-projects.vercel.app/api/top-langs?username=TajkirHossen-14&layout=compact&theme=default&hide_border=true&langs_count=8"/>
-  </picture>
-</div>
+
 
 
 <!-- 𝐒𝐭𝐫𝐞𝐚𝐤 𝐒𝐭𝐚𝐭𝐬 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=TajkirHossen-14&theme=highcontrast&hide_border=false&v=3"/>
-  <img src="https://streak-stats.demolab.com/?user=TajkirHossen-14&theme=default&hide_border=false&v=3"/>
-</picture> 
+ 
 
 <br>
   
