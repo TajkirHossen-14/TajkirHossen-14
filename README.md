@@ -87,12 +87,7 @@
   </picture>
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=TajkirHossen-14&theme=highcontrast"/>
-    <img src="https://streak-stats.demolab.com?user=TajkirHossen-14&theme=default"/>
-  </picture>
-</div>
+
 
 <div align="center">
   <picture>
