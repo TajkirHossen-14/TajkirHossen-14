@@ -81,8 +81,8 @@
 
 <!-- 𝐒𝐭𝐫𝐞𝐚𝐤 𝐒𝐭𝐚𝐭𝐬 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=TajkirHossen-14&theme=highcontrast&hide_border=false&v=2"/>
-  <img src="https://streak-stats.demolab.com/?user=TajkirHossen-14&theme=default&hide_border=false&v=2"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=TajkirHossen-14&theme=highcontrast&hide_border=false&v=3"/>
+  <img src="https://streak-stats.demolab.com/?user=TajkirHossen-14&theme=default&hide_border=false&v=3"/>
 </picture> 
 
 <br>
