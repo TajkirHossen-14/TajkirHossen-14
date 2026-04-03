@@ -18,7 +18,7 @@
 —·—
  
 <!-- 𝐒𝐨𝐜𝐢𝐚𝐥𝐬 -->  
-## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Socials.png" width="26" align="top"/> &nbsp;· &nbsp; Socials &nbsp; ·&nbsp; <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Socials [Mirror].png" width="26" align="top"/>
+## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Socials.png" width="26" align="top"/> &nbsp; · &nbsp; Socials &nbsp; · &nbsp; <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Socials [Mirror].png" width="26" align="top"/>
 
 <a href="mailto:tajkirhossen.14@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="33"/></a> . <a href="https://facebook.com/tajkirhossen.14"><img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/facebook.svg" width="34"/></a> . <a href="https://instagram.com/_tajkir.hossen_"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/960px-Instagram_logo_2022.svg.png" width="34"/></a> . <a href="https://linkedin.com/in/kazi-tajkir-hossen"><img src="https://skillicons.dev/icons?i=linkedin" width="33"/></a> . <a href="https://discord.com/users/kth_14"><img src="https://skillicons.dev/icons?i=discord" width="33"/></a>  
 <a href="https://x.com/TajkirHossen14"><img src="https://www.freepnglogos.com/uploads/twitter-x-logo-png/twitter-x-logo-png-9.png" width="33"/></a> . <a href="https://www.threads.net/@_tajkir.hossen_"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Threads_%28app%29.png/500px-Threads_%28app%29.png" width="33"/></a>
@@ -29,7 +29,7 @@
 
 
 <!-- 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤 --> 
-## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Tech Stack.png" width="23" align="top"/> · &nbsp; Tech Stack &nbsp; · <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Tech Stack [Mirror].png" width="23" align="top"/>
+## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Tech Stack.png" width="23" align="top"/> &nbsp; · &nbsp; Tech Stack &nbsp; · &nbsp; <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Tech Stack [Mirror].png" width="23" align="top"/>
 
 <!-- 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 -->
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.png" width="35"/> &nbsp; 
