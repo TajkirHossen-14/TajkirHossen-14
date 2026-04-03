@@ -77,7 +77,7 @@
 
 
 <!-- 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬 -->
-## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Stats [Mirror].png" width="22" align="top"/> · &nbsp; GitHub Stats &nbsp; · <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Stats.png" width="22" align="top"/> &nbsp;  
+## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Stats [Mirror].png" width="22" align="top"/> &nbsp; · &nbsp; GitHub Stats &nbsp; · &nbsp; <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Stats.png" width="22" align="top"/> &nbsp;  
 
 
 <div align="center">
