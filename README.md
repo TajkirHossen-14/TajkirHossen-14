@@ -123,4 +123,4 @@
 
 </div>
 
-![𝗙𝗼𝗼𝘁𝗲𝗿](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=84&section=footer)
+![𝗙𝗼𝗼𝘁𝗲𝗿](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=85&section=footer)
