@@ -82,8 +82,8 @@
 <!-- 𝐒𝐭𝐫𝐞𝐚𝐤+𝐎𝐭𝐡𝐞𝐫 𝐒𝐭𝐚𝐭𝐬 -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://yourinsights.vercel.app/api/insight?username=TajkirHossen-14&theme=github_dark&graph=false&languages=true&streak=true&stats=false&header=true&summary=false&profile=false"/>
-    <img src="https://yourinsights.vercel.app/api/insight?username=TajkirHossen-14&theme=github_light&graph=false&languages=true&streak=true&stats=false&header=true&summary=false&profile=false"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://yourinsights.vercel.app/api/insight?username=TajkirHossen-14&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false"/>
+    <img src="https://yourinsights.vercel.app/api/insight?username=TajkirHossen-14&theme=github_light&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false"/>
   </picture>
 </div>
 
