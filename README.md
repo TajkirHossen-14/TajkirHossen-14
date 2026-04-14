@@ -46,6 +46,7 @@
 <img src="https://skillicons.dev/icons?i=django" width="35"/> &nbsp;
 <a href="https://www.netlify.com"><img src="https://images.icon-icons.com/2699/PNG/512/netlify_logo_icon_169923.png" width="33"/></a> &nbsp;
 <a href="https://www.vercel.com"><img src="https://skillicons.dev/icons?i=vercel" width="35"/></a> &nbsp; 
+<img src="https://skillicons.dev/icons?i=railway" width="35"/>
 <!-- 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐂𝐨𝐧𝐭𝐫𝐨𝐥 --> 
 <a href="https://git-scm.com"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="34"/></a> &nbsp; 
 <a href="https://github.com"><img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/GitHub Icon.png" width="40"/></a> 
