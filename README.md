@@ -79,6 +79,42 @@
 
 
 <!-- Featured Projects -->
+## 🚀 Featured Projects
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/TajkirHossen-14/Smart_Eco_Home_Manager">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-62m5yuvkq-tajkirhossen14-4627s-projects.vercel.app/api/pin/?username=TajkirHossen-14&repo=Smart_Eco_Home_Manager&theme=dark&hide_border=true"/>
+          <img src="https://github-readme-stats-62m5yuvkq-tajkirhossen14-4627s-projects.vercel.app/api/pin/?username=TajkirHossen-14&repo=Smart_Eco_Home_Manager&theme=default&hide_border=true"/>
+        </picture>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/TajkirHossen-14/Esports_Tournament_Management">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-62m5yuvkq-tajkirhossen14-4627s-projects.vercel.app/api/pin/?username=TajkirHossen-14&repo=Esports_Tournament_Management&theme=dark&hide_border=true"/>
+          <img src="https://github-readme-stats-62m5yuvkq-tajkirhossen14-4627s-projects.vercel.app/api/pin/?username=TajkirHossen-14&repo=Esports_Tournament_Management&theme=default&hide_border=true"/>
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/TajkirHossen-14/AhaarBonton">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-62m5yuvkq-tajkirhossen14-4627s-projects.vercel.app/api/pin/?username=TajkirHossen-14&repo=AhaarBonton&theme=dark&hide_border=true"/>
+          <img src="https://github-readme-stats-62m5yuvkq-tajkirhossen14-4627s-projects.vercel.app/api/pin/?username=TajkirHossen-14&repo=AhaarBonton&theme=default&hide_border=true"/>
+        </picture>
+      </a>
+    </td>
+    <td align="center" width="50%">
+    </td>
+  </tr>
+</table>
+</div>
 
 
 <!-- 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬 -->
