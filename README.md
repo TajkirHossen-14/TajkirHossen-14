@@ -77,15 +77,23 @@
 <!-- Line --> 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
+</div>
 
-<!-- Featured Projects -->
-## 🚀 Featured Projects
+<div align="center">
+
+ ## 🚀 Featured Projects
+
+</div>
 
 - **[Smart Eco Home Manager](https://github.com/TajkirHossen-14/Smart_Eco_Home_Manager)**
   A smart home management system focused on energy efficiency and eco-friendly living.
 
 - **[Esports Tournament Management](https://github.com/TajkirHossen-14/Esports_Tournament_Management)**
   A tournament management system for esports events with team and match tracking.
+
+<div align="center">
+<!-- Line --> 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 
 <!-- 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬 -->
