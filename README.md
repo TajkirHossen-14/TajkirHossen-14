@@ -83,7 +83,7 @@
 <div align="center">
 –·–
  
- ## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Featured Projects [Mirror].png" width="22" align="top"/> &nbsp; · &nbsp; Featured Projects &nbsp; · &nbsp; <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Featured Projects.png" width="22" align="top"/> &nbsp; 
+ ## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Featured Projects [Mirror].png" width="23" align="top"/> · &nbsp; Featured Projects &nbsp; · <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Featured Projects.png" width="23" align="top"/> &nbsp; 
 
 </div>
 
