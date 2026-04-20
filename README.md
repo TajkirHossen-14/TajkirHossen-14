@@ -81,7 +81,7 @@
 
 
 <div align="center">
-—·—
+–·–
  
  ## 🚀 Featured Projects
 
@@ -91,7 +91,7 @@
 
 - **[Esports Tournament Management](https://github.com/TajkirHossen-14/Esports_Tournament_Management)** : A tournament management system for esports events with team and match tracking.
 
-<div align="center"> —·— </div> 
+<div align="center"> –·– </div> 
 
 <div align="center">
 <!-- Line --> 
