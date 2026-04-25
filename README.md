@@ -16,7 +16,8 @@
 · 👨‍💻 𝖢𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝖥𝗈𝖼𝗎𝗌𝗂𝗇𝗀 𝗈𝗇 𝖯𝗒𝗍𝗁𝗈𝗇, 𝖧𝖳𝖬𝖫 & 𝖢𝖲𝖲
 
 —·—
- 
+<hr>
+
 <!-- 𝐒𝐨𝐜𝐢𝐚𝐥𝐬 -->  
 ## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Socials.png" width="26" align="top"/> &nbsp; · &nbsp; Socials &nbsp; · &nbsp; <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Socials [Mirror].png" width="26" align="top"/>
 
