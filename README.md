@@ -5,7 +5,7 @@
 [![𝗧𝘆𝗽𝗶𝗻𝗴 𝗦𝗩𝗚](https://readme-typing-svg.herokuapp.com?font=Exo+2&weight=600&size=35&duration=3250&pause=1250&color=1085e5&center=true&vCenter=true&width=700&lines=Hi+There+👋🏼;I'm+Tajkir+!)](https://git.io/typing-svg) 
 
 <!-- 𝐆𝐢𝐟 -->
-<img src="https://media3.giphy.com/media/vKhKsyEFVK4IuEKzWY/giphy.gif" width="130" align="center"/>  
+<img src="https://media2.giphy.com/media/vKhKsyEFVK4IuEKzWY/giphy.gif" width="130" align="center"/>  
 
 <br>
 
