@@ -103,8 +103,8 @@
 <!-- Line --> 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
----
 
+<!--
 ## 🚀 Featured Projects
 
 <table>
@@ -127,8 +127,7 @@ A comprehensive tournament management system for **esports events**. Handles tea
 </td>
 </tr>
 </table>
-
----
+-->
 
 
 <!-- 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬 -->
