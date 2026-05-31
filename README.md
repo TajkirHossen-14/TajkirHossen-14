@@ -9,6 +9,8 @@
 
 <br>
 
+![Profile Views](https://komarev.com/ghpvc/?username=TajkirHossen-14&color=FF6B00&style=for-the-badge&label=PROFILE+VIEWS)
+
 ·•·
 
 · 🎓 𝖢𝗈𝗆𝗉𝗎𝗍𝖾𝗋 𝖲𝖼𝗂𝖾𝗇𝖼𝖾 & 𝖤𝗇𝗀𝗂𝗇𝖾𝖾𝗋𝗂𝗇𝗀 𝖲𝗍𝗎𝖽𝖾𝗇𝗍
