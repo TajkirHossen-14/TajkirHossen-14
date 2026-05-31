@@ -9,7 +9,7 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=TajkirHossen-14&color=FF6B00&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=TajkirHossen-14&color=58A6FF&style=flat-square&label=Profile+Views)
 
 ·•·
 
