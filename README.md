@@ -9,9 +9,11 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=TajkirHossen-14&color=58A6FF&style=flat-square&label=Profile+Views)
-
 ·•·
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=TajkirHossen-14&color=58A6FF&style=plastic&label=Profile+Views)
 
 · 🎓 𝖢𝗈𝗆𝗉𝗎𝗍𝖾𝗋 𝖲𝖼𝗂𝖾𝗇𝖼𝖾 & 𝖤𝗇𝗀𝗂𝗇𝖾𝖾𝗋𝗂𝗇𝗀 𝖲𝗍𝗎𝖽𝖾𝗇𝗍
 <br>
