@@ -13,7 +13,7 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=TajkirHossen-14&color=58A6FF&style=flat&label=PROFILE+VIEWS) 
+![Profile Views](https://komarev.com/ghpvc/?username=TajkirHossen-14&color=58A6FF&style=flat&label=PROFILE+VISITS) 
 <!-- ![GitHub](https://img.shields.io/badge/GitHub-TajkirHossen--14-58A6FF?logo=github) -->
 
 · 🎓 𝖢𝗈𝗆𝗉𝗎𝗍𝖾𝗋 𝖲𝖼𝗂𝖾𝗇𝖼𝖾 & 𝖤𝗇𝗀𝗂𝗇𝖾𝖾𝗋𝗂𝗇𝗀 𝖲𝗍𝗎𝖽𝖾𝗇𝗍
