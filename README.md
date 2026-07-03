@@ -68,6 +68,7 @@
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/cursor-ai-code-icon.png" width="36"/> &nbsp; 
 <img src="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/google-antigravity-logo-icon.png" width="32"/> &nbsp; 
 <a href="https://zed.dev"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Zed_Editor_Logo.png/960px-Zed_Editor_Logo.png" width="35"/></a> &nbsp; 
+<a href="https://www.sublimetext.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Sublime-Dark.svg" width="35"/></a> &nbsp; 
 <!-- 𝐓𝐨𝐨𝐥𝐬 & 𝐃𝐨𝐜𝐬 --> 
 <a href="https://www.microsoft.com/en-us/microsoft-365/word"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Microsoft_Office_Word_%282025%E2%80%93present%29.svg/960px-Microsoft_Office_Word_%282025%E2%80%93present%29.svg.png" width="32"/></a> &nbsp; 
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Microsoft_Office_Excel_%282025%E2%80%93present%29.svg/960px-Microsoft_Office_Excel_%282025%E2%80%93present%29.svg.png" width="32"/></a> &nbsp; 
