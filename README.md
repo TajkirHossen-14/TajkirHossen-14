@@ -146,7 +146,7 @@ A comprehensive tournament management system for **esports events**. Handles tea
 </div>
 
 
-<a href="https://gitfut.com/TajkirHossen-14"><img src="https://gitfut.com/TajkirHossen-14.png" width=50%/></a>
+<a href="https://gitfut.com/TajkirHossen-14"><img src="https://gitfut.com/TajkirHossen-14" width=50%/></a>
 
  
 <!--br-->
