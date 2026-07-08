@@ -133,8 +133,6 @@ A comprehensive tournament management system for **esports events**. Handles tea
 </table>
 -->
 
-[![GitFut Card](https://gitfut.com/TajkirHossen-14.png)](https://gitfut.com/TajkirHossen-14)
-
 
 <!-- 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬 -->
 ## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Stats [Mirror].png" width="22" align="top"/> &nbsp; · &nbsp; GitHub Stats &nbsp; · &nbsp; <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Stats.png" width="22" align="top"/> &nbsp;  
@@ -146,6 +144,9 @@ A comprehensive tournament management system for **esports events**. Handles tea
     <img src="https://yourinsights.vercel.app/api/insight?username=TajkirHossen-14&theme=github_light&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false"/>
   </picture>
 </div>
+
+
+<a href="https://gitfut.com/TajkirHossen-14"><img src="https://gitfut.com/TajkirHossen-14.png" width="60"/></a>
 
  
 <!--br-->
