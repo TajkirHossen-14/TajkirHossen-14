@@ -133,6 +133,8 @@ A comprehensive tournament management system for **esports events**. Handles tea
 </table>
 -->
 
+[![GitFut Card](https://gitfut.com/TajkirHossen-14.png)](https://gitfut.com/TajkirHossen-14)
+
 
 <!-- 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬 -->
 ## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Stats [Mirror].png" width="22" align="top"/> &nbsp; · &nbsp; GitHub Stats &nbsp; · &nbsp; <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Stats.png" width="22" align="top"/> &nbsp;  
