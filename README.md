@@ -180,7 +180,7 @@ A comprehensive tournament management system for **esports events**. Handles tea
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/profile-3d-contrib/profile-night-green.svg"/>
-  <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/profile-3d-contrib/profile-season-south.svg"/>
+  <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/profile-3d-contrib/profile-south-season-animate.svg"/>
 </picture>
 
 
