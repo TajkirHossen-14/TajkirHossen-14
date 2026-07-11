@@ -68,7 +68,7 @@
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/cursor-ai-code-icon.png" width="36"/> &nbsp; 
 <img src="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/google-antigravity-logo-icon.png" width="32"/> &nbsp; 
 <a href="https://zed.dev"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Zed_Editor_Logo.png/960px-Zed_Editor_Logo.png" width="35"/></a> &nbsp; 
-<img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/478d44beb8f57a91031566d929294c225fb1c927/Assets/Icons/Qoder%20Logo.png" width="35"/> &nbsp; 
+<a href="https://qoder.com"><img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/478d44beb8f57a91031566d929294c225fb1c927/Assets/Icons/Qoder%20Logo.png" width="35"/></a> &nbsp; 
 <a href="https://www.sublimetext.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Sublime-Dark.svg" width="35"/></a> &nbsp; 
 <a href="https://codepen.io/TajkirHossen-14"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/CodePen-Dark.svg" width="35"/></a> &nbsp; 
 <!-- 𝐓𝐨𝐨𝐥𝐬 & 𝐃𝐨𝐜𝐬 --> 
