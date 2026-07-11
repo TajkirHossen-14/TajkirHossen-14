@@ -113,6 +113,21 @@
 > A tournament management system for esports events with team and match tracking.
 
 
+<p align="center">
+  <a href="https://github.com/TajkirHossen-14/Ahaar_Bonton">
+    <img src="https://github-readme-stats-62m5yuvkq-tajkirhossen14-4627s-projects.vercel.app/api/pin/?username=TajkirHossen-14&repo=Ahaar_Bonton&theme=dark" width="400"/>
+  </a>
+  <a href="https://github.com/TajkirHossen-14/Smart_Eco_Home_Manager">
+    <img src="https://github-readme-stats-62m5yuvkq-tajkirhossen14-4627s-projects.vercel.app/api/pin/?username=TajkirHossen-14&repo=Smart_Eco_Home_Manager&theme=dark" width="400"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/TajkirHossen-14/Esports_Tournament_Management">
+    <img src="https://github-readme-stats-62m5yuvkq-tajkirhossen14-4627s-projects.vercel.app/api/pin/?username=TajkirHossen-14&repo=Esports_Tournament_Management&theme=dark" width="400"/>
+  </a>
+</p>
+
+
 <div align="center"> –·–·– </div> 
 
 <div align="center">
