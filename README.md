@@ -97,35 +97,20 @@
  ## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Featured Projects [Mirror].png" width="23" align="top"/>  &nbsp; Featured Projects &nbsp;  <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Featured Projects.png" width="23" align="top"/> &nbsp; 
 
 </div>
-
+<!-- 
 - 🍛 **[AhaarBonton](https://github.com/TajkirHossen-14/Ahaar_Bonton)** : A surplus food redistribution platform connecting donors, NGOs and volunteers to reduce food waste.
 - 🏠 **[Smart Eco Home Manager](https://github.com/TajkirHossen-14/Smart_Eco_Home_Manager)** : A smart home management system focused on energy efficiency and eco-friendly living.
 - 🎮 **[Esports Tournament Management](https://github.com/TajkirHossen-14/Esports_Tournament_Management)** : A tournament management system for esports events with team and match tracking.
+-->
 
-
-> ### 🍛 [AhaarBonton](https://github.com/TajkirHossen-14/Ahaar_Bonton)
+> 🍛 [AhaarBonton](https://github.com/TajkirHossen-14/Ahaar_Bonton)
 > A surplus food redistribution platform connecting donors, NGOs and volunteers to reduce food waste.
 
-> ### 🏠 [Smart Eco Home Manager](https://github.com/TajkirHossen-14/Smart_Eco_Home_Manager)
+> 🏠 [Smart Eco Home Manager](https://github.com/TajkirHossen-14/Smart_Eco_Home_Manager)
 > A smart home management system focused on energy efficiency and eco-friendly living.
 
-> ### 🎮 [Esports Tournament Management](https://github.com/TajkirHossen-14/Esports_Tournament_Management)
+> 🎮 [Esports Tournament Management](https://github.com/TajkirHossen-14/Esports_Tournament_Management)
 > A tournament management system for esports events with team and match tracking.
-
-
-<p align="center">
-  <a href="https://github.com/TajkirHossen-14/Ahaar_Bonton">
-    <img src="https://github-readme-stats-62m5yuvkq-tajkirhossen14-4627s-projects.vercel.app/api/pin/?username=TajkirHossen-14&repo=Ahaar_Bonton&theme=dark" width="400"/>
-  </a>
-  <a href="https://github.com/TajkirHossen-14/Smart_Eco_Home_Manager">
-    <img src="https://github-readme-stats-62m5yuvkq-tajkirhossen14-4627s-projects.vercel.app/api/pin/?username=TajkirHossen-14&repo=Smart_Eco_Home_Manager&theme=dark" width="400"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/TajkirHossen-14/Esports_Tournament_Management">
-    <img src="https://github-readme-stats-62m5yuvkq-tajkirhossen14-4627s-projects.vercel.app/api/pin/?username=TajkirHossen-14&repo=Esports_Tournament_Management&theme=dark" width="400"/>
-  </a>
-</p>
 
 
 <div align="center"> –·–·– </div> 
