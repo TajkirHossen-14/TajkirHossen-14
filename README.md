@@ -66,7 +66,7 @@
 <a href="https://jupyter.org"><img src="https://images.icon-icons.com/2107/PNG/512/file_type_jupyter_icon_130494.png" width="36"/></a> &nbsp; 
 <a href="https://www.jetbrains.com/pycharm"><img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/9873f9cb4e5ee52214151e746f57162cec459c8a/Assets/Icons/Pycharm%20Logo.png" width="34"/></a> &nbsp; 
 <a href="https://www.jetbrains.com/webstorm"><img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/b131907450ea021d6c12764fe5e0bbc0459d52dd/Assets/Icons/WebStorm%20Logo.png" width="35"/></a> &nbsp; 
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/cursor-ai-code-icon.png" width="36"/> &nbsp; 
+<a href="https://www.cursor.com"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/cursor-ai-code-icon.png" width="36"/></a> &nbsp; 
 <img src="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/google-antigravity-logo-icon.png" width="32"/> &nbsp; 
 <a href="https://zed.dev"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Zed_Editor_Logo.png/960px-Zed_Editor_Logo.png" width="35"/></a> &nbsp; 
 <a href="https://qoder.com"><img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/478d44beb8f57a91031566d929294c225fb1c927/Assets/Icons/Qoder%20Logo.png" width="35"/></a> &nbsp; 
