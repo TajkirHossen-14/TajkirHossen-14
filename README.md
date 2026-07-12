@@ -39,7 +39,7 @@
 <!-- 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 -->
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.png" width="35"/> &nbsp; 
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-plus-plus-programming-language-icon.png" width="35"/> &nbsp; 
-<img src="https://skillicons.dev/icons?i=java" width="36"/> &nbsp; 
+<a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" width="36"/></a> &nbsp; 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/960px-Python-logo-notext.svg.png" width="32"/> &nbsp;
 <!-- 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 --> 
 <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" width="36"/></a> &nbsp; 
