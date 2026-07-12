@@ -61,7 +61,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/fr/0/01/Codeblocks_logo1.png" width="37"/> &nbsp; 
 <a href="https://eclipseide.org"><img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" width="34"/></a> &nbsp; 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Visual_Studio_Icon_2026.svg" width="32"/> &nbsp; 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/960px-Visual_Studio_Code_1.35_icon.svg.png" width="32"/> &nbsp; 
+<a href="https://code.visualstudio.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/960px-Visual_Studio_Code_1.35_icon.svg.png" width="32"/></a> &nbsp; 
 <a href="https://colab.research.google.com"><img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/googlecolab-auto.svg" width="36"/></a> &nbsp; 
 <a href="https://jupyter.org"><img src="https://images.icon-icons.com/2107/PNG/512/file_type_jupyter_icon_130494.png" width="36"/></a> &nbsp; 
 <a href="https://www.jetbrains.com/pycharm"><img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/9873f9cb4e5ee52214151e746f57162cec459c8a/Assets/Icons/Pycharm%20Logo.png" width="34"/></a> &nbsp; 
