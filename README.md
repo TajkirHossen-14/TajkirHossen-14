@@ -71,7 +71,7 @@
 <a href="https://zed.dev"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Zed_Editor_Logo.png/960px-Zed_Editor_Logo.png" width="35"/></a> &nbsp; 
 <a href="https://qoder.com"><img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/478d44beb8f57a91031566d929294c225fb1c927/Assets/Icons/Qoder%20Logo.png" width="35"/></a> &nbsp; 
 <a href="https://www.trae.ai"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Traelogo.png" width="35"/></a> &nbsp; 
-<img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/09a18991a58af4e0d7f43d6ee2138a29b6f00893/Assets/Icons/Kiro%20Icon.png" width="35"/>
+<a href="https://kiro.dev"><img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/09a18991a58af4e0d7f43d6ee2138a29b6f00893/Assets/Icons/Kiro%20Icon.png" width="35"/></a> &nbsp; 
 <a href="https://www.sublimetext.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Sublime-Dark.svg" width="35"/></a> &nbsp; 
 <a href="https://codepen.io"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/CodePen-Dark.svg" width="35"/></a> &nbsp; 
 <!-- 𝐓𝐨𝐨𝐥𝐬 & 𝐃𝐨𝐜𝐬 --> 
