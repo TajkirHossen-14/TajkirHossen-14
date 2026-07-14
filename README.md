@@ -196,9 +196,7 @@ A comprehensive tournament management system for **esports events**. Handles tea
 </picture>
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TajkirHossen-14&theme=onestar&no-frame=true&no-bg=true&row=1&column=7"/>
-</p>
+[![committers.top badge](https://user-badge.committers.top/bangladesh_private/TajkirHossen-14.svg)](https://user-badge.committers.top/bangladesh_private/TajkirHossen-14)
 
 
 <!-- Line --> 
