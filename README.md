@@ -196,6 +196,11 @@ A comprehensive tournament management system for **esports events**. Handles tea
 </picture>
 
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TajkirHossen-14&theme=onestar&no-frame=true&no-bg=true&row=1&column=7"/>
+</p>
+
+
 <!-- Line --> 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
