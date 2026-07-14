@@ -161,18 +161,18 @@ A comprehensive tournament management system for **esports events**. Handles tea
 <!-- 𝐆𝐢𝐭𝐅𝐮𝐭 -->
 <div align="center"> 
  
- ### GitFut Card
+ ### · GitFut Card ·
 
 </div>
 <a href="https://gitfut.com/TajkirHossen-14"><img src="https://gitfut.com/TajkirHossen-14.png" width=50%/></a>
 
-<div align="center"> –·– </div>
+<!-- <div align="center"> –·– </div> -->
 
 
 <!-- 𝐆𝐢𝐭𝐇𝐮𝐛 𝐓𝐫𝐨𝐩𝐡𝐢𝐞𝐬 -->
 <div align="center"> 
  
- ### GitHub Trophies 
+ ### · GitHub Trophies ·
 
 </div>
 <p align="center">
