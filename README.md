@@ -197,7 +197,7 @@ A comprehensive tournament management system for **esports events**. Handles tea
 
 <div align="center"> –·– </div>
 
-<!-- GitHub Trophies -->
+<!-- 𝐆𝐢𝐭𝐇𝐮𝐛 𝐓𝐫𝐨𝐩𝐡𝐢𝐞𝐬 -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./Assets/trophy-dark.svg"/>
