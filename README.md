@@ -195,7 +195,7 @@ A comprehensive tournament management system for **esports events**. Handles tea
   <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/profile-3d-contrib/profile-south-season-animate.svg"/>
 </picture>
 
-<br>
+<div align="center"> –·– </div>
 
 <!-- GitHub Trophies -->
 <p align="center">
