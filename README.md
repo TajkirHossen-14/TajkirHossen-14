@@ -160,6 +160,16 @@ A comprehensive tournament management system for **esports events**. Handles tea
 
 <a href="https://gitfut.com/TajkirHossen-14"><img src="https://gitfut.com/TajkirHossen-14.png" width=50%/></a>
 
+<div align="center"> –·– </div>
+
+<!-- 𝐆𝐢𝐭𝐇𝐮𝐛 𝐓𝐫𝐨𝐩𝐡𝐢𝐞𝐬 -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./Assets/trophy-dark.svg"/>
+    <img src="./Assets/trophy-light.svg"/>
+  </picture>
+</p>
+
  
 <!--br-->
  
@@ -194,16 +204,6 @@ A comprehensive tournament management system for **esports events**. Handles tea
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/profile-3d-contrib/profile-night-green.svg"/>
   <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/profile-3d-contrib/profile-south-season-animate.svg"/>
 </picture>
-
-<div align="center"> –·– </div>
-
-<!-- 𝐆𝐢𝐭𝐇𝐮𝐛 𝐓𝐫𝐨𝐩𝐡𝐢𝐞𝐬 -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./Assets/trophy-dark.svg"/>
-    <img src="./Assets/trophy-light.svg"/>
-  </picture>
-</p>
 
 
 <!-- Line --> 
