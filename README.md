@@ -196,7 +196,12 @@ A comprehensive tournament management system for **esports events**. Handles tea
 </picture>
 
 
-[![committers.top badge](https://user-badge.committers.top/bangladesh_private/TajkirHossen-14.svg)](https://user-badge.committers.top/bangladesh_private/TajkirHossen-14)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./Assets/trophy-dark.svg"/>
+    <img src="./Assets/trophy-light.svg"/>
+  </picture>
+</p>
 
 
 <!-- Line --> 
