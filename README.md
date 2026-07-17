@@ -59,8 +59,8 @@
 <a href="https://render.com"><img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/render-auto.svg" width="35"/></a>
 <!-- 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐂𝐨𝐧𝐭𝐫𝐨𝐥 --> 
 <a href="https://git-scm.com"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="34"/></a> &nbsp; 
-<a href="https://github.com"><img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/GitHub Icon.png" width="40"/></a> &nbsp; 
-<a href="https://gitlab.com/TajkirHossen-14"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/GitLab_icon.svg/960px-GitLab_icon.svg.png" width="35"/></a> 
+<a href="https://github.com/TajkirHossen-14"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/960px-Github-desktop-logo-symbol.svg.png" width="34"/></a> &nbsp; 
+<a href="https://gitlab.com/TajkirHossen-14"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/GitLab_icon.svg/960px-GitLab_icon.svg.png" width="34"/></a> 
 <!-- 𝐈𝐃𝐄𝐬 & 𝐄𝐝𝐢𝐭𝐨𝐫𝐬 --> 
 <img src="https://upload.wikimedia.org/wikipedia/fr/0/01/Codeblocks_logo1.png" width="37"/> &nbsp; 
 <a href="https://eclipseide.org"><img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" width="34"/></a> &nbsp; 
