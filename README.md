@@ -159,16 +159,6 @@ A comprehensive tournament management system for **esports events**. Handles tea
 </div>
 
 
-<p align="center">
-  <a href="https://monkeytype.com/profile/Tajkir_Hossen">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/monkeytype-readme-dark/monkeytype-readme.svg"/>
-      <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/monkeytype-readme-light/monkeytype-readme.svg" alt="My Monkeytype profile"/>
-    </picture>
-  </a>
-</p>
-
-
 <!-- 𝐆𝐢𝐭𝐅𝐮𝐭 -->
 <div align="center"> 
  
@@ -231,6 +221,17 @@ A comprehensive tournament management system for **esports events**. Handles tea
 
 <!-- Line --> 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+
+<!-- MonkeyType Card -->
+<div align="center">
+  <a href="https://monkeytype.com/profile/Tajkir_Hossen">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/monkeytype-readme-dark/monkeytype-readme.svg"/>
+      <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/monkeytype-readme-light/monkeytype-readme.svg" alt="My Monkeytype profile"/>
+    </picture>
+  </a>
+</div>
 
 
 ![𝗦𝗻𝗮𝗸𝗲 𝗔𝗻𝗶𝗺𝗮𝘁𝗶𝗼𝗻](https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/output/github-contribution-grid-snake-dark.svg)
