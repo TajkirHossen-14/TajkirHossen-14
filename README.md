@@ -262,7 +262,7 @@ Sunday                   171 commits         ████░░░░░░░�
 ```
 
 
-</div> 📊 **This Week I Spent My Time On** </div>
+<div align="center"> 📊 **This Week I Spent My Time On** </div>
 
 ```text
 🕑︎ Time Zone: Asia/Dhaka
@@ -287,7 +287,7 @@ GitHub Distribution Chart11 mins             ████░░░░░░░�
 Windows                  1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
-</div> **I Mostly Code in Jupyter Notebook** </div>
+<div align="center"> **I Mostly Code in Jupyter Notebook** </div>
 
 ```text
 Jupyter Notebook         2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
@@ -300,7 +300,7 @@ SVG                      1 repo              ███░░░░░░░░�
 
 
 
-</div> Last Updated on 17/07/2026 20:06:59 UTC </div>
+<div align="center"> Last Updated on 17/07/2026 20:06:59 UTC </div>
  
 <!--END_SECTION:waka-->
 
