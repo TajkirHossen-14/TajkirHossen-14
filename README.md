@@ -249,7 +249,11 @@ A comprehensive tournament management system for **esports events**. Handles tea
 
 </div>
 
-<div align="center"> 📅 **I'm Most Productive on Saturday** </div>
+<div align="center"> 
+ 
+ 📅 **I'm Most Productive on Saturday** 
+ 
+</div>
 
 ```text
 Monday                   111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
@@ -262,7 +266,11 @@ Sunday                   171 commits         ████░░░░░░░�
 ```
 
 
-<div align="center"> 📊 **This Week I Spent My Time On** </div>
+<div align="center"> 
+ 
+ 📊 **This Week I Spent My Time On** 
+
+</div>
 
 ```text
 🕑︎ Time Zone: Asia/Dhaka
@@ -287,7 +295,11 @@ GitHub Distribution Chart11 mins             ████░░░░░░░�
 Windows                  1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
-<div align="center"> **I Mostly Code in Jupyter Notebook** </div>
+<div align="center"> 
+ 
+ **I Mostly Code in Jupyter Notebook** 
+ 
+</div>
 
 ```text
 Jupyter Notebook         2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
