@@ -225,7 +225,7 @@ A comprehensive tournament management system for **esports events**. Handles tea
 
 <!-- MonkeyType Card -->
 
-# MonkeyType Stats
+## · MonkeyType Stats ·
 
 <div align="center">
   <a href="https://monkeytype.com/profile/Tajkir_Hossen">
