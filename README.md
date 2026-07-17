@@ -223,15 +223,17 @@ A comprehensive tournament management system for **esports events**. Handles tea
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 
-<!-- MonkeyType Card -->
+<!-- 𝐌𝐨𝐧𝐤𝐞𝐲𝐓𝐲𝐩𝐞 𝐂𝐚𝐫𝐝 -->
 
 ## · MonkeyType Stats ·
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/monkeytype-readme-dark/monkeytype-readme-pb.svg"/>
-    <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/monkeytype-readme-light/monkeytype-readme-pb.svg" alt="My Monkeytype PB"/>
-  </picture>
+  <a href="https://monkeytype.com/profile/Tajkir_Hossen">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/monkeytype-readme-dark/monkeytype-readme-pb.svg"/>
+      <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/monkeytype-readme-light/monkeytype-readme-pb.svg" alt="My Monkeytype PB"/>
+    </picture>
+  </a>
 </p>
 
 
