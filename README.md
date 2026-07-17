@@ -224,6 +224,9 @@ A comprehensive tournament management system for **esports events**. Handles tea
 
 
 <!-- MonkeyType Card -->
+
+# MonkeyType Stats
+
 <div align="center">
   <a href="https://monkeytype.com/profile/Tajkir_Hossen">
     <picture>
@@ -232,6 +235,10 @@ A comprehensive tournament management system for **esports events**. Handles tea
     </picture>
   </a>
 </div>
+
+
+<!-- Line --> 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 
 ![𝗦𝗻𝗮𝗸𝗲 𝗔𝗻𝗶𝗺𝗮𝘁𝗶𝗼𝗻](https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/output/github-contribution-grid-snake-dark.svg)
