@@ -227,14 +227,12 @@ A comprehensive tournament management system for **esports events**. Handles tea
 
 ## · MonkeyType Stats ·
 
-<div align="center">
-  <a href="https://monkeytype.com/profile/Tajkir_Hossen">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/monkeytype-readme-dark/monkeytype-readme.svg"/>
-      <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/monkeytype-readme-light/monkeytype-readme.svg" alt="My Monkeytype profile"/>
-    </picture>
-  </a>
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/monkeytype-readme-dark/monkeytype-readme-pb.svg"/>
+    <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/monkeytype-readme-light/monkeytype-readme-pb.svg" alt="My Monkeytype PB"/>
+  </picture>
+</p>
 
 
 <!-- Line --> 
