@@ -237,6 +237,8 @@ A comprehensive tournament management system for **esports events**. Handles tea
   </a>
 </p>
 
+</div>
+
 
 ## · WakaTime Stats ·
 
@@ -299,6 +301,7 @@ SVG                      1 repo              ███░░░░░░░░�
  
 <!--END_SECTION:waka-->
 
+<div align="center">
 
 <!-- Line --> 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
