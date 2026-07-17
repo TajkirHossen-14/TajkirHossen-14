@@ -239,14 +239,17 @@ A comprehensive tournament management system for **esports events**. Handles tea
 
 </div>
 
-
+<div align="center">
+ 
 ## · WakaTime Stats ·
 
 <!--START_SECTION:waka-->
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%202%20mins-blue?style=flat)
 
-📅 **I'm Most Productive on Saturday** 
+</div>
+
+<div align="center"> 📅 **I'm Most Productive on Saturday** </div>
 
 ```text
 Monday                   111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
@@ -259,7 +262,7 @@ Sunday                   171 commits         ████░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+</div> 📊 **This Week I Spent My Time On** </div>
 
 ```text
 🕑︎ Time Zone: Asia/Dhaka
@@ -284,7 +287,7 @@ GitHub Distribution Chart11 mins             ████░░░░░░░�
 Windows                  1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in Jupyter Notebook** 
+</div> **I Mostly Code in Jupyter Notebook** </div>
 
 ```text
 Jupyter Notebook         2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
@@ -297,7 +300,7 @@ SVG                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 17/07/2026 20:06:59 UTC
+</div> Last Updated on 17/07/2026 20:06:59 UTC </div>
  
 <!--END_SECTION:waka-->
 
