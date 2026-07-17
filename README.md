@@ -159,6 +159,16 @@ A comprehensive tournament management system for **esports events**. Handles tea
 </div>
 
 
+<p align="center">
+  <a href="https://monkeytype.com/profile/Tajkir_Hossen">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/monkeytype-readme-dark/monkeytype-readme.svg"/>
+      <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/monkeytype-readme-light/monkeytype-readme.svg" alt="My Monkeytype profile"/>
+    </picture>
+  </a>
+</p>
+
+
 <!-- 𝐆𝐢𝐭𝐅𝐮𝐭 -->
 <div align="center"> 
  
