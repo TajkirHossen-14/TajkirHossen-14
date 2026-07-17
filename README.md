@@ -238,6 +238,12 @@ A comprehensive tournament management system for **esports events**. Handles tea
 </p>
 
 
+## WakaTime Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <!-- Line --> 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
