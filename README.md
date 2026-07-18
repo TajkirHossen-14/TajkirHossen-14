@@ -226,7 +226,7 @@ A comprehensive tournament management system for **esports events**. Handles tea
 
 <!-- 𝐌𝐨𝐧𝐤𝐞𝐲𝐭𝐲𝐩𝐞 𝐒𝐭𝐚𝐭𝐬 -->
 
-## <img src="https://github.com/TajkirHossen-14/TajkirHossen-14/blob/e92e2aaf1620195dbf4cd82b6a559c84cc1ccc98/Assets/Icons/Typing_Logo.png" width="24" align="top"/> · &nbsp; Typing Stats &nbsp; · <img src="https://github.com/TajkirHossen-14/TajkirHossen-14/blob/e92e2aaf1620195dbf4cd82b6a559c84cc1ccc98/Assets/Icons/Typing_Logo-%5BMirror%5D.png" width="24" align="top"/>
+## <img src="https://github.com/TajkirHossen-14/TajkirHossen-14/blob/e92e2aaf1620195dbf4cd82b6a559c84cc1ccc98/Assets/Icons/Typing_Logo.png" width="27" align="top"/> · &nbsp; Typing Stats &nbsp; · <img src="https://github.com/TajkirHossen-14/TajkirHossen-14/blob/e92e2aaf1620195dbf4cd82b6a559c84cc1ccc98/Assets/Icons/Typing_Logo-%5BMirror%5D.png" width="27" align="top"/>
 
 <p align="center">
   <a href="https://monkeytype.com/profile/Tajkir_Hossen">
