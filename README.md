@@ -226,7 +226,7 @@ A comprehensive tournament management system for **esports events**. Handles tea
 
 <!-- 𝐌𝐨𝐧𝐤𝐞𝐲𝐭𝐲𝐩𝐞 𝐒𝐭𝐚𝐭𝐬 -->
 
-## <img src="https://github.com/TajkirHossen-14/TajkirHossen-14/blob/e92e2aaf1620195dbf4cd82b6a559c84cc1ccc98/Assets/Icons/Typing_Logo.png" width="22" align="top"/> · &nbsp; Typing Stats &nbsp; · <img src="https://github.com/TajkirHossen-14/TajkirHossen-14/blob/e92e2aaf1620195dbf4cd82b6a559c84cc1ccc98/Assets/Icons/Typing_Logo-%5BMirror%5D.png" width="22" align="top"/>
+## <img src="https://github.com/TajkirHossen-14/TajkirHossen-14/blob/e92e2aaf1620195dbf4cd82b6a559c84cc1ccc98/Assets/Icons/Typing_Logo.png" width="24" align="top"/> · &nbsp; Typing Stats &nbsp; · <img src="https://github.com/TajkirHossen-14/TajkirHossen-14/blob/e92e2aaf1620195dbf4cd82b6a559c84cc1ccc98/Assets/Icons/Typing_Logo-%5BMirror%5D.png" width="24" align="top"/>
 
 <p align="center">
   <a href="https://monkeytype.com/profile/Tajkir_Hossen">
@@ -256,7 +256,7 @@ A comprehensive tournament management system for **esports events**. Handles tea
 
 <div align="center">
  
-## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/21fb98a5301d47734796a5501f48046cddafaa9b/Assets/Icons/WakaTime_Logo%20%5BSavoy%20Blue%5D.png" width="22" align="top"/> · &nbsp; WakaTime Stats &nbsp; · <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/21fb98a5301d47734796a5501f48046cddafaa9b/Assets/Icons/WakaTime_Logo%20%5BSavoy%20Blue%5D.png" width="22" align="top"/>
+## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/21fb98a5301d47734796a5501f48046cddafaa9b/Assets/Icons/WakaTime_Logo%20%5BSavoy%20Blue%5D.png" width="23" align="top"/> · &nbsp; WakaTime Stats &nbsp; · <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/21fb98a5301d47734796a5501f48046cddafaa9b/Assets/Icons/WakaTime_Logo%20%5BSavoy%20Blue%5D.png" width="23" align="top"/>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%202%20mins-blue?style=flat)
