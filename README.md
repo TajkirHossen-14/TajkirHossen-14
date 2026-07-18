@@ -259,33 +259,22 @@ A comprehensive tournament management system for **esports events**. Handles tea
 ## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/21fb98a5301d47734796a5501f48046cddafaa9b/Assets/Icons/WakaTime_Logo%20%5BSavoy%20Blue%5D.png" width="22" align="top"/> · &nbsp; WakaTime Stats &nbsp; · <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/21fb98a5301d47734796a5501f48046cddafaa9b/Assets/Icons/WakaTime_Logo%20%5BSavoy%20Blue%5D.png" width="22" align="top"/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2044%20mins-blue?style=flat)
 
-![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%202%20mins-blue?style=flat)
-
-</div>
-
-<div align="center"> 
- 
- 📅 **I'm Most Productive on Saturday** 
- 
-</div>
+📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-Tuesday                  168 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-Wednesday                190 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-Thursday                 177 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Friday                   154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-Saturday                 218 commits         █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
-Sunday                   171 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Monday                   111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+Tuesday                  168 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Wednesday                190 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Thursday                 177 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Friday                   154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+Saturday                 244 commits         █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+Sunday                   171 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
 ```
 
 
-<div align="center"> 
- 
- 📊 **This Week I Spent My Time On** 
-
-</div>
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Dhaka
@@ -297,11 +286,11 @@ HTML                     6 mins              ███░░░░░░░░�
 CSS                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
 Git                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
 
-✏️ Editors:
+🔥 Editors: 
 Antigravity IDE          44 mins             ████████████████░░░░░░░░░   65.22 % 
 VS Code                  23 mins             █████████░░░░░░░░░░░░░░░░   34.78 % 
 
-🗂️ Projects: 
+🐱‍💻 Projects: 
 TypeVerse                37 mins             ██████████████░░░░░░░░░░░   55.55 % 
 AhaarBonton              18 mins             ███████░░░░░░░░░░░░░░░░░░   27.49 % 
 GitHub Distribution Chart11 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
@@ -310,11 +299,7 @@ GitHub Distribution Chart11 mins             ████░░░░░░░�
 Windows                  1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
-<div align="center"> 
- 
- **I Mostly Code in Jupyter Notebook** 
- 
-</div>
+**I Mostly Code in Jupyter Notebook** 
 
 ```text
 Jupyter Notebook         2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
@@ -327,8 +312,7 @@ SVG                      1 repo              ███░░░░░░░░�
 
 
 
-<div align="center"> Last Updated on 17/07/2026 20:06:59 UTC </div>
- 
+ Last Updated on 18/07/2026 14:23:22 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
