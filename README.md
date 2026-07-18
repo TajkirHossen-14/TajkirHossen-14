@@ -224,9 +224,9 @@ A comprehensive tournament management system for **esports events**. Handles tea
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 
-<!-- 𝐌𝐨𝐧𝐤𝐞𝐲𝐭𝐲𝐩𝐞 𝐂𝐚𝐫𝐝 -->
+<!-- 𝐌𝐨𝐧𝐤𝐞𝐲𝐭𝐲𝐩𝐞 𝐒𝐭𝐚𝐭𝐬 -->
 
-## <img src="https://github.com/TajkirHossen-14/TajkirHossen-14/blob/a73af69923ba8e7a3622ffc67201b66f6092d08e/Assets/Icons/Monkeytype_Logo.png" width="23" align="top"/> · &nbsp; Typing Stats &nbsp; · <img src="https://github.com/TajkirHossen-14/TajkirHossen-14/blob/a73af69923ba8e7a3622ffc67201b66f6092d08e/Assets/Icons/Monkeytype_Logo.png" width="23" align="top"/>
+## <img src="https://github.com/TajkirHossen-14/TajkirHossen-14/blob/e92e2aaf1620195dbf4cd82b6a559c84cc1ccc98/Assets/Icons/Typing_Logo.png" width="22" align="top"/> · &nbsp; Typing Stats &nbsp; · <img src="https://github.com/TajkirHossen-14/TajkirHossen-14/blob/e92e2aaf1620195dbf4cd82b6a559c84cc1ccc98/Assets/Icons/Typing_Logo-%5BMirror%5D.png" width="22" align="top"/>
 
 <p align="center">
   <a href="https://monkeytype.com/profile/Tajkir_Hossen">
