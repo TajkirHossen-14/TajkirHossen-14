@@ -1,22 +1,29 @@
 name: generate monkeytype readme svg
+
 on:
   schedule:
-    - cron: "0 */2 * * *"
+    - cron: "0 */1 * * *"
   workflow_dispatch:
+
 jobs:
   download-svg:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20.x"
 
       - name: Download SVG (Dark)
         run: |
           mkdir -p public-dark
-          curl -L -o public-dark/monkeytype-readme.svg \
-          https://monkeytype-production.up.railway.app/generate-svg/Tajkir_Hossen/vesper
-          curl -L -o public-dark/monkeytype-readme-pb.svg \
-          "https://monkeytype-production.up.railway.app/generate-svg/Tajkir_Hossen/vesper?pb=true"
+          curl -o public-dark/monkeytype-readme.svg \
+          https://monkeytype-readme.zeabur.app/generate-svg/Tajkir_Hossen/vesper
+          curl -o public-dark/monkeytype-readme-pb.svg \
+          "https://monkeytype-readme.zeabur.app/generate-svg/Tajkir_Hossen/vesper?pb=true"
       - name: Push Dark SVG
         uses: crazy-max/ghaction-github-pages@v4
         with:
@@ -28,10 +35,10 @@ jobs:
       - name: Download SVG (Light)
         run: |
           mkdir -p public-light
-          curl -L -o public-light/monkeytype-readme.svg \
-          https://monkeytype-production.up.railway.app/generate-svg/Tajkir_Hossen/vesper_light
-          curl -L -o public-light/monkeytype-readme-pb.svg \
-          "https://monkeytype-production.up.railway.app/generate-svg/Tajkir_Hossen/vesper_light?pb=true"
+          curl -o public-light/monkeytype-readme.svg \
+          https://monkeytype-readme.zeabur.app/generate-svg/Tajkir_Hossen/vesper_light
+          curl -o public-light/monkeytype-readme-pb.svg \
+          "https://monkeytype-readme.zeabur.app/generate-svg/Tajkir_Hossen/vesper_light?pb=true"
       - name: Push Light SVG
         uses: crazy-max/ghaction-github-pages@v4
         with:
