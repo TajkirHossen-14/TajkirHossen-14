@@ -149,7 +149,7 @@ A comprehensive tournament management system for **esports events**. Handles tea
 
 
 <!-- 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬 -->
-## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Stats [Mirror].png" width="22" align="top"/> &nbsp; · &nbsp; GitHub Stats &nbsp; · &nbsp; <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Stats.png" width="22" align="top"/> &nbsp;  
+## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Stats [Mirror].png" width="23" align="middle"/> &nbsp; · &nbsp; GitHub Stats &nbsp; · &nbsp; <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Stats.png" width="23" align="middle"/> &nbsp;  
 
 <!-- 𝐒𝐭𝐫𝐞𝐚𝐤+𝐎𝐭𝐡𝐞𝐫 𝐒𝐭𝐚𝐭𝐬 -->
 <div align="center">
