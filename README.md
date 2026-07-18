@@ -149,7 +149,7 @@ A comprehensive tournament management system for **esports events**. Handles tea
 
 
 <!-- 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬 -->
-## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Stats [Mirror].png" width="23" align="middle"/> &nbsp; · &nbsp; GitHub Stats &nbsp; · &nbsp; <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Stats.png" width="23" align="middle"/> &nbsp;  
+## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Stats [Mirror].png" width="22" align="top"/> &nbsp; · &nbsp; GitHub Stats &nbsp; · &nbsp; <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Stats.png" width="22" align="top"/> &nbsp;  
 
 <!-- 𝐒𝐭𝐫𝐞𝐚𝐤+𝐎𝐭𝐡𝐞𝐫 𝐒𝐭𝐚𝐭𝐬 -->
 <div align="center">
@@ -226,7 +226,7 @@ A comprehensive tournament management system for **esports events**. Handles tea
 
 <!-- 𝐌𝐨𝐧𝐤𝐞𝐲𝐭𝐲𝐩𝐞 𝐂𝐚𝐫𝐝 -->
 
-## <img src="https://github.com/TajkirHossen-14/TajkirHossen-14/blob/a73af69923ba8e7a3622ffc67201b66f6092d08e/Assets/Icons/Monkeytype_Logo.png" width="22" align="top"/> · Monkeytype Stats · <img src="https://github.com/TajkirHossen-14/TajkirHossen-14/blob/a73af69923ba8e7a3622ffc67201b66f6092d08e/Assets/Icons/Monkeytype_Logo.png" width="22" align="top"/>
+## <img src="https://github.com/TajkirHossen-14/TajkirHossen-14/blob/a73af69923ba8e7a3622ffc67201b66f6092d08e/Assets/Icons/Monkeytype_Logo.png" width="23" align="middle"/> · Monkeytype Stats · <img src="https://github.com/TajkirHossen-14/TajkirHossen-14/blob/a73af69923ba8e7a3622ffc67201b66f6092d08e/Assets/Icons/Monkeytype_Logo.png" width="23" align="middle"/>
 
 <p align="center">
   <a href="https://monkeytype.com/profile/Tajkir_Hossen">
