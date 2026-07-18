@@ -226,7 +226,7 @@ A comprehensive tournament management system for **esports events**. Handles tea
 
 <!-- 𝐌𝐨𝐧𝐤𝐞𝐲𝐭𝐲𝐩𝐞 𝐂𝐚𝐫𝐝 -->
 
-## <img src="https://github.com/TajkirHossen-14/TajkirHossen-14/blob/a73af69923ba8e7a3622ffc67201b66f6092d08e/Assets/Icons/Monkeytype_Logo.png" width="23" align="top"/> · Monkeytype Stats · <img src="https://github.com/TajkirHossen-14/TajkirHossen-14/blob/a73af69923ba8e7a3622ffc67201b66f6092d08e/Assets/Icons/Monkeytype_Logo.png" width="23" align="top"/>
+## <img src="https://github.com/TajkirHossen-14/TajkirHossen-14/blob/a73af69923ba8e7a3622ffc67201b66f6092d08e/Assets/Icons/Monkeytype_Logo.png" width="23" align="top"/> · &nbsp; Monkeytype Stats &nbsp; · <img src="https://github.com/TajkirHossen-14/TajkirHossen-14/blob/a73af69923ba8e7a3622ffc67201b66f6092d08e/Assets/Icons/Monkeytype_Logo.png" width="23" align="top"/>
 
 <p align="center">
   <a href="https://monkeytype.com/profile/Tajkir_Hossen">
@@ -248,7 +248,7 @@ A comprehensive tournament management system for **esports events**. Handles tea
 
 <div align="center">
  
-## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/21fb98a5301d47734796a5501f48046cddafaa9b/Assets/Icons/WakaTime_Logo%20%5BSavoy%20Blue%5D.png" width="22" align="top"/> · WakaTime Stats · <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/21fb98a5301d47734796a5501f48046cddafaa9b/Assets/Icons/WakaTime_Logo%20%5BSavoy%20Blue%5D.png" width="22" align="top"/>
+## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/21fb98a5301d47734796a5501f48046cddafaa9b/Assets/Icons/WakaTime_Logo%20%5BSavoy%20Blue%5D.png" width="22" align="top"/> · &nbsp; WakaTime Stats &nbsp; · <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/21fb98a5301d47734796a5501f48046cddafaa9b/Assets/Icons/WakaTime_Logo%20%5BSavoy%20Blue%5D.png" width="22" align="top"/>
 
 <!--START_SECTION:waka-->
 
