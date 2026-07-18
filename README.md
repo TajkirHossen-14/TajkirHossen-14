@@ -231,7 +231,7 @@ A comprehensive tournament management system for **esports events**. Handles tea
 <p align="center">
   <a href="https://monkeytype.com/profile/Tajkir_Hossen">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://monkeytype-readme-stats.vercel.app/api/monkeytype?username=Tajkir_Hossen&bg_color=191e1c&title_color=ffffff&text_color=ffffff&icon_color=ffffff"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://monkeytype-readme-stats.vercel.app/api/monkeytype?username=Tajkir_Hossen&bg_color=#0d1017&title_color=ffffff&text_color=ffffff&icon_color=ffffff"/>
       <img src="https://monkeytype-readme-stats.vercel.app/api/monkeytype?username=Tajkir_Hossen&bg_color=f6f8fa&title_color=191e1c&text_color=191e1c&icon_color=191e1c" alt="Monkeytype Stats"/>
     </picture>
   </a>
