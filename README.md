@@ -214,10 +214,12 @@ A comprehensive tournament management system for **esports events**. Handles tea
 
 
 <!-- 𝟑𝐃 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/profile-3d-contrib/profile-night-green.svg"/>
-  <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/profile-3d-contrib/profile-south-season-animate.svg"/>
-</picture>
+<a href="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/profile-3d-contrib/profile-south-season-animate.svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/profile-3d-contrib/profile-night-green.svg"/>
+    <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/profile-3d-contrib/profile-south-season-animate.svg"/>
+  </picture>
+</a>
 
 
 <!-- Line --> 
