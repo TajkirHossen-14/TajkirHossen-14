@@ -330,8 +330,13 @@ SVG                      1 repo              ███░░░░░░░░�
 <!-- Line --> 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
-
+<!--
 ![𝗦𝗻𝗮𝗸𝗲 𝗔𝗻𝗶𝗺𝗮𝘁𝗶𝗼𝗻](https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/output/github-contribution-grid-snake-dark.svg)
+-->
+
+<p align="center">
+  <img src="./Assets/game.gif" alt="My GitHub Space Shooter Game"/>
+</p>
 
 </div>
 
