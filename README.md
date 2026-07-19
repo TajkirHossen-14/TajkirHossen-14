@@ -265,8 +265,11 @@ A comprehensive tournament management system for **esports events**. Handles tea
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2037%20mins-blue?style=flat)
 
+<div align="center">
+ 
+![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2037%20mins-blue?style=flat)
+</div>
 
 📅 **I'm Most Productive on Saturday** 
 
