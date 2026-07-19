@@ -265,19 +265,30 @@ A comprehensive tournament management system for **esports events**. Handles tea
 </div>
 
 <!--START_SECTION:waka-->
-<!-- 
-![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%202%20mins-blue?style=flat)
--->
+![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2037%20mins-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 1,601 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 9 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-Tuesday                  168 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Wednesday                190 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-Thursday                 177 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-Friday                   154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-Saturday                 247 commits         █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
-Sunday                   171 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Monday                   111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+Tuesday                  168 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+Wednesday                190 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Thursday                 177 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Friday                   154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+Saturday                 247 commits         █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
+Sunday                   184 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
 ```
 
 
@@ -323,8 +334,12 @@ SVG                      1 repo              ███░░░░░░░░�
 
 
 
+**Timeline**
 
- Last Updated on 18/07/2026 19:05:02 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/assets/bar_graph.png)
+
+
+ Last Updated on 19/07/2026 15:18:08 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
