@@ -258,6 +258,8 @@ A comprehensive tournament management system for **esports events**. Handles tea
  
 ## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/21fb98a5301d47734796a5501f48046cddafaa9b/Assets/Icons/WakaTime_Logo%20%5BSavoy%20Blue%5D.png" width="23" align="top"/> · &nbsp; WakaTime Stats &nbsp; · <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/21fb98a5301d47734796a5501f48046cddafaa9b/Assets/Icons/WakaTime_Logo%20%5BSavoy%20Blue%5D.png" width="23" align="top"/>
 
+</div>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%202%20mins-blue?style=flat)
 
