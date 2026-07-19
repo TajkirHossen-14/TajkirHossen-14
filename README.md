@@ -267,18 +267,7 @@ A comprehensive tournament management system for **esports events**. Handles tea
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2037%20mins-blue?style=flat)
 
-**🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 1,601 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 9 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
 📅 **I'm Most Productive on Saturday** 
 
 ```text
@@ -331,12 +320,6 @@ Java                     1 repo              ███░░░░░░░░�
 C                        1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 SVG                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 ```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/assets/bar_graph.png)
 
 
  Last Updated on 19/07/2026 15:18:08 UTC
