@@ -77,7 +77,7 @@
 <a href="https://www.trae.ai"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Traelogo.png" width="35"/></a> &nbsp; 
 <a href="https://kiro.dev"><img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/09a18991a58af4e0d7f43d6ee2138a29b6f00893/Assets/Icons/Kiro%20Icon.png" width="35"/></a> &nbsp; 
 <a href="https://www.sublimetext.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Sublime-Dark.svg" width="35"/></a> &nbsp; 
-<a href="https://codepen.io"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/CodePen-Dark.svg" width="35"/></a> &nbsp; 
+<a href="https://codepen.io/TajkirHossen-14"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/CodePen-Dark.svg" width="35"/></a> &nbsp; 
 <!-- 𝐓𝐨𝐨𝐥𝐬 & 𝐃𝐨𝐜𝐬 --> 
 <a href="https://www.microsoft.com/en-us/microsoft-365/word"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Microsoft_Office_Word_%282025%E2%80%93present%29.svg/960px-Microsoft_Office_Word_%282025%E2%80%93present%29.svg.png" width="32"/></a> &nbsp; 
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Microsoft_Office_Excel_%282025%E2%80%93present%29.svg/960px-Microsoft_Office_Excel_%282025%E2%80%93present%29.svg.png" width="32"/></a> &nbsp; 
