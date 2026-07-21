@@ -159,7 +159,7 @@ A comprehensive tournament management system for **esports events**. Handles tea
   </picture>
 </div>
 
-[![TajkirHossen-14's Stardev Profile](https://stardev.io/developers/TajkirHossen-14/badge/languages/country.svg)](https://stardev.io/developers/TajkirHossen-14)
+<a href="https://stardev.io/developers/TajkirHossen-14"><img alt="TajkirHossen-14's profile on stardev.io" src="https://stardev.io/developers/TajkirHossen-14/badge/languages/country.svg" /></a>
 
 
 <!-- 𝐆𝐢𝐭𝐅𝐮𝐭 -->
