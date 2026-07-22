@@ -65,8 +65,7 @@
 <a href="https://gitlab.com/TajkirHossen-14"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/GitLab_icon.svg/960px-GitLab_icon.svg.png" width="34"/></a> 
 <!-- 𝐈𝐃𝐄𝐬 & 𝐄𝐝𝐢𝐭𝐨𝐫𝐬 --> 
 <img src="https://upload.wikimedia.org/wikipedia/fr/0/01/Codeblocks_logo1.png" width="37"/> &nbsp; 
-<a href="https://eclipseide.org"><img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" width="34"/></a> &nbsp;
-<!--<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Visual_Studio_Icon_2026.svg" width="32"/> &nbsp; -->
+<a href="https://eclipseide.org"><img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" width="34"/></a> &nbsp; 
 <a href="https://code.visualstudio.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/960px-Visual_Studio_Code_1.35_icon.svg.png" width="32"/></a> &nbsp; 
 <a href="https://colab.research.google.com"><img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/googlecolab-auto.svg" width="36"/></a> &nbsp; 
 <a href="https://jupyter.org"><img src="https://images.icon-icons.com/2107/PNG/512/file_type_jupyter_icon_130494.png" width="36"/></a> &nbsp; 
@@ -80,6 +79,7 @@
 <a href="https://kiro.dev"><img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/09a18991a58af4e0d7f43d6ee2138a29b6f00893/Assets/Icons/Kiro%20Icon.png" width="35"/></a> &nbsp; 
 <a href="https://www.sublimetext.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Sublime-Dark.svg" width="35"/></a> &nbsp; 
 <a href="https://codepen.io/TajkirHossen-14"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/CodePen-Dark.svg" width="35"/></a> &nbsp; 
+<!--<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Visual_Studio_Icon_2026.svg" width="32"/> &nbsp; -->
 <!-- 𝐓𝐨𝐨𝐥𝐬 & 𝐃𝐨𝐜𝐬 --> 
 <a href="https://www.microsoft.com/en-us/microsoft-365/word"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Microsoft_Office_Word_%282025%E2%80%93present%29.svg/960px-Microsoft_Office_Word_%282025%E2%80%93present%29.svg.png" width="32"/></a> &nbsp; 
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Microsoft_Office_Excel_%282025%E2%80%93present%29.svg/960px-Microsoft_Office_Excel_%282025%E2%80%93present%29.svg.png" width="32"/></a> &nbsp; 
