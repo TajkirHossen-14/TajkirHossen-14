@@ -270,18 +270,18 @@ A comprehensive tournament management system for **esports events**. Handles tea
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2027%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   117 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-Tuesday                  176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-Wednesday                204 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-Thursday                 177 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-Friday                   154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Saturday                 247 commits         █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-Sunday                   186 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Monday                   117 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+Tuesday                  176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+Wednesday                204 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+Thursday                 177 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Friday                   154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+Saturday                 248 commits         █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
+Sunday                   186 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
 ```
 
 
@@ -291,18 +291,18 @@ Sunday                   186 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               11 hrs              ██████████████████░░░░░░░   71.81 % 
-HTML                     2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-CSS                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-TypeScript               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+JavaScript               16 hrs 40 mins      ███████████████████░░░░░░   77.96 % 
+HTML                     2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+CSS                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+TypeScript               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Markdown                 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 
 🔥 Editors: 
-WebStorm                 9 hrs 4 mins        ███████████████░░░░░░░░░░   59.29 % 
-VS Code                  3 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   26.01 % 
-Antigravity IDE          1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-Trae                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-Qoder                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+WebStorm                 13 hrs 8 mins       ███████████████░░░░░░░░░░   61.49 % 
+VS Code                  6 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   28.88 % 
+Antigravity IDE          1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+Trae                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+Qoder                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -318,7 +318,7 @@ SVG                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 16:29:57 UTC
+ Last Updated on 24/07/2026 19:24:10 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
