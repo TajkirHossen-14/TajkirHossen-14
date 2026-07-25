@@ -270,7 +270,7 @@ A comprehensive tournament management system for **esports events**. Handles tea
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2025%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -329,7 +329,7 @@ SVG                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 17:46:42 UTC
+ Last Updated on 25/07/2026 19:08:14 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
