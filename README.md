@@ -270,18 +270,26 @@ A comprehensive tournament management system for **esports events**. Handles tea
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2050%20mins-blue?style=flat)
 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                55 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+🌆 Daytime                359 commits         ███████░░░░░░░░░░░░░░░░░░   28.42 % 
+🌃 Evening                246 commits         █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+🌙 Night                  603 commits         ████████████░░░░░░░░░░░░░   47.74 % 
+```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   117 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-Tuesday                  176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Wednesday                204 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-Thursday                 177 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-Friday                   154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-Saturday                 248 commits         █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
-Sunday                   186 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+Monday                   117 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Tuesday                  176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Wednesday                204 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+Thursday                 177 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Friday                   154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+Saturday                 249 commits         █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+Sunday                   186 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
 ```
 
 
@@ -303,6 +311,9 @@ VS Code                  6 hrs 10 mins       ███████░░░░�
 Antigravity IDE          1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
 Trae                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 Qoder                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+
+💻 Operating System: 
+Windows                  21 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -318,7 +329,7 @@ SVG                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 08:45:58 UTC
+ Last Updated on 25/07/2026 17:46:42 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
