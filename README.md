@@ -270,7 +270,7 @@ A comprehensive tournament management system for **esports events**. Handles tea
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2044%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -299,21 +299,21 @@ Sunday                   186 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               18 hrs 25 mins      ████████████████████░░░░░   80.58 % 
-HTML                     2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
-CSS                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-Markdown                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-TypeScript               19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+JavaScript               18 hrs 8 mins       ████████████████████░░░░░   79.60 % 
+HTML                     1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+Markdown                 1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+CSS                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+TypeScript               19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 
 🔥 Editors: 
-WebStorm                 13 hrs 3 mins       ██████████████░░░░░░░░░░░   57.14 % 
-VS Code                  7 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   32.11 % 
-Antigravity IDE          2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-Cursor                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+WebStorm                 12 hrs 54 mins      ██████████████░░░░░░░░░░░   56.60 % 
+VS Code                  6 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   30.03 % 
+Antigravity IDE          2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
 Eclipse                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  22 hrs 51 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -329,7 +329,7 @@ SVG                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 19:11:57 UTC
+ Last Updated on 26/07/2026 19:45:44 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
