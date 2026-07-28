@@ -37,9 +37,10 @@
 <!-- Line --> 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
+<!--
 <!-- DevCard -->
 <a href="https://daily.dev/tajkirhossen_14"><img src="https://api.daily.dev/devcards/v2/VVJlEpPb1LTUmciZikUmd.png?type=wide&r=nav" width="652" alt="Kazi Tajkir Hossen's Dev Card"/></a>
-
+-->
 
 <!-- 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤 --> 
 ## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Tech Stack.png" width="23" align="top"/> &nbsp; · &nbsp; Tech Stack &nbsp; · &nbsp; <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Tech Stack [Mirror].png" width="23" align="top"/>
