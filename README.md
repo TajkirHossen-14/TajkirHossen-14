@@ -37,8 +37,7 @@
 <!-- Line --> 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
-<!--
-<!-- DevCard -->
+<!-- DevCard
 <a href="https://daily.dev/tajkirhossen_14"><img src="https://api.daily.dev/devcards/v2/VVJlEpPb1LTUmciZikUmd.png?type=wide&r=nav" width="652" alt="Kazi Tajkir Hossen's Dev Card"/></a>
 -->
 
