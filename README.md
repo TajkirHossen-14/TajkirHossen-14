@@ -54,7 +54,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/960px-HTML5_Badge.svg.png" width="34"/> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/960px-Official_CSS_Logo.svg.png" width="35"/> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/960px-JavaScript-logo.png" width="35"/> &nbsp; 
 <img src="https://skillicons.dev/icons?i=django" width="35"/> &nbsp;
-<!-- Hosting & Deployment --> 
+<!-- 𝐇𝐨𝐬𝐭𝐢𝐧𝐠 & 𝐃𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭 --> 
 <a href="https://www.netlify.com"><img src="https://images.icon-icons.com/2699/PNG/512/netlify_logo_icon_169923.png" width="33"/></a> &nbsp;
 <a href="https://www.vercel.com"><img src="https://skillicons.dev/icons?i=vercel" width="35"/></a> &nbsp; 
 <a href="https://heroku.com"><img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/heroku.svg" width="35"/></a> &nbsp;
@@ -274,8 +274,6 @@ A comprehensive tournament management system for **esports events**. Handles tea
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2024%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-23%20hrs%2012%20mins-blue?style=flat)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -320,29 +318,6 @@ Zed                      1 min               ░░░░░░░░░░░�
 Windows                  26 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 1 hr 30 mins (5.62%)
-
-✍️ 634 lines written by AI, 4,258 lines written by hand (12.96% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 8 AI Sessions, 42 AI Prompts
-
-Gemini                   368 lines           ██████████████░░░░░░░░░░░   57.14 % 
-Opus                     276 lines           ███████████░░░░░░░░░░░░░░   42.86 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 12.96% of written lines came from AI
-📝 Concise Prompter — average 413 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 89.13% of changed lines were hand-edited
-```
-
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
@@ -352,8 +327,6 @@ Java                     1 repo              ███░░░░░░░░�
 C                        1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 SVG                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 ```
-
-
 
 
  Last Updated on 28/07/2026 10:38:42 UTC
