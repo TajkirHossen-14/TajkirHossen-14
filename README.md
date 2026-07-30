@@ -282,21 +282,21 @@ A comprehensive tournament management system for **esports events**. Handles tea
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                55 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-🌆 Daytime                359 commits         ███████░░░░░░░░░░░░░░░░░░   28.22 % 
-🌃 Evening                247 commits         █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
-🌙 Night                  611 commits         ████████████░░░░░░░░░░░░░   48.03 % 
+🌞 Morning                56 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+🌆 Daytime                359 commits         ███████░░░░░░░░░░░░░░░░░░   28.20 % 
+🌃 Evening                247 commits         █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+🌙 Night                  611 commits         ████████████░░░░░░░░░░░░░   48.00 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   117 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-Tuesday                  179 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-Wednesday                209 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Thursday                 178 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Friday                   154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-Saturday                 249 commits         █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-Sunday                   186 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Monday                   117 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+Tuesday                  179 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+Wednesday                209 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+Thursday                 179 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+Friday                   154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Saturday                 249 commits         █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+Sunday                   186 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
 ```
 
 
@@ -306,29 +306,29 @@ Sunday                   186 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               22 hrs 47 mins      ██████████████████████░░░   86.24 % 
-Markdown                 1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-HTML                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-CSS                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-Java                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+JavaScript               19 hrs 52 mins      ████████████████████░░░░░   81.33 % 
+HTML                     2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+Markdown                 1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+CSS                      47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+Java                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 54 mins      ██████████████░░░░░░░░░░░   56.39 % 
-WebStorm                 7 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   26.63 % 
-Antigravity IDE          3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Trae                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-Eclipse                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+VS Code                  14 hrs 2 mins       ██████████████░░░░░░░░░░░   57.41 % 
+WebStorm                 5 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
+Antigravity IDE          3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Trae                     2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+Eclipse                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 💻 Operating System: 
-Windows                  26 hrs 26 mins      █████████████████████████   100.00 % 
+Windows                  24 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 38 mins (6.18%)
+⏱ AI Coding Time: 1 hr 38 mins (6.68%)
 
-✍️ 634 lines written by AI, 5,006 lines written by hand (11.24% AI-written)
+✍️ 634 lines written by AI, 5,624 lines written by hand (10.13% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -340,10 +340,10 @@ Gemini                   368 lines           ███████████�
 Opus                     276 lines           ███████████░░░░░░░░░░░░░░   42.86 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 11.24% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 10.13% of written lines came from AI
 📝 Concise Prompter — average 265 characters per prompt
 🔁 Iterative Prompter — average 17 prompts per session
-🔍 Hands-On Reviewer — 90.47% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 92.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -359,7 +359,7 @@ SVG                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 30/07/2026 05:03:07 UTC
+ Last Updated on 30/07/2026 19:27:41 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
