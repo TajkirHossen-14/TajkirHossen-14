@@ -275,7 +275,7 @@ A comprehensive tournament management system for **esports events**. Handles tea
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2032%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-23%20hrs%2019%20mins-blue?style=flat)
 
@@ -306,29 +306,29 @@ Sunday                   186 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               25 hrs 15 mins      █████████████████████░░░░   85.78 % 
-HTML                     1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-Markdown                 1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-CSS                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-TypeScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+JavaScript               22 hrs 47 mins      ██████████████████████░░░   86.24 % 
+Markdown                 1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+HTML                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+CSS                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+Java                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 36 mins      ████████████░░░░░░░░░░░░░   46.22 % 
-WebStorm                 12 hrs 29 mins      ███████████░░░░░░░░░░░░░░   42.42 % 
-Antigravity IDE          3 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-Trae                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-Eclipse                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+VS Code                  14 hrs 54 mins      ██████████████░░░░░░░░░░░   56.39 % 
+WebStorm                 7 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   26.63 % 
+Antigravity IDE          3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Trae                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+Eclipse                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-Windows                  29 hrs 26 mins      █████████████████████████   100.00 % 
+Windows                  26 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 38 mins (5.55%)
+⏱ AI Coding Time: 1 hr 38 mins (6.18%)
 
-✍️ 634 lines written by AI, 4,936 lines written by hand (11.38% AI-written)
+✍️ 634 lines written by AI, 5,006 lines written by hand (11.24% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -340,10 +340,10 @@ Gemini                   368 lines           ███████████�
 Opus                     276 lines           ███████████░░░░░░░░░░░░░░   42.86 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 11.38% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 11.24% of written lines came from AI
 📝 Concise Prompter — average 265 characters per prompt
 🔁 Iterative Prompter — average 17 prompts per session
-🔍 Hands-On Reviewer — 90.33% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 90.47% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -359,7 +359,7 @@ SVG                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 29/07/2026 19:17:43 UTC
+ Last Updated on 30/07/2026 05:03:07 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
