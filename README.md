@@ -275,28 +275,28 @@ A comprehensive tournament management system for **esports events**. Handles tea
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2042%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-23%20hrs%2019%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                56 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-🌆 Daytime                359 commits         ███████░░░░░░░░░░░░░░░░░░   28.20 % 
-🌃 Evening                247 commits         █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-🌙 Night                  611 commits         ████████████░░░░░░░░░░░░░   48.00 % 
+🌞 Morning                59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+🌆 Daytime                360 commits         ███████░░░░░░░░░░░░░░░░░░   27.84 % 
+🌃 Evening                247 commits         █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+🌙 Night                  627 commits         ████████████░░░░░░░░░░░░░   48.49 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   117 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
-Tuesday                  179 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-Wednesday                209 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-Thursday                 179 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-Friday                   154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-Saturday                 249 commits         █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
-Sunday                   186 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Monday                   117 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+Tuesday                  179 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Wednesday                209 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+Thursday                 179 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Friday                   154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Saturday                 269 commits         █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
+Sunday                   186 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
 ```
 
 
@@ -306,29 +306,29 @@ Sunday                   186 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               19 hrs 52 mins      ████████████████████░░░░░   81.33 % 
-HTML                     2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-Markdown                 1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-CSS                      47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-Java                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+JavaScript               15 hrs 15 mins      ███████████████████░░░░░░   74.56 % 
+Markdown                 2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+HTML                     1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+CSS                      1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 2 mins       ██████████████░░░░░░░░░░░   57.41 % 
-WebStorm                 5 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
-Antigravity IDE          3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-Trae                     2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-Eclipse                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+VS Code                  12 hrs 57 mins      ████████████████░░░░░░░░░   63.32 % 
+Trae                     3 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+Antigravity IDE          3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+WebStorm                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Zed                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Windows                  24 hrs 26 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 38 mins (6.68%)
+⏱ AI Coding Time: 1 hr 38 mins (7.98%)
 
-✍️ 634 lines written by AI, 5,624 lines written by hand (10.13% AI-written)
+✍️ 634 lines written by AI, 6,657 lines written by hand (8.7% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -340,26 +340,26 @@ Gemini                   368 lines           ███████████�
 Opus                     276 lines           ███████████░░░░░░░░░░░░░░   42.86 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 10.13% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 8.7% of written lines came from AI
 📝 Concise Prompter — average 265 characters per prompt
 🔁 Iterative Prompter — average 17 prompts per session
-🔍 Hands-On Reviewer — 92.02% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 93.91% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
-Jupyter Notebook         2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-HTML                     2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Java                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-C                        1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-SVG                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Jupyter Notebook         2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+HTML                     2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Java                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+C                        1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
 ```
 
 
 
 
- Last Updated on 31/07/2026 19:26:15 UTC
+ Last Updated on 01/08/2026 06:13:45 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
