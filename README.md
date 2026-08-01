@@ -115,6 +115,9 @@
 > ### 🍛 [AhaarBonton](https://github.com/TajkirHossen-14/Ahaar_Bonton)  
 > A surplus food redistribution platform connecting donors, NGOs and volunteers to reduce food waste.
 
+> ### 🎨 [PixelPalette](https://github.com/TajkirHossen-14/PixelPalette)  
+> A color picker & palette generator with live harmonies, gradient tools, contrast checking, and one-click export.
+
 > ### 🏠 [Smart Eco Home Manager](https://github.com/TajkirHossen-14/Smart_Eco_Home_Manager)  
 > A smart home management system focused on energy efficiency and eco-friendly living.
 
