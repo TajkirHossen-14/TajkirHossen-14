@@ -286,20 +286,20 @@ A comprehensive tournament management system for **esports events**. Handles tea
 
 ```text
 🌞 Morning                59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
-🌆 Daytime                360 commits         ███████░░░░░░░░░░░░░░░░░░   27.84 % 
-🌃 Evening                247 commits         █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
-🌙 Night                  627 commits         ████████████░░░░░░░░░░░░░   48.49 % 
+🌆 Daytime                360 commits         ███████░░░░░░░░░░░░░░░░░░   27.80 % 
+🌃 Evening                247 commits         █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
+🌙 Night                  629 commits         ████████████░░░░░░░░░░░░░   48.57 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   117 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-Tuesday                  179 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-Wednesday                209 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-Thursday                 179 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-Friday                   154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-Saturday                 269 commits         █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
-Sunday                   186 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+Monday                   117 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Tuesday                  179 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+Wednesday                209 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+Thursday                 179 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+Friday                   154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Saturday                 269 commits         █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
+Sunday                   188 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
 ```
 
 
@@ -309,44 +309,44 @@ Sunday                   186 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               15 hrs 15 mins      ███████████████████░░░░░░   74.56 % 
-Markdown                 2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-HTML                     1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-CSS                      1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+JavaScript               13 hrs 26 mins      █████████████████░░░░░░░░   68.50 % 
+Markdown                 2 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+HTML                     2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+CSS                      54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 57 mins      ████████████████░░░░░░░░░   63.32 % 
-Trae                     3 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-Antigravity IDE          3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-WebStorm                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-Zed                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+VS Code                  12 hrs 39 mins      ████████████████░░░░░░░░░   64.55 % 
+Trae                     3 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+Antigravity IDE          2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+WebStorm                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+Zed                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-Windows                  20 hrs 28 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 38 mins (7.98%)
+⏱ AI Coding Time: 57 mins (4.92%)
 
-✍️ 634 lines written by AI, 6,657 lines written by hand (8.7% AI-written)
+✍️ 133 lines written by AI, 6,457 lines written by hand (2.02% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 152 AI Prompts
+🧠 5 AI Sessions, 123 AI Prompts
 
-Gemini                   368 lines           ██████████████░░░░░░░░░░░   57.14 % 
-Opus                     276 lines           ███████████░░░░░░░░░░░░░░   42.86 % 
+Gemini                   82 lines            █████████████░░░░░░░░░░░░   50.93 % 
+Opus                     79 lines            ████████████░░░░░░░░░░░░░   49.07 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 8.7% of written lines came from AI
-📝 Concise Prompter — average 265 characters per prompt
-🔁 Iterative Prompter — average 17 prompts per session
-🔍 Hands-On Reviewer — 93.91% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 2.02% of written lines came from AI
+📝 Concise Prompter — average 199 characters per prompt
+🔁 Iterative Prompter — average 25 prompts per session
+🔍 Hands-On Reviewer — 98.37% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -362,7 +362,7 @@ C                        1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 06:13:45 UTC
+ Last Updated on 01/08/2026 19:08:40 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
