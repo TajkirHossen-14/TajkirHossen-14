@@ -115,6 +115,9 @@
 > ### 🍛 [AhaarBonton](https://github.com/TajkirHossen-14/Ahaar_Bonton)  
 > A surplus food redistribution platform connecting donors, NGOs and volunteers to reduce food waste.
 
+> ### 🧮 [CalcSuite](https://github.com/TajkirHossen-14/CalcSuite)
+> Every calculator and converter you need, in one modern place.
+
 > ### 🎨 [PixelPalette](https://github.com/TajkirHossen-14/PixelPalette)  
 > A color picker & palette generator with live harmonies, gradient tools, contrast checking, and one-click export.
 
