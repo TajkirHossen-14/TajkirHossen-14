@@ -44,7 +44,7 @@
 <!-- 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤 --> 
 ## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Tech Stack.png" width="23" align="top"/> &nbsp; · &nbsp; Tech Stack &nbsp; · &nbsp; <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Tech Stack [Mirror].png" width="23" align="top"/>
 
-<!-- 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 -->
+<!-- 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 -->
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.png" width="35"/> &nbsp; 
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-plus-plus-programming-language-icon.png" width="35"/> &nbsp; 
 <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" width="36"/></a> &nbsp; 
@@ -219,6 +219,7 @@ A comprehensive tournament management system for **esports events**. Handles tea
 <!-- 𝐆𝐢𝐭𝐇𝐮𝐛 𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲 -->
 ## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Graph [Mirror].png" width="22" align="top"/> &nbsp; · &nbsp; GitHub Activity &nbsp; · &nbsp; <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Graph.png" width="22" align="top"/> 
 
+<!--
 <a href="https://github.com/TajkirHossen-14">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TajkirHossen-14&theme=github_dark"/>
@@ -226,7 +227,7 @@ A comprehensive tournament management system for **esports events**. Handles tea
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TajkirHossen-14&theme=github"/>
   </picture>
 </a>
-
+-->
 
 [![𝗧𝗮𝗷𝗸𝗶𝗿'𝘀 𝗚𝗶𝘁𝗵𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆 𝗚𝗿𝗮𝗽𝗵](https://github-readme-activity-graph.vercel.app/graph?username=TajkirHossen-14&theme=github-compact&height=500)](https://github.com/TajkirHossen-14)
 
