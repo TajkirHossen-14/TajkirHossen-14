@@ -182,7 +182,7 @@ A comprehensive tournament management system for **esports events**. Handles tea
  ### · &nbsp; GitFut Card &nbsp; ·
 
 </div>
-<a href="https://gitfut.com/TajkirHossen-14"><img src="https://gitfut.com/TajkirHossen-14.png" width=50%/></a>
+<a href="https://gitfut.com/TajkirHossen-14"><img src="https://gitfut.com/TajkirHossen-14.png" width=49%/></a>
 
 <!-- <div align="center"> –·– </div> -->
 
