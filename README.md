@@ -282,6 +282,77 @@ A comprehensive tournament management system for **esports events**. Handles tea
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-72%20hrs%2054%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-25%20hrs%2010%20mins-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+🌆 Daytime                363 commits         ███████░░░░░░░░░░░░░░░░░░   27.69 % 
+🌃 Evening                248 commits         █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+🌙 Night                  641 commits         ████████████░░░░░░░░░░░░░   48.89 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   119 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+Tuesday                  183 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Wednesday                216 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+Thursday                 179 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+Friday                   155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+Saturday                 269 commits         █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
+Sunday                   190 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dhaka
+
+💬 Programming Languages: 
+Markdown                 4 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   41.22 % 
+JavaScript               3 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   28.04 % 
+HTML                     2 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
+CSS                      1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+
+🔥 Editors: 
+VS Code                  7 hrs 54 mins       █████████████████░░░░░░░░   67.26 % 
+Antigravity IDE          1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Trae                     1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+WebStorm                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+
+💻 Operating System: 
+Windows                  11 hrs 45 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 hr 50 mins (15.69%)
+
+✍️ 1,066 lines written by AI, 3,263 lines written by hand (24.62% AI-written)
+
+🔤 427,291 Input Tokens, 2,871 Output Tokens
+
+💵 $1.32 Estimated AI Cost This Week
+
+🧠 10 AI Sessions, 148 AI Prompts
+
+Gemini                   1,042 lines         ███████████████████████░░   92.62 % 
+Opus                     79 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Qoder                    4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 24.62% of written lines came from AI
+📝 Concise Prompter — average 202 characters per prompt
+🔁 Iterative Prompter — average 15 prompts per session
+🔍 Hands-On Reviewer — 83.37% of changed lines were hand-edited
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -295,7 +366,7 @@ C                        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 00:00:04 UTC
+ Last Updated on 07/08/2026 10:46:49 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
