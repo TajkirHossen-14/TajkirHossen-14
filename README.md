@@ -118,6 +118,9 @@
 > ### 🧮 [CalcSuite](https://github.com/TajkirHossen-14/CalcSuite)
 > Every calculator and converter you need, in one modern place.
 
+> ### 🔗 [LinkVerse](https://link-verse-eight.vercel.app)
+> A free tool that shortens links and turns them into customizable QR codes and barcodes.
+
 > ### 🎨 [PixelPalette](https://github.com/TajkirHossen-14/PixelPalette)  
 > A color picker & palette generator with live harmonies, gradient tools, contrast checking, and one-click export.
 
