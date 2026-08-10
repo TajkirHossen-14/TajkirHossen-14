@@ -316,28 +316,27 @@ Sunday                   197 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Markdown                 4 hrs 6 mins        ███████████░░░░░░░░░░░░░░   44.83 % 
-HTML                     2 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
-JavaScript               1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
-CSS                      55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+JavaScript               3 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   38.83 % 
+Markdown                 2 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   28.25 % 
+HTML                     1 hr 54 mins        ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
+CSS                      55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 3 mins        ██████████████████████░░░   87.93 % 
-Trae                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-Antigravity IDE          25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-WebStorm                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+VS Code                  5 hrs 57 mins       █████████████████░░░░░░░░   69.51 % 
+Trae                     2 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
+Antigravity IDE          23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+WebStorm                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 
 💻 Operating System: 
-Windows                  9 hrs 10 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 57 mins (10.52%)
+⏱ AI Coding Time: 57 mins (11.26%)
 
-✍️ 161 lines written by AI, 1,086 lines written by hand (12.91% AI-written)
+✍️ 161 lines written by AI, 1,342 lines written by hand (10.71% AI-written)
 
 🔤 427,291 Input Tokens, 2,871 Output Tokens
 
@@ -349,10 +348,10 @@ Gemini                   159 lines           ███████████�
 Qoder                    4 lines             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 12.91% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 10.71% of written lines came from AI
 📝 Concise Prompter — average 162 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 90.28% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 90.75% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -368,7 +367,7 @@ C                        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2026 18:41:10 UTC
+ Last Updated on 10/08/2026 18:58:40 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
