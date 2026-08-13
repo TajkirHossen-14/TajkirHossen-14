@@ -285,7 +285,7 @@ A comprehensive tournament management system for **esports events**. Handles tea
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-78%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-78%20hrs%2012%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-26%20hrs%205%20mins-blue?style=flat)
 
@@ -366,7 +366,7 @@ C                        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 12/08/2026 19:03:17 UTC
+ Last Updated on 13/08/2026 12:58:50 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
