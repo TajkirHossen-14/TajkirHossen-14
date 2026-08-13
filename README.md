@@ -118,6 +118,9 @@
 > ### 🧮 [CalcSuite](https://github.com/TajkirHossen-14/CalcSuite)
 > Every calculator and converter you need, in one modern place.
 
+> ### ⌨️ [TypeVerse](https://github.com/TajkirHossen-14/TypeVerse)
+> A dual-audience typing speed test – clean practice for everyone, real code drills for developers.
+
 > ### 🔗 [LinkVerse](https://github.com/TajkirHossen-14/LinkVerse)
 > A free tool that shortens links and turns them into customizable QR codes and barcodes.
 
