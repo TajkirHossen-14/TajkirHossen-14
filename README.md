@@ -89,11 +89,11 @@
 <a href="https://www.microsoft.com/en-us/microsoft-365/word"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Microsoft_Office_Word_%282025%E2%80%93present%29.svg/960px-Microsoft_Office_Word_%282025%E2%80%93present%29.svg.png" width="32"/></a> &nbsp; 
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Microsoft_Office_Excel_%282025%E2%80%93present%29.svg/960px-Microsoft_Office_Excel_%282025%E2%80%93present%29.svg.png" width="32"/></a> &nbsp; 
 <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_PowerPoint_%282025%E2%80%93present%29.svg/960px-Microsoft_Office_PowerPoint_%282025%E2%80%93present%29.svg.png" width="35"/></a> &nbsp; 
-<a href="https://www.notion.so"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/960px-Notion-logo.svg.png" width="32"/></a> 
-<!--<a href="https://obsidian.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/960px-2023_Obsidian_logo.svg.png" width="35"/></a> &nbsp;-->
+<a href="https://www.notion.so"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/960px-Notion-logo.svg.png" width="32"/></a> &nbsp; 
 <a href="https://www.markdownguide.org"><img src="https://skillicons.dev/icons?i=markdown" width="35"/></a> &nbsp; 
 <a href="https://www.overleaf.com"><img src="https://images.ctfassets.net/nrgyaltdicpt/2fJT673XY7Jyx0hnloYH5u/e8ab3a07b40ed4b9c18756d7741ef4dc/overleaf-o-logo-primary.png" width="33"/></a> &nbsp;
-<img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/latex-auto.svg" width="35"/> &nbsp; 
+<img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/latex-auto.svg" width="35"/> &nbsp;
+<!--<a href="https://obsidian.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/960px-2023_Obsidian_logo.svg.png" width="35"/></a> &nbsp;-->
 <!-- 𝐒𝐢𝐦𝐮𝐥𝐚𝐭𝐢𝐨𝐧 -->
 <a href="https://www.tinkercad.com/users/7ijMTVWPm9F?type=circuits"><img src="https://github.com/TajkirHossen-14/TajkirHossen-14/blob/4e7a716026b64897f6ff90b046c1c8558d388a97/Assets/Icons/Tinkercad_Logo.jpg" width="35"/></a>
 <!-- 𝐃𝐞𝐬𝐢𝐠𝐧 & 𝐎𝐭𝐡𝐞𝐫 --> 
