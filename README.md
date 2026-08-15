@@ -170,7 +170,7 @@ A comprehensive tournament management system for **esports events**. Handles tea
 
 
 <!-- 𝐆𝐢𝐭𝐇𝐮𝐛  -->
-## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Stats [Mirror].png" width="22" align="top"/> &nbsp; · &nbsp; GitHub Analytics &nbsp; · &nbsp; <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Stats.png" width="22" align="top"/> &nbsp;  
+## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Stats [Mirror].png" width="22" align="top"/> &nbsp; · GitHub Analytics · &nbsp; <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Stats.png" width="22" align="top"/> &nbsp;  
 
 <!-- 𝐒𝐭𝐫𝐞𝐚𝐤 & 𝐒𝐭𝐚𝐭𝐬 -->
 
@@ -194,8 +194,6 @@ A comprehensive tournament management system for **esports events**. Handles tea
 
 </div>
 <a href="https://gitfut.com/TajkirHossen-14"><img src="https://gitfut.com/TajkirHossen-14.png" width=49%/></a>
-
-<!-- <div align="center"> –·– </div> -->
 
 
 <!-- 𝐆𝐢𝐭𝐇𝐮𝐛 𝐓𝐫𝐨𝐩𝐡𝐢𝐞𝐬 -->
@@ -232,6 +230,8 @@ A comprehensive tournament management system for **esports events**. Handles tea
   </picture>
 </a>
 -->
+
+<!-- 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐆𝐫𝐚𝐩𝐡 -->
 
 ### · &nbsp; Activity Graph &nbsp; ·
 
