@@ -172,7 +172,10 @@ A comprehensive tournament management system for **esports events**. Handles tea
 <!-- 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬 -->
 ## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Stats [Mirror].png" width="22" align="top"/> &nbsp; · &nbsp; GitHub Stats &nbsp; · &nbsp; <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Stats.png" width="22" align="top"/> &nbsp;  
 
-<!-- 𝐒𝐭𝐫𝐞𝐚𝐤+𝐎𝐭𝐡𝐞𝐫 𝐒𝐭𝐚𝐭𝐬 -->
+<!-- 𝐒𝐭𝐫𝐞𝐚𝐤 & 𝐒𝐭𝐚𝐭𝐬 -->
+
+### · &nbsp; Streak & Stats &nbsp; ·
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://yourinsights.vercel.app/api/insight?username=TajkirHossen-14&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false"/>
@@ -220,12 +223,6 @@ A comprehensive tournament management system for **esports events**. Handles tea
 
 -->
 
-<!-- Line --> 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-
-
-<!-- 𝐆𝐢𝐭𝐇𝐮𝐛 𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲 -->
-## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Graph [Mirror].png" width="22" align="top"/> &nbsp; · &nbsp; GitHub Activity &nbsp; · &nbsp; <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Graph.png" width="22" align="top"/> 
 
 <!--
 <a href="https://github.com/TajkirHossen-14">
@@ -237,16 +234,25 @@ A comprehensive tournament management system for **esports events**. Handles tea
 </a>
 -->
 
+### · &nbsp; Activity Graph &nbsp; ·
+
 [![𝗧𝗮𝗷𝗸𝗶𝗿'𝘀 𝗚𝗶𝘁𝗵𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆 𝗚𝗿𝗮𝗽𝗵](https://github-readme-activity-graph.vercel.app/graph?username=TajkirHossen-14&theme=github-compact&height=500)](https://github.com/TajkirHossen-14)
 
 
 <!-- 𝟑𝐃 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 -->
+
+<div align="center"> 
+
+### · &nbsp; 3D Contributions &nbsp; ·
+
 <a href="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/profile-3d-contrib/profile-south-season-animate.svg">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/profile-3d-contrib/profile-night-green.svg"/>
     <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/profile-3d-contrib/profile-south-season-animate.svg"/>
   </picture>
 </a>
+
+</div>
 
 
 <!-- Line --> 
