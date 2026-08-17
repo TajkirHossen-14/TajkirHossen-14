@@ -303,20 +303,20 @@ A comprehensive tournament management system for **esports events**. Handles tea
 
 ```text
 🌞 Morning                64 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-🌆 Daytime                375 commits         ███████░░░░░░░░░░░░░░░░░░   26.79 % 
-🌃 Evening                258 commits         █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
-🌙 Night                  703 commits         █████████████░░░░░░░░░░░░   50.21 % 
+🌆 Daytime                375 commits         ███████░░░░░░░░░░░░░░░░░░   26.77 % 
+🌃 Evening                259 commits         █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+🌙 Night                  703 commits         █████████████░░░░░░░░░░░░   50.18 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   121 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-Tuesday                  184 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-Wednesday                226 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-Thursday                 199 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Friday                   173 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-Saturday                 295 commits         █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
-Sunday                   202 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+Monday                   122 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Tuesday                  184 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+Wednesday                226 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Thursday                 199 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Friday                   173 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Saturday                 295 commits         █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
+Sunday                   202 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
 ```
 
 
@@ -326,19 +326,19 @@ Sunday                   202 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               1 hr 33 mins        █████████████░░░░░░░░░░░░   52.33 % 
-HTML                     54 mins             ████████░░░░░░░░░░░░░░░░░   30.82 % 
-Markdown                 23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-CSS                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+JavaScript               1 hr 29 mins        ██████████████░░░░░░░░░░░   54.82 % 
+HTML                     45 mins             ███████░░░░░░░░░░░░░░░░░░   27.58 % 
+Markdown                 23 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+CSS                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-Trae                     1 hr 31 mins        █████████████░░░░░░░░░░░░   51.39 % 
-VS Code                  44 mins             ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
-Antigravity IDE          42 mins             ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
+Trae                     1 hr 31 mins        ██████████████░░░░░░░░░░░   56.08 % 
+Antigravity IDE          42 mins             ███████░░░░░░░░░░░░░░░░░░   26.21 % 
+VS Code                  28 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
 
 💻 Operating System: 
-Windows                  2 hrs 58 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -360,7 +360,7 @@ C                        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2026 18:29:40 UTC
+ Last Updated on 17/08/2026 18:40:07 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
