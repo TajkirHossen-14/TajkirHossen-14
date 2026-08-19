@@ -295,7 +295,7 @@ A comprehensive tournament management system for **esports events**. Handles tea
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-79%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-79%20hrs%2039%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-26%20hrs%205%20mins-blue?style=flat)
 
@@ -326,19 +326,18 @@ Sunday                   202 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-HTML                     45 mins             ██████████████░░░░░░░░░░░   54.82 % 
-Markdown                 23 mins             ███████░░░░░░░░░░░░░░░░░░   28.94 % 
-CSS                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-JavaScript               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+HTML                     49 mins             ██████████████░░░░░░░░░░░   54.67 % 
+Markdown                 20 mins             ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
+CSS                      12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+JavaScript               7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
 
 🔥 Editors: 
-Antigravity IDE          47 mins             ██████████████░░░░░░░░░░░   57.41 % 
-VS Code                  28 mins             █████████░░░░░░░░░░░░░░░░   34.86 % 
-Trae                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+Antigravity IDE          42 mins             ████████████░░░░░░░░░░░░░   46.50 % 
+VS Code                  42 mins             ████████████░░░░░░░░░░░░░   46.46 % 
+Trae                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
 
 💻 Operating System: 
-Windows                  1 hr 22 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 31 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -360,7 +359,7 @@ C                        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 18/08/2026 18:39:23 UTC
+ Last Updated on 19/08/2026 18:36:15 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
