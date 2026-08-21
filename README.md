@@ -295,28 +295,28 @@ A comprehensive tournament management system for **esports events**. Handles tea
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-79%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-79%20hrs%2043%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-26%20hrs%205%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                65 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-🌆 Daytime                375 commits         ███████░░░░░░░░░░░░░░░░░░   26.61 % 
-🌃 Evening                259 commits         █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
-🌙 Night                  710 commits         █████████████░░░░░░░░░░░░   50.39 % 
+🌞 Morning                65 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+🌆 Daytime                381 commits         ███████░░░░░░░░░░░░░░░░░░   26.93 % 
+🌃 Evening                259 commits         █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
+🌙 Night                  710 commits         █████████████░░░░░░░░░░░░   50.18 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   122 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-Tuesday                  191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-Wednesday                227 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-Thursday                 199 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Friday                   173 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-Saturday                 295 commits         █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
-Sunday                   202 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+Monday                   122 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Tuesday                  191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Wednesday                227 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+Thursday                 199 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+Friday                   179 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+Saturday                 295 commits         █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
+Sunday                   202 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
 ```
 
 
@@ -326,18 +326,18 @@ Sunday                   202 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-HTML                     49 mins             ██████████████░░░░░░░░░░░   54.67 % 
-Markdown                 20 mins             ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
-CSS                      12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-JavaScript               7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+HTML                     36 mins             ██████████████░░░░░░░░░░░   57.80 % 
+JavaScript               11 mins             █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+CSS                      8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Markdown                 6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
 
 🔥 Editors: 
-Antigravity IDE          42 mins             ████████████░░░░░░░░░░░░░   46.50 % 
-VS Code                  42 mins             ████████████░░░░░░░░░░░░░   46.46 % 
-Trae                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+VS Code                  32 mins             █████████████░░░░░░░░░░░░   51.64 % 
+Antigravity IDE          19 mins             ████████░░░░░░░░░░░░░░░░░   31.13 % 
+Trae                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
 
 💻 Operating System: 
-Windows                  1 hr 31 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 2 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -359,7 +359,7 @@ C                        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2026 18:39:55 UTC
+ Last Updated on 21/08/2026 11:58:59 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
