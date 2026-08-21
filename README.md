@@ -96,7 +96,7 @@
 <!--<a href="https://obsidian.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/960px-2023_Obsidian_logo.svg.png" width="35"/></a> &nbsp;-->
 <!-- 𝐃𝐞𝐬𝐢𝐠𝐧 & 𝐎𝐭𝐡𝐞𝐫 --> 
 <img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/07/icon_9n1jf2U.png" width="35"/> 
-<a href="https://www.canva.com"><img src="https://1000logos.net/wp-content/uploads/2020/03/Canva-icon.png" width="54"/></a>
+<a href="https://www.canva.com"><img src="https://1000logos.net/wp-content/uploads/2020/03/Canva-icon.png" width="54"/></a> &nbsp;
 <!-- 𝐒𝐢𝐦𝐮𝐥𝐚𝐭𝐢𝐨𝐧 -->
 <a href="https://www.tinkercad.com/users/7ijMTVWPm9F?type=circuits"><img src="https://github.com/TajkirHossen-14/TajkirHossen-14/blob/4e7a716026b64897f6ff90b046c1c8558d388a97/Assets/Icons/Tinkercad_Logo.jpg" width="35"/></a>
 
