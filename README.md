@@ -295,7 +295,7 @@ A comprehensive tournament management system for **esports events**. Handles tea
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-79%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%2014%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-26%20hrs%205%20mins-blue?style=flat)
 
@@ -326,15 +326,16 @@ Sunday                   202 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-HTML                     36 mins             ██████████████░░░░░░░░░░░   57.80 % 
-JavaScript               11 mins             █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+JavaScript               18 mins             ███████░░░░░░░░░░░░░░░░░░   29.78 % 
+Markdown                 17 mins             ███████░░░░░░░░░░░░░░░░░░   28.50 % 
+HTML                     17 mins             ███████░░░░░░░░░░░░░░░░░░   27.42 % 
 CSS                      8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-Markdown                 6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 🔥 Editors: 
-VS Code                  32 mins             █████████████░░░░░░░░░░░░   51.64 % 
-Antigravity IDE          19 mins             ████████░░░░░░░░░░░░░░░░░   31.13 % 
-Trae                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+VS Code                  41 mins             █████████████████░░░░░░░░   66.84 % 
+Trae                     14 mins             ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
+Antigravity IDE          6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
 
 💻 Operating System: 
 Windows                  1 hr 2 mins         █████████████████████████   100.00 % 
@@ -359,7 +360,7 @@ C                        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2026 18:37:26 UTC
+ Last Updated on 22/08/2026 15:09:21 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
