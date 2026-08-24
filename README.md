@@ -326,19 +326,19 @@ Sunday                   202 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               18 mins             ████████░░░░░░░░░░░░░░░░░   31.39 % 
-Markdown                 17 mins             ████████░░░░░░░░░░░░░░░░░   30.04 % 
-HTML                     16 mins             ███████░░░░░░░░░░░░░░░░░░   27.01 % 
-CSS                      6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+JavaScript               18 mins             ████████░░░░░░░░░░░░░░░░░   32.80 % 
+Markdown                 17 mins             ████████░░░░░░░░░░░░░░░░░   30.65 % 
+HTML                     13 mins             ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
+CSS                      6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 🔥 Editors: 
-VS Code                  41 mins             ██████████████████░░░░░░░   70.45 % 
-Trae                     14 mins             ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
-Antigravity IDE          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+VS Code                  41 mins             ██████████████████░░░░░░░   73.62 % 
+Trae                     14 mins             ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
+Antigravity IDE          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 💻 Operating System: 
-Windows                  59 mins             █████████████████████████   100.00 % 
+Windows                  56 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -360,7 +360,7 @@ C                        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2026 18:30:39 UTC
+ Last Updated on 24/08/2026 18:40:45 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
