@@ -148,37 +148,34 @@
 
 <!-- 𝐆𝐢𝐭𝐇𝐮𝐛  -->
 
+<div align="center">
+
 ## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Stats [Mirror].png" width="22" align="top"/> &nbsp; · GitHub Analytics · &nbsp; <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Stats.png" width="22" align="top"/> &nbsp;  
 
 <!-- 𝐒𝐭𝐫𝐞𝐚𝐤 & 𝐒𝐭𝐚𝐭𝐬 -->
 
 ### · &nbsp; Streak & Stats &nbsp; ·
 
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://yourinsights.vercel.app/api/insight?username=TajkirHossen-14&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false"/>
     <img src="https://yourinsights.vercel.app/api/insight?username=TajkirHossen-14&theme=github_light&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false"/>
   </picture>
-</div>
+
 
 <!--
 <a href="https://stardev.io/developers/TajkirHossen-14"><img alt="TajkirHossen-14's profile on stardev.io" src="https://stardev.io/developers/TajkirHossen-14/badge/languages/country.svg" /></a>
 -->
 
 <!-- 𝐆𝐢𝐭𝐅𝐮𝐭 -->
-
-<div align="center"> 
  
- ### · &nbsp; GitFut Card &nbsp; ·
+### · &nbsp; GitFut Card &nbsp; ·
 
 <a href="https://gitfut.com/TajkirHossen-14"><img src="https://gitfut.com/TajkirHossen-14.png" width=49%/></a>
 
-</div>
 
-<!-- 𝐆𝐢𝐭𝐇𝐮𝐛 𝐓𝐫𝐨𝐩𝐡𝐢𝐞𝐬 -->
-<div align="center"> 
+<!-- 𝐆𝐢𝐭𝐇𝐮𝐛 𝐓𝐫𝐨𝐩𝐡𝐢𝐞𝐬 --> 
  
- ### · &nbsp; GitHub Trophies &nbsp; ·
+### · &nbsp; GitHub Trophies &nbsp; ·
 
 <p align="center">
   <picture>
@@ -187,7 +184,6 @@
   </picture>
 </p>
 
-</div>
 
 <!--br-->
  
@@ -212,8 +208,6 @@
 
 <!-- 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐆𝐫𝐚𝐩𝐡 -->
 
-<div align="center">
-
 ### · &nbsp; Activity Graph &nbsp; ·
 
 <!--[![𝗧𝗮𝗷𝗸𝗶𝗿'𝘀 𝗚𝗶𝘁𝗵𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆 𝗚𝗿𝗮𝗽𝗵](https://github-readme-activity-graph.vercel.app/graph?username=TajkirHossen-14&theme=github-compact&height=500)](https://github.com/TajkirHossen-14)-->
@@ -227,11 +221,8 @@
   </a>
 </p>
 
-</div>
 
 <!-- 𝟑𝐃 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 -->
-
-<div align="center"> 
 
 ### · &nbsp; 3D Contributions &nbsp; ·
 
