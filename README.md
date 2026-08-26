@@ -27,6 +27,7 @@
 —·—
 
 <!-- 𝐒𝐨𝐜𝐢𝐚𝐥𝐬 -->  
+
 ## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Socials.png" width="26" align="top"/> &nbsp; · &nbsp; S​​ocials &nbsp; · &nbsp; <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Socials [Mirror].png" width="26" align="top"/>
 
 <a href="mailto:tajkirhossen.14@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Gmail_icon_%282026%29.svg/960px-Gmail_icon_%282026%29.svg.png" width="34"/></a> . <a href="https://facebook.com/tajkirhossen.14"><img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/facebook.svg" width="34"/></a> . <a href="https://instagram.com/_tajkir.hossen_"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/960px-Instagram_logo_2022.svg.png" width="34"/></a> . <a href="https://linkedin.com/in/kazi-tajkir-hossen"><img src="https://skillicons.dev/icons?i=linkedin" width="33"/></a> . <a href="https://discord.com/users/kth_14"><img src="https://skillicons.dev/icons?i=discord" width="33"/></a> . <a href="https://www.reddit.com/user/TajkirHossen/"><img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/1c7e14147bba6ccfa5ff20b51ed53b6d2093b7d2/Assets/Icons/Reddit_Logo.png" width="35"/></a> 
@@ -42,6 +43,7 @@
 -->
 
 <!-- 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤 --> 
+
 ## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Tech Stack.png" width="23" align="top"/> &nbsp; · &nbsp; Tech Stack &nbsp; · &nbsp; <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Tech Stack [Mirror].png" width="23" align="top"/>
 
 <!-- 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 -->
@@ -109,8 +111,10 @@
 
 <div align="center">
 –·–
- 
- ## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Featured Projects [Mirror].png" width="23" align="top"/>  &nbsp; Featured Projects &nbsp;  <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Featured Projects.png" width="23" align="top"/> &nbsp; 
+
+<!-- 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐝 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 -->
+
+## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Featured Projects [Mirror].png" width="23" align="top"/>  &nbsp; Featured Projects &nbsp;  <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Featured Projects.png" width="23" align="top"/> &nbsp; 
 
 </div>
 
@@ -138,38 +142,12 @@
 
 <div align="center"> –·–·– </div> 
 
-<div align="center">
 <!-- Line --> 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 
-<!--
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏠 [Smart Eco Home Manager](https://github.com/TajkirHossen-14/Smart_Eco_Home_Manager)
-A smart home management system focused on **energy efficiency** and eco-friendly living. Monitors and controls home appliances to reduce energy consumption and promote sustainable living.
-
-`Python` `HTML` `CSS`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎮 [Esports Tournament Management](https://github.com/TajkirHossen-14/Esports_Tournament_Management)
-A comprehensive tournament management system for **esports events**. Handles team registration, match scheduling, bracket generation, and real-time score tracking.
-
-`Python` `HTML` `CSS`
-
-</td>
-</tr>
-</table>
--->
-
-
 <!-- 𝐆𝐢𝐭𝐇𝐮𝐛  -->
+
 ## <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Stats [Mirror].png" width="22" align="top"/> &nbsp; · GitHub Analytics · &nbsp; <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/main/Assets/Icons/Stats.png" width="22" align="top"/> &nbsp;  
 
 <!-- 𝐒𝐭𝐫𝐞𝐚𝐤 & 𝐒𝐭𝐚𝐭𝐬 -->
@@ -235,8 +213,16 @@ A comprehensive tournament management system for **esports events**. Handles tea
 
 ### · &nbsp; Activity Graph &nbsp; ·
 
-[![𝗧𝗮𝗷𝗸𝗶𝗿'𝘀 𝗚𝗶𝘁𝗵𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆 𝗚𝗿𝗮𝗽𝗵](https://github-readme-activity-graph.vercel.app/graph?username=TajkirHossen-14&theme=github-compact&height=500)](https://github.com/TajkirHossen-14)
+<!--[![𝗧𝗮𝗷𝗸𝗶𝗿'𝘀 𝗚𝗶𝘁𝗵𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆 𝗚𝗿𝗮𝗽𝗵](https://github-readme-activity-graph.vercel.app/graph?username=TajkirHossen-14&theme=github-compact&height=500)](https://github.com/TajkirHossen-14)-->
 
+<p align="center">
+  <a href="https://github.com/TajkirHossen-14">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TajkirHossen-14&theme=github-compact&height=500"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=TajkirHossen-14&theme=github-light&height=500" alt="Tajkir's Github Activity Graph"/>
+    </picture>
+  </a>
+</p>
 
 <!-- 𝟑𝐃 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 -->
 
