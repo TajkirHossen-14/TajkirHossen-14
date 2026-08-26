@@ -173,6 +173,7 @@
 </div>
 <a href="https://gitfut.com/TajkirHossen-14"><img src="https://gitfut.com/TajkirHossen-14.png" width=49%/></a>
 
+</div>
 
 <!-- 𝐆𝐢𝐭𝐇𝐮𝐛 𝐓𝐫𝐨𝐩𝐡𝐢𝐞𝐬 -->
 <div align="center"> 
