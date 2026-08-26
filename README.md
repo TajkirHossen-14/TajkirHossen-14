@@ -166,11 +166,11 @@
 -->
 
 <!-- 𝐆𝐢𝐭𝐅𝐮𝐭 -->
+
 <div align="center"> 
  
  ### · &nbsp; GitFut Card &nbsp; ·
 
-</div>
 <a href="https://gitfut.com/TajkirHossen-14"><img src="https://gitfut.com/TajkirHossen-14.png" width=49%/></a>
 
 </div>
@@ -180,7 +180,6 @@
  
  ### · &nbsp; GitHub Trophies &nbsp; ·
 
-</div>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./Assets/trophy-dark.svg"/>
@@ -188,7 +187,8 @@
   </picture>
 </p>
 
- 
+</div>
+
 <!--br-->
  
 <!-- 𝐓𝐨𝐩 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 -->
@@ -212,6 +212,8 @@
 
 <!-- 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐆𝐫𝐚𝐩𝐡 -->
 
+<div align="center">
+
 ### · &nbsp; Activity Graph &nbsp; ·
 
 <!--[![𝗧𝗮𝗷𝗸𝗶𝗿'𝘀 𝗚𝗶𝘁𝗵𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆 𝗚𝗿𝗮𝗽𝗵](https://github-readme-activity-graph.vercel.app/graph?username=TajkirHossen-14&theme=github-compact&height=500)](https://github.com/TajkirHossen-14)-->
@@ -224,6 +226,8 @@
     </picture>
   </a>
 </p>
+
+</div>
 
 <!-- 𝟑𝐃 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 -->
 
@@ -246,6 +250,8 @@
 
 
 <!-- 𝐌𝐨𝐧𝐤𝐞𝐲𝐭𝐲𝐩𝐞 𝐒𝐭𝐚𝐭𝐬 -->
+
+<div align="center">
 
 ## <img src="https://github.com/TajkirHossen-14/TajkirHossen-14/blob/e92e2aaf1620195dbf4cd82b6a559c84cc1ccc98/Assets/Icons/Typing_Logo.png" width="27" align="top"/> · &nbsp; Typing Stats &nbsp; · <img src="https://github.com/TajkirHossen-14/TajkirHossen-14/blob/e92e2aaf1620195dbf4cd82b6a559c84cc1ccc98/Assets/Icons/Typing_Logo-%5BMirror%5D.png" width="27" align="top"/>
 
