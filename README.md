@@ -157,8 +157,8 @@
 ### · &nbsp; Streak & Stats &nbsp; ·
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://yourinsights.vercel.app/api/insight?username=TajkirHossen-14&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false"/>
-    <img src="https://yourinsights.vercel.app/api/insight?username=TajkirHossen-14&theme=github_light&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://yourinsights.vercel.app/api/insight?username=TajkirHossen-14&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=false&summary=false&profile=true"/>
+    <img src="https://yourinsights.vercel.app/api/insight?username=TajkirHossen-14&theme=github_light&graph=true&languages=true&streak=true&stats=true&header=false&summary=false&profile=true"/>
   </picture>
 
 
@@ -206,11 +206,11 @@
 </a>
 -->
 
-<!-- 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐆𝐫𝐚𝐩𝐡 -->
+<!-- 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐆𝐫𝐚𝐩𝐡 
 
 ### · &nbsp; Activity Graph &nbsp; ·
 
-<!--[![𝗧𝗮𝗷𝗸𝗶𝗿'𝘀 𝗚𝗶𝘁𝗵𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆 𝗚𝗿𝗮𝗽𝗵](https://github-readme-activity-graph.vercel.app/graph?username=TajkirHossen-14&theme=github-compact&height=500)](https://github.com/TajkirHossen-14)-->
+[![𝗧𝗮𝗷𝗸𝗶𝗿'𝘀 𝗚𝗶𝘁𝗵𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆 𝗚𝗿𝗮𝗽𝗵](https://github-readme-activity-graph.vercel.app/graph?username=TajkirHossen-14&theme=github-compact&height=500)](https://github.com/TajkirHossen-14)
 
 <p align="center">
   <a href="https://github.com/TajkirHossen-14">
@@ -219,8 +219,7 @@
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=TajkirHossen-14&theme=github-light&height=500" alt="Tajkir's Github Activity Graph"/>
     </picture>
   </a>
-</p>
-
+</p> -->
 
 <!-- 𝟑𝐃 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 -->
 
