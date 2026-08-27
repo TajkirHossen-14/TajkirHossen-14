@@ -196,7 +196,7 @@
 
 -->
 
-
+<!--
 <a href="https://github.com/TajkirHossen-14">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TajkirHossen-14&theme=github_dark"/>
@@ -204,7 +204,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TajkirHossen-14&theme=github"/>
   </picture>
 </a>
-
+-->
 
 <!-- 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐆𝐫𝐚𝐩𝐡 
 
