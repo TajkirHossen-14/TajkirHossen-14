@@ -88,6 +88,7 @@
 <!--<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Visual_Studio_Icon_2026.svg" width="32"/> &nbsp; 
 <a href="https://www.sublimetext.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Sublime-Dark.svg" width="35"/></a> &nbsp; -->
 <!-- 𝐓𝐨𝐨𝐥𝐬 & 𝐃𝐨𝐜𝐬 --> 
+<a href="https://www.atlassian.com/software/jira"><img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/jira-dark.svg" width="35"/></a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/word"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Microsoft_Office_Word_%282025%E2%80%93present%29.svg/960px-Microsoft_Office_Word_%282025%E2%80%93present%29.svg.png" width="32"/></a> &nbsp; 
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Microsoft_Office_Excel_%282025%E2%80%93present%29.svg/960px-Microsoft_Office_Excel_%282025%E2%80%93present%29.svg.png" width="32"/></a> &nbsp; 
 <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_PowerPoint_%282025%E2%80%93present%29.svg/960px-Microsoft_Office_PowerPoint_%282025%E2%80%93present%29.svg.png" width="35"/></a> &nbsp; 
