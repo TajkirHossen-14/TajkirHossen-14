@@ -279,28 +279,28 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%2025%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-26%20hrs%205%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                65 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
-🌆 Daytime                385 commits         ███████░░░░░░░░░░░░░░░░░░   26.98 % 
-🌃 Evening                267 commits         █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
-🌙 Night                  710 commits         ████████████░░░░░░░░░░░░░   49.75 % 
+🌞 Morning                67 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+🌆 Daytime                409 commits         ███████░░░░░░░░░░░░░░░░░░   26.94 % 
+🌃 Evening                272 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+🌙 Night                  770 commits         █████████████░░░░░░░░░░░░   50.72 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   122 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-Tuesday                  191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-Wednesday                231 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-Thursday                 199 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Friday                   187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
-Saturday                 295 commits         █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
-Sunday                   202 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Monday                   126 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+Tuesday                  194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Wednesday                240 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Thursday                 205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Friday                   205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Saturday                 327 commits         █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
+Sunday                   221 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
 ```
 
 
@@ -310,17 +310,13 @@ Sunday                   202 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Markdown                 13 mins             ██████████░░░░░░░░░░░░░░░   38.57 % 
-JavaScript               11 mins             ████████░░░░░░░░░░░░░░░░░   32.06 % 
-HTML                     9 mins              ███████░░░░░░░░░░░░░░░░░░   27.08 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+JavaScript               11 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  27 mins             ███████████████████░░░░░░   77.04 % 
-Trae                     8 mins              ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
+Trae                     11 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  35 mins             █████████████████████████   100.00 % 
+Windows                  11 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -332,17 +328,17 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               4 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Jupyter Notebook         2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+JavaScript               4 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
+Jupyter Notebook         2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
 
 
 
 
- Last Updated on 26/08/2026 19:47:39 UTC
+ Last Updated on 29/08/2026 20:30:50 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
