@@ -279,28 +279,28 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%2029%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-26%20hrs%205%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                67 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-🌆 Daytime                409 commits         ███████░░░░░░░░░░░░░░░░░░   26.91 % 
-🌃 Evening                272 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
-🌙 Night                  772 commits         █████████████░░░░░░░░░░░░   50.79 % 
+🌞 Morning                67 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+🌆 Daytime                410 commits         ███████░░░░░░░░░░░░░░░░░░   26.87 % 
+🌃 Evening                272 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+🌙 Night                  777 commits         █████████████░░░░░░░░░░░░   50.92 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   128 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-Tuesday                  194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-Wednesday                240 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Thursday                 205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Friday                   205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Saturday                 327 commits         █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
-Sunday                   221 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+Monday                   129 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+Tuesday                  199 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Wednesday                240 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+Thursday                 205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+Friday                   205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+Saturday                 327 commits         █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+Sunday                   221 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
 ```
 
 
@@ -310,13 +310,17 @@ Sunday                   221 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               11 mins             █████████████████████████   100.00 % 
+JavaScript               34 mins             ████████████████████████░   95.89 % 
+HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 🔥 Editors: 
-Trae                     11 mins             █████████████████████████   100.00 % 
+Trae                     22 mins             ████████████████░░░░░░░░░   64.25 % 
+WebStorm                 8 mins              ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
+VS Code                  4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
 
 💻 Operating System: 
-Windows                  11 mins             █████████████████████████   100.00 % 
+Windows                  35 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -338,7 +342,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2026 20:40:35 UTC
+ Last Updated on 31/08/2026 20:08:21 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
