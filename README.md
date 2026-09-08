@@ -287,19 +287,19 @@
 
 ```text
 🌞 Morning                67 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-🌆 Daytime                411 commits         ███████░░░░░░░░░░░░░░░░░░   26.58 % 
-🌃 Evening                276 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
-🌙 Night                  792 commits         █████████████░░░░░░░░░░░░   51.23 % 
+🌆 Daytime                412 commits         ███████░░░░░░░░░░░░░░░░░░   26.63 % 
+🌃 Evening                276 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+🌙 Night                  792 commits         █████████████░░░░░░░░░░░░   51.20 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday                   129 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
-Tuesday                  200 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Wednesday                244 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-Thursday                 211 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Friday                   210 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-Saturday                 331 commits         █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
+Tuesday                  201 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+Wednesday                244 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Thursday                 211 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Friday                   210 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Saturday                 331 commits         █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
 Sunday                   221 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 ```
 
@@ -310,38 +310,38 @@ Sunday                   221 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Markdown                 42 mins             █████████████░░░░░░░░░░░░   53.22 % 
-JavaScript               27 mins             █████████░░░░░░░░░░░░░░░░   34.69 % 
-HTML                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Markdown                 55 mins             █████████████░░░░░░░░░░░░   52.56 % 
+HTML                     41 mins             ██████████░░░░░░░░░░░░░░░   39.10 % 
+JavaScript               7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-Antigravity Desktop      29 mins             █████████░░░░░░░░░░░░░░░░   36.26 % 
-VS Code                  27 mins             █████████░░░░░░░░░░░░░░░░   34.71 % 
-WebStorm                 15 mins             █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
-Trae                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+Antigravity Desktop      1 hr 7 mins         ████████████████░░░░░░░░░   63.98 % 
+VS Code                  30 mins             ███████░░░░░░░░░░░░░░░░░░   28.52 % 
+Trae                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
 
 💻 Operating System: 
-Windows                  1 hr 20 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 45 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 42 mins (52.91%)
+⏱ AI Coding Time: 1 hr 27 mins (82.29%)
 
-✍️ 0 lines written by AI, 212 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 152 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 3 AI Sessions, 6 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 2,037 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📚 Verbose Prompter — average 1,664 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -358,7 +358,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2026 07:25:54 UTC
+ Last Updated on 08/09/2026 20:49:04 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
