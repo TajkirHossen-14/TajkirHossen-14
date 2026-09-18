@@ -398,7 +398,7 @@ Java                     1 repo              ██░░░░░░░░░�
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Programming%20is%20not%20about%20being%20the%20smartest%3B%20it%E2%80%99s%20about%20being%20patient%20enough%20to%20keep%20learning%20and%20consistent%20enough%20to%20never%20stop.">
   <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=Programming%20is%20not%20about%20being%20the%20smartest%3B%20it%E2%80%99s%20about%20being%20patient%20enough%20to%20keep%20learning%20and%20consistent%20enough%20to%20never%20stop.">
-  <img alt="Readme Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=Programming%20is%20not%20about%20being%20the%20smartest%3B%20it%E2%80%99s%20about%20being%20patient%20enough%20to%20keep%20learning%20and%20consistent%20enough%20to%20never%20stop.">
+  <img alt="Readme Quote" width="450" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=Programming%20is%20not%20about%20being%20the%20smartest%3B%20it%E2%80%99s%20about%20being%20patient%20enough%20to%20keep%20learning%20and%20consistent%20enough%20to%20never%20stop.">
 </picture>
 
 </div>
