@@ -95,7 +95,7 @@
 <a href="https://www.markdownguide.org"><img src="https://skillicons.dev/icons?i=markdown" width="35"/></a> &nbsp; 
 <a href="https://www.overleaf.com"><img src="https://images.ctfassets.net/nrgyaltdicpt/2fJT673XY7Jyx0hnloYH5u/e8ab3a07b40ed4b9c18756d7741ef4dc/overleaf-o-logo-primary.png" width="33"/></a> &nbsp;
 <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/latex-auto.svg" width="35"/> &nbsp; 
-<a href="https://www.atlassian.com/software/jira"><img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/jira-dark.svg" width="35"/></a>
+<a href="https://www.atlassian.com/software/jira"><img src="https://github.com/TajkirHossen-14/TajkirHossen-14/blob/70d1d97905691db4dc1f5966a46279b48139d0d2/Assets/Icons/Jira_Logo.png" width="35"/></a>
 <!--<a href="https://obsidian.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/960px-2023_Obsidian_logo.svg.png" width="35"/></a> &nbsp;-->
 <!-- 𝐒𝐢𝐦𝐮𝐥𝐚𝐭𝐢𝐨𝐧 -->
 <a href="https://www.tinkercad.com/users/7ijMTVWPm9F?type=circuits"><img src="https://github.com/TajkirHossen-14/TajkirHossen-14/blob/4e7a716026b64897f6ff90b046c1c8558d388a97/Assets/Icons/Tinkercad_Logo.jpg" width="35"/></a> &nbsp; 
