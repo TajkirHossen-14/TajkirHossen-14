@@ -374,15 +374,17 @@ Java                     1 repo              ██░░░░░░░░░�
 
 </div>
 
-<!-- 𝐐𝐮𝐨𝐭𝐞 
+
+<!-- 𝐐𝐮𝐨𝐭𝐞 -->
 <div align='center'>
  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Programming%20is%20not%20about%20being%20the%20smartest%3B%20it%E2%80%99s%20about%20being%20patient%20enough%20to%20keep%20learning%20and%20consistent%20enough%20to%20never%20stop.">
-  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=Programming%20is%20not%20about%20being%20the%20smartest%3B%20it%E2%80%99s%20about%20being%20patient%20enough%20to%20keep%20learning%20and%20consistent%20enough%20to%20never%20stop.">
-  <img alt="Readme Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=Programming%20is%20not%20about%20being%20the%20smartest%3B%20it%E2%80%99s%20about%20being%20patient%20enough%20to%20keep%20learning%20and%20consistent%20enough%20to%20never%20stop.">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/bfa3fdea8840a34d5d9b02724b6d3e754e2b9c86/Assets/Quote/Quote_Dark.png"/>
+    <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/bfa3fdea8840a34d5d9b02724b6d3e754e2b9c86/Assets/Quote/Quote_Light.png"/>
+  </picture>
+</p>
 
-</div> -->
+</div> 
 
 ![𝗙𝗼𝗼𝘁𝗲𝗿](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=85&section=footer)
