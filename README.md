@@ -128,6 +128,9 @@
 > ### ⌨️ [TypeVerse](https://github.com/TajkirHossen-14/TypeVerse)
 > A dual-audience typing speed test – clean practice for everyone, real code drills for developers.
 
+> ### 🔖 [MarkVault](https://github.com/TajkirHossen-14/MarkVault)
+> A private, local-first home for your bookmarks — no account, no server, no tracking.
+
 > ### 🔗 [LinkVerse](https://github.com/TajkirHossen-14/LinkVerse)
 > A free tool that shortens links and turns them into customizable QR codes and barcodes.
 
