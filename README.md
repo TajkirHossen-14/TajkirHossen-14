@@ -384,7 +384,7 @@ Java                     1 repo              ██░░░░░░░░░�
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/bfa3fdea8840a34d5d9b02724b6d3e754e2b9c86/Assets/Quote/Quote_Dark.png"/>
-    <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/bfa3fdea8840a34d5d9b02724b6d3e754e2b9c86/Assets/Quote/Quote_Light.png" width="550"/>
+    <img src="https://raw.githubusercontent.com/TajkirHossen-14/TajkirHossen-14/bfa3fdea8840a34d5d9b02724b6d3e754e2b9c86/Assets/Quote/Quote_Light.png" width="490"/>
   </picture>
 </p>
 
