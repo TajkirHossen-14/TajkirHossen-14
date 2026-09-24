@@ -282,9 +282,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%2057%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-27%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-28%20hrs%2012%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -313,26 +313,26 @@ Sunday                   244 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Markdown                 1 hr 37 mins        ██████████████░░░░░░░░░░░   56.75 % 
-HTML                     53 mins             ████████░░░░░░░░░░░░░░░░░   31.45 % 
-JavaScript               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-CSS                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Markdown                 1 hr 27 mins        ███████████████░░░░░░░░░░   60.49 % 
+HTML                     46 mins             ████████░░░░░░░░░░░░░░░░░   32.32 % 
+CSS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 
 🔥 Editors: 
-VS Code                  1 hr 47 mins        ████████████████░░░░░░░░░   62.70 % 
-Antigravity IDE          1 hr 3 mins         █████████░░░░░░░░░░░░░░░░   37.30 % 
+VS Code                  1 hr 47 mins        ██████████████████░░░░░░░   73.91 % 
+Antigravity IDE          37 mins             ███████░░░░░░░░░░░░░░░░░░   26.09 % 
 
 💻 Operating System: 
-Windows                  2 hrs 50 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 mins (15.29%)
+⏱ AI Coding Time: 26 mins (18.02%)
 
-✍️ 0 lines written by AI, 715 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 72 lines written by hand (0.0% AI-written)
 
 🔤 5,875 Input Tokens, 546 Output Tokens
 
@@ -363,7 +363,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2026 21:11:53 UTC
+ Last Updated on 24/09/2026 21:14:21 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
