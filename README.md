@@ -313,26 +313,26 @@ Sunday                   244 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Markdown                 1 hr 27 mins        ███████████████░░░░░░░░░░   60.49 % 
-HTML                     46 mins             ████████░░░░░░░░░░░░░░░░░   32.32 % 
-CSS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Markdown                 1 hr 5 mins         ██████████████░░░░░░░░░░░   57.48 % 
+HTML                     38 mins             █████████░░░░░░░░░░░░░░░░   34.07 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+CSS                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 
 🔥 Editors: 
-VS Code                  1 hr 47 mins        ██████████████████░░░░░░░   73.91 % 
-Antigravity IDE          37 mins             ███████░░░░░░░░░░░░░░░░░░   26.09 % 
+VS Code                  1 hr 24 mins        ██████████████████░░░░░░░   73.99 % 
+Antigravity IDE          29 mins             ███████░░░░░░░░░░░░░░░░░░   26.01 % 
 
 💻 Operating System: 
-Windows                  2 hrs 25 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 54 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 mins (18.02%)
+⏱ AI Coding Time: 26 mins (22.85%)
 
-✍️ 0 lines written by AI, 72 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 32 lines written by hand (0.0% AI-written)
 
 🔤 5,875 Input Tokens, 546 Output Tokens
 
@@ -363,7 +363,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 24/09/2026 21:14:21 UTC
+ Last Updated on 25/09/2026 21:11:55 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
