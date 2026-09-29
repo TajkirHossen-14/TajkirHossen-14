@@ -64,7 +64,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/React-Dark.svg"/>
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/React-Light.svg" width="35"/>
   </picture>
-</a> &nbsp;
+</a> 
 <img src="https://skillicons.dev/icons?i=django" width="35"/> &nbsp;
 <!-- 𝐇𝐨𝐬𝐭𝐢𝐧𝐠 & 𝐃𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭 --> 
 <a href="https://www.vercel.com"><img src="https://skillicons.dev/icons?i=vercel" width="35"/></a> &nbsp; 
