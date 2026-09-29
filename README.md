@@ -59,13 +59,13 @@
 <!-- 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 --> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/960px-HTML5_Badge.svg.png" width="34"/> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/960px-Official_CSS_Logo.svg.png" width="35"/> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/960px-JavaScript-logo.png" width="35"/> &nbsp; 
+<img src="https://skillicons.dev/icons?i=django" width="35"/>
 <a href="https://react.dev">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/React-Dark.svg"/>
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/React-Light.svg" width="35"/>
   </picture>
-</a> &nbsp;
-<img src="https://skillicons.dev/icons?i=django" width="35"/>
+</a>
 <!-- 𝐇𝐨𝐬𝐭𝐢𝐧𝐠 & 𝐃𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭 --> 
 <a href="https://www.vercel.com"><img src="https://skillicons.dev/icons?i=vercel" width="35"/></a> &nbsp; 
 <a href="https://www.netlify.com"><img src="https://images.icon-icons.com/2699/PNG/512/netlify_logo_icon_169923.png" width="33"/></a> &nbsp; 
