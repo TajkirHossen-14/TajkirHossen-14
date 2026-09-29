@@ -55,6 +55,7 @@
 <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" width="36"/></a> &nbsp; 
 <a href="https://www.postgresql.org"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Logo_PostgreSQL.png" width="33"/></a> &nbsp;
 <a href="https://www.sqlite.org"><img src="https://images.icon-icons.com/2699/PNG/512/sqlite_logo_icon_169724.png" width="33"/></a> &nbsp; 
+<a href="https://www.mongodb.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/MongoDB.svg" width="35"/></a>
 <!-- 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 --> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/960px-HTML5_Badge.svg.png" width="34"/> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/960px-Official_CSS_Logo.svg.png" width="35"/> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/960px-JavaScript-logo.png" width="35"/> &nbsp; 
