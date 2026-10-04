@@ -289,9 +289,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-92%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-92%20hrs%2047%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-30%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-30%20hrs%2040%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -320,46 +320,46 @@ Sunday                   245 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Markdown                 3 hrs 15 mins       ███████████████░░░░░░░░░░   61.11 % 
-JavaScript               1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
-HTML                     47 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Markdown                 1 hr 12 mins        █████████████░░░░░░░░░░░░   50.20 % 
+HTML                     38 mins             ███████░░░░░░░░░░░░░░░░░░   26.70 % 
+JavaScript               31 mins             █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-Antigravity IDE          4 hrs 31 mins       █████████████████████░░░░   84.79 % 
-VS Code                  40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Codex Vscode             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-Antigravity Desktop      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Antigravity IDE          1 hr 40 mins        █████████████████░░░░░░░░   69.47 % 
+VS Code                  31 mins             █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
+Antigravity Desktop      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Codex Vscode             5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
 
 💻 Operating System: 
-Windows                  5 hrs 20 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 8 mins (40.18%)
+⏱ AI Coding Time: 43 mins (30.43%)
 
-✍️ 194 lines written by AI, 292 lines written by hand (39.92% AI-written)
+✍️ 134 lines written by AI, 154 lines written by hand (46.53% AI-written)
 
-🔤 2,326,647 Input Tokens, 87,938 Output Tokens
+🔤 1,497,755 Input Tokens, 39,709 Output Tokens
 
-💵 $5.17 Estimated AI Cost This Week
+💵 $1.97 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 24 AI Prompts
+🧠 6 AI Sessions, 10 AI Prompts
 
-Antigravity-Desktop      134 lines           █████████████████░░░░░░░░   69.07 % 
-Gemini                   35 lines            █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
-Antigravity-Ide          22 lines            ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-Opus                     3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+Antigravity-Desktop      134 lines           █████████████████████████   100.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Antigravity-Ide          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 39.92% of written lines came from AI
-📚 Verbose Prompter — average 1,684 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 72.75% of changed lines were hand-edited
+⚖️ Balanced with AI — 46.53% of written lines came from AI
+📚 Verbose Prompter — average 3,143 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 71.73% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -375,7 +375,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2026 20:41:34 UTC
+ Last Updated on 04/10/2026 20:57:04 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
