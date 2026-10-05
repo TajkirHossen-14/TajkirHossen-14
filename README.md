@@ -66,7 +66,7 @@
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/React-Light.svg" width="35"/>
   </picture>
 </a> &nbsp; 
-<a href="https://vitejs.dev"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Vite_Logo_2026.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="35"/></a>
+<a href="https://vitejs.dev"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/960px-Vitejs-logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="35"/></a>
 <!-- 𝐇𝐨𝐬𝐭𝐢𝐧𝐠 & 𝐃𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭 --> 
 <a href="https://www.vercel.com"><img src="https://skillicons.dev/icons?i=vercel" width="35"/></a> &nbsp; 
 <a href="https://www.netlify.com"><img src="https://images.icon-icons.com/2699/PNG/512/netlify_logo_icon_169923.png" width="33"/></a> &nbsp; 
