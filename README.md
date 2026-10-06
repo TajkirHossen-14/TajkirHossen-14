@@ -295,20 +295,20 @@
 
 ```text
 🌞 Morning                74 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-🌆 Daytime                425 commits         ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
-🌃 Evening                286 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-🌙 Night                  931 commits         ██████████████░░░░░░░░░░░   54.25 % 
+🌆 Daytime                425 commits         ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
+🌃 Evening                286 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+🌙 Night                  932 commits         ██████████████░░░░░░░░░░░   54.28 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday                   172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
 Tuesday                  212 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-Wednesday                260 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Thursday                 223 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-Friday                   244 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-Saturday                 360 commits         █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
-Sunday                   245 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Wednesday                261 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+Thursday                 223 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+Friday                   244 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Saturday                 360 commits         █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
+Sunday                   245 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
 ```
 
 
@@ -318,28 +318,28 @@ Sunday                   245 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Markdown                 47 mins             ████████████░░░░░░░░░░░░░   46.36 % 
-HTML                     33 mins             ████████░░░░░░░░░░░░░░░░░   33.00 % 
-JavaScript               19 mins             █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+HTML                     33 mins             ██████████████░░░░░░░░░░░   54.21 % 
+JavaScript               15 mins             ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
+Markdown                 11 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🔥 Editors: 
-Antigravity IDE          58 mins             ██████████████░░░░░░░░░░░   57.00 % 
-VS Code                  31 mins             ████████░░░░░░░░░░░░░░░░░   30.67 % 
-Antigravity Desktop      7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-Codex Vscode             5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+VS Code                  31 mins             █████████████░░░░░░░░░░░░   50.39 % 
+Antigravity IDE          18 mins             ███████░░░░░░░░░░░░░░░░░░   29.37 % 
+Antigravity Desktop      7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Codex Vscode             5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
 
 💻 Operating System: 
-Windows                  1 hr 42 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 2 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 mins (42.86%)
+⏱ AI Coding Time: 43 mins (70.4%)
 
-✍️ 134 lines written by AI, 7 lines written by hand (95.04% AI-written)
+✍️ 134 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 1,497,755 Input Tokens, 39,709 Output Tokens
 
@@ -354,10 +354,10 @@ Antigravity-Ide          0 lines             ░░░░░░░░░░░�
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.04% of written lines came from AI
+🤖 AI-Driven — 100.0% of written lines came from AI
 📚 Verbose Prompter — average 3,143 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 57.99% of changed lines were hand-edited
+🚀 High AI Trust — 1.47% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -373,7 +373,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 05/10/2026 23:49:38 UTC
+ Last Updated on 06/10/2026 22:25:40 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
