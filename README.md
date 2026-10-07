@@ -318,44 +318,40 @@ Sunday                   245 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-HTML                     33 mins             ██████████████░░░░░░░░░░░   54.21 % 
-JavaScript               15 mins             ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
-Markdown                 11 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+HTML                     26 mins             ████████████████░░░░░░░░░   64.26 % 
+Markdown                 9 mins              ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
+JavaScript               4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
 
 🔥 Editors: 
-VS Code                  31 mins             █████████████░░░░░░░░░░░░   50.39 % 
-Antigravity IDE          18 mins             ███████░░░░░░░░░░░░░░░░░░   29.37 % 
-Antigravity Desktop      7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-Codex Vscode             5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+VS Code                  31 mins             ███████████████████░░░░░░   77.28 % 
+Antigravity Desktop      6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Antigravity IDE          3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
 
 💻 Operating System: 
-Windows                  1 hr 2 mins         █████████████████████████   100.00 % 
+Windows                  40 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 mins (70.4%)
+⏱ AI Coding Time: 24 mins (60.37%)
 
 ✍️ 134 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,497,755 Input Tokens, 39,709 Output Tokens
+🔤 58,007 Input Tokens, 3,075 Output Tokens
 
-💵 $1.97 Estimated AI Cost This Week
+💵 $0.60 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 10 AI Prompts
+🧠 3 AI Sessions, 6 AI Prompts
 
 Antigravity-Desktop      134 lines           █████████████████████████   100.00 % 
-Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Antigravity-Ide          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 3,143 characters per prompt
+📚 Verbose Prompter — average 2,365 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 1.47% of changed lines were hand-edited
 ```
@@ -373,7 +369,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 22:25:40 UTC
+ Last Updated on 07/10/2026 22:50:31 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
