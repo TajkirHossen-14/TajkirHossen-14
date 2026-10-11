@@ -287,9 +287,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-92%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-93%20hrs%2033%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-30%20hrs%2040%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-30%20hrs%2054%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -318,21 +318,22 @@ Sunday                   245 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               45 mins             █████████████████████████   100.00 % 
+JavaScript               46 mins             █████████████████████████   98.03 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 
 🔥 Editors: 
-Antigravity IDE          31 mins             █████████████████░░░░░░░░   69.90 % 
-VS Code                  6 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Antigravity Desktop      6 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+Antigravity IDE          33 mins             ██████████████████░░░░░░░   71.06 % 
+VS Code                  6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Antigravity Desktop      6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
 
 💻 Operating System: 
-Windows                  45 mins             █████████████████████████   100.00 % 
+Windows                  47 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 mins (30.1%)
+⏱ AI Coding Time: 13 mins (28.94%)
 
 ✍️ 1,187 lines written by AI, 154 lines written by hand (88.52% AI-written)
 
@@ -352,7 +353,7 @@ M                        0 lines             ░░░░░░░░░░░�
 🤖 AI-Driven — 88.52% of written lines came from AI
 📚 Verbose Prompter — average 3,527 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 11.81% of changed lines were hand-edited
+🚀 High AI Trust — 11.94% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -368,7 +369,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 10/10/2026 21:16:11 UTC
+ Last Updated on 11/10/2026 21:36:07 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
