@@ -63,6 +63,7 @@
 <a href="https://react.dev"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/React-Dark.svg" width="35"/></a> &nbsp; 
 <a href="https://vitejs.dev"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/960px-Vitejs-logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="35"/></a> &nbsp; 
 <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" width="35"/></a> &nbsp;
+<a href="https://www.npmjs.com"><img src="https://skillicons.dev/icons?i=npm" width="35"/></a> &nbsp;
 <a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express" width="35"/></a> 
 <!-- 𝐇𝐨𝐬𝐭𝐢𝐧𝐠 & 𝐃𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭 --> 
 <a href="https://www.vercel.com"><img src="https://skillicons.dev/icons?i=vercel" width="35"/></a> &nbsp; 
