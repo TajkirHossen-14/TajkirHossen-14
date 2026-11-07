@@ -134,6 +134,9 @@
 > ### ⌨️ [TypeVerse](https://github.com/TajkirHossen-14/TypeVerse)
 > A dual-audience typing speed test – clean practice for everyone, real code drills for developers.
 
+> ### ✍️ [Bornotoron](https://github.com/TajkirHossen-14/Bornotoron)
+> Type in Banglish, see Bangla instantly – a private, browser-only phonetic writing tool with a built-in spelling dictionary.
+
 > ### 🔖 [MarkVault](https://github.com/TajkirHossen-14/MarkVault)
 > A private, local-first home for your bookmarks – no account, no server, no tracking.
 
