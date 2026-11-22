@@ -126,6 +126,122 @@
 
 </div>
 
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🍛 <a href="https://github.com/TajkirHossen-14/Ahaar_Bonton">AhaarBonton</a></h3>
+A surplus food redistribution platform connecting donors, NGOs and volunteers to reduce food waste.
+<br><br>
+<ul>
+<li>Donor → NGO → Volunteer flow, with food sorted by expiry urgency</li>
+<li>Dual OTP verification so every pickup and delivery is confirmed</li>
+<li>Live food map and heatmap, trust scores and community leaderboard</li>
+</ul>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
+</td>
+<td width="50%" valign="top">
+<h3>🧮 <a href="https://github.com/TajkirHossen-14/CalcSuite">CalcSuite</a></h3>
+50+ calculators and converters in one clean, modern interface.
+<br><br>
+<ul>
+<li>Live results as you type, swap button for two-way conversions</li>
+<li>Live currency rates, history and favorites</li>
+<li>Dark/Light theme, installable offline PWA</li>
+</ul>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/Service_Worker-6e7681?style=flat-square" alt="Service Worker"/> <img src="https://img.shields.io/badge/Web_Audio_API-6e7681?style=flat-square" alt="Web Audio API"/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>⌨️ <a href="https://github.com/TajkirHossen-14/TypeVerse">TypeVerse</a></h3>
+A dual-audience typing speed test, clean practice for everyone and real code drills for developers.
+<br><br>
+<ul>
+<li>Code drills across 12 programming languages</li>
+<li>Live WPM graph, keyboard heatmap, leaderboard</li>
+<li>Rage, Zen and Sudden Death modes</li>
+</ul>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/Canvas_API-6e7681?style=flat-square" alt="Canvas API"/> <img src="https://img.shields.io/badge/Web_Audio_API-6e7681?style=flat-square" alt="Web Audio API"/>
+</td>
+<td width="50%" valign="top">
+<h3>✍🏼 <a href="https://github.com/TajkirHossen-14/Bornotoron">Bornotoron</a></h3>
+Type in Banglish, see Bangla instantly, a private, browser-only phonetic writing tool.
+<br><br>
+<ul>
+<li>4100+ word spelling dictionary with phonetic fallback</li>
+<li>Homophone choices (bon → বন / বোন) and learned corrections</li>
+<li>Copy, download as .txt, history and drafts, all local</li>
+</ul>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/localStorage-6e7681?style=flat-square" alt="localStorage"/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🔖 <a href="https://github.com/TajkirHossen-14/MarkVault">MarkVault</a></h3>
+A private, local-first home for your bookmarks, no account, no server, no tracking.
+<br><br>
+<ul>
+<li>Folders, tags, favorites, smart views and Trash</li>
+<li>Fuzzy search, command palette, keyboard shortcuts</li>
+<li>Import/export (HTML, JSON, CSV), offline PWA</li>
+</ul>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/Web_Components-6e7681?style=flat-square" alt="Web Components"/> <img src="https://img.shields.io/badge/IndexedDB-6e7681?style=flat-square" alt="IndexedDB"/> <img src="https://img.shields.io/badge/Service_Worker-6e7681?style=flat-square" alt="Service Worker"/>
+</td>
+<td width="50%" valign="top">
+<h3>🔗 <a href="https://github.com/TajkirHossen-14/LinkVerse">LinkVerse</a></h3>
+A free tool that shortens links and turns them into customizable QR codes and barcodes.
+<br><br>
+<ul>
+<li>Link shortener with custom alias (TinyURL + is.gd fallback)</li>
+<li>Styled QR codes (colors, gradients, logo), export PNG/SVG/PDF</li>
+<li>7 barcode formats, QR decode, batch generation as ZIP</li>
+</ul>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/qr--code--styling-6e7681?style=flat-square" alt="qr-code-styling"/> <img src="https://img.shields.io/badge/JsBarcode-6e7681?style=flat-square" alt="JsBarcode"/> <img src="https://img.shields.io/badge/jsPDF-6e7681?style=flat-square" alt="jsPDF"/> <img src="https://img.shields.io/badge/TinyURL_API-6e7681?style=flat-square" alt="TinyURL API"/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🎨 <a href="https://github.com/TajkirHossen-14/PixelPalette">PixelPalette</a></h3>
+A color picker and palette generator with live harmonies, gradients and contrast checking.
+<br><br>
+<ul>
+<li>EyeDropper picker, copy as HEX / RGB / RGBA / HSL</li>
+<li>Complementary, triadic, analogous palettes and a gradient generator</li>
+<li>WCAG AA/AAA contrast checker, export as PNG / CSS / JSON, share via URL</li>
+</ul>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/Canvas_API-6e7681?style=flat-square" alt="Canvas API"/> <img src="https://img.shields.io/badge/EyeDropper_API-6e7681?style=flat-square" alt="EyeDropper API"/>
+</td>
+<td width="50%" valign="top">
+<h3>🏠 <a href="https://github.com/TajkirHossen-14/Smart_Eco_Home_Manager">Smart Eco Home Manager</a></h3>
+A Java console application simulating a smart, energy-efficient, eco-friendly home.
+<br><br>
+<ul>
+<li>Rooms and appliances with ON/OFF control and live energy usage</li>
+<li>Water monitoring and green energy simulation</li>
+<li>Temperature advisor and report saved to a file</li>
+</ul>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/OOP-6e7681?style=flat-square" alt="OOP"/> <img src="https://img.shields.io/badge/Console_UI-6e7681?style=flat-square" alt="Console UI"/> <img src="https://img.shields.io/badge/File_Handling-6e7681?style=flat-square" alt="File Handling"/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🎮 <a href="https://github.com/TajkirHossen-14/Esports_Tournament_Management">Esports Tournament Management</a></h3>
+A MySQL database for managing esports tournaments, teams, matches and results.
+<br><br>
+<ul>
+<li>6 relational tables with foreign keys, CHECK and ENUM constraints</li>
+<li>Sample data: 20 games, 30 players, 20 teams, 40 matches</li>
+<li>24 queries: joins, GROUP BY/HAVING, subqueries, CASE WHEN</li>
+</ul>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/SQL-6e7681?style=flat-square" alt="SQL"/> <img src="https://img.shields.io/badge/DBMS-6e7681?style=flat-square" alt="DBMS"/>
+</td>
+<td width="50%"></td>
+</tr>
+</table>
+
+
+
+<!--
 > ### 🍛 [AhaarBonton](https://github.com/TajkirHossen-14/Ahaar_Bonton)  
 > A surplus food redistribution platform connecting donors, NGOs and volunteers to reduce food waste.
 
@@ -152,7 +268,7 @@
 
 > ### 🎮 [Esports Tournament Management](https://github.com/TajkirHossen-14/Esports_Tournament_Management)  
 > A tournament management system for esports events with team and match tracking.
-
+-->
 
 <div align="center"> –·–·– </div> 
 
