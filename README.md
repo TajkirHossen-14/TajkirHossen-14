@@ -75,7 +75,7 @@
 <!-- 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐂𝐨𝐧𝐭𝐫𝐨𝐥 --> 
 <a href="https://git-scm.com"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="34"/></a> &nbsp; 
 <a href="https://github.com/TajkirHossen-14"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/960px-Github-desktop-logo-symbol.svg.png" width="40"/></a> &nbsp; 
-<a href="https://gitlab.com/TajkirHossen-14"><img src="https://github.com/TajkirHossen-14/TajkirHossen-14/blob/main/Assets/Icons/GitLab_Logo.png" width="50"/></a> 
+<a href="https://gitlab.com/TajkirHossen-14"><img src="https://github.com/TajkirHossen-14/TajkirHossen-14/blob/main/Assets/Icons/GitLab_Logo.png" width="34"/></a> 
 <!-- 𝐈𝐃𝐄𝐬 & 𝐄𝐝𝐢𝐭𝐨𝐫𝐬 --> 
 <img src="https://upload.wikimedia.org/wikipedia/fr/0/01/Codeblocks_logo1.png" width="37"/> &nbsp; 
 <a href="https://eclipseide.org"><img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" width="34"/></a> &nbsp; 
